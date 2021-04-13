@@ -1,4 +1,3 @@
-
 '''
 Abgleich übersetzte DEL-Liste mit Begriffen aus der Annotation der Sekundärliteratur
 '''
@@ -10,7 +9,7 @@ import pandas as pd
 import re
 
 # == Files and folders ==
-vocab_file = "DEL_übersetzt.csv"
+vocab_file = "terms.csv"
 
 
 def load_file(vocab_file):
