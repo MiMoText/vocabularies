@@ -388,11 +388,11 @@ Ville et développement urbain 	ville	Q7930989	https://www.wikidata.org/wiki/Q79
 Volcan 	volcan	Q8072	https://www.wikidata.org/wiki/Q8072	volcan	volcano
 Voyages et voyageurs 		Q61509	https://www.wikidata.org/wiki/Q61509	voyage	travel
 Zoologie		Q431	https://www.wikidata.org/wiki/Q431	zoologie	zoology
-Fortune					
-Monarchie					
-Relation amoureuse					
-Sentiment					
-Locus amoenus					
-Religion					
-Art					
-Enfance					
+Fortune		Q200535	https://www.wikidata.org/wiki/Q200535	wealth	richesse
+Monarchie		Q7269	https://www.wikidata.org/wiki/Q7269	monarchy	monarchie
+Relation amoureuse		Q1189047	https://www.wikidata.org/wiki/Q1189047	romantic love	relation amoureuse 
+Sentiment		Q205555	https://www.wikidata.org/wiki/Q205555	feeling	sentiment
+Locus amoenus		Q739317	https://www.wikidata.org/wiki/Q739317	Locus amoenus 	Locus amoenus 
+Religion		Q9174	https://www.wikidata.org/wiki/Q9174	religion	religion
+Art		Q735	https://www.wikidata.org/wiki/Q735	art	art
+Enfance		Q276258	https://www.wikidata.org/wiki/Q276258	childhood 	enfance
