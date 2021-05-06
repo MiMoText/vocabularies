@@ -2,7 +2,7 @@ MiMoText Label (fr)	MiMoText Label (en)	MiMoText Label (de)	Wikidata Ids (zu DEL
 (art) gothique 	Gothic (art)	Gotik	Q46825	https://www.wikidata.org/wiki/Q46825	(Art) gothique	Gothic (art)	Gotik	DEL
 absolutisme éclairé	enlightened absolutism	aufgeklärter Absolutismus	Q219934	https://www.wikidata.org/wiki/Q219934	despotisme éclairé	enlightened absolutism	aufgeklärter Absolutismus	DEL
 abus de mots	malapropism	Malapropismus	Q1057682	https://www.wikidata.org/wiki/Q1057682	abus de langage	malapropism	Malapropismus	DEL
-académie	acadamy	Akademie	Q162633	https://www.wikidata.org/wiki/Q162633	académie	acadamy	Akademie	DEL
+académie	academy	Akademie	Q162633	https://www.wikidata.org/wiki/Q162633	académie	acadamy	Akademie	DEL
 accouchement	childbirth	Geburt	Q34581	https://www.wikidata.org/wiki/Q34581	accouchement	childbirth	Geburt	DEL
 acoustique	acoustics	Akustik	Q82811	https://www.wikidata.org/wiki/Q82811	acoustique	acoustics	Akustik	DEL
 administration	administration	Verwaltung	Q3754526	https://www.wikidata.org/wiki/Q3754526	administration	administration		DEL
@@ -14,7 +14,7 @@ algèbre	algebra	Algebra	Q3968	https://www.wikidata.org/wiki/Q3968	algèbre	alge
 alimentation	aliment	Nahrung	Q213449	https://www.wikidata.org/wiki/Q213449	alimentation	eating	Essen	DEL
 allégorie	allegory	Allegorie	Q18535	https://www.wikidata.org/wiki/Q18535	allégorie	allegory	Allegorie	DEL
 Allemagne	Germany	Deutschland	Q183	https://www.wikidata.org/wiki/Q183	Allemagne	Germany	Deutschland	DEL
-Allemagnes et Saint-Empire	Holy Roman Empire	Heiliges Römisches Reich	Q12548	https://www.wikidata.org/wiki/Q12548	Saint-Empire romain germanique	Holy Roman Empire	Heiliges Römisches Reich	DEL
+Saint-Empire romain germanique 	Holy Roman Empire	Heiliges Römisches Reich	Q12548	https://www.wikidata.org/wiki/Q12548	Saint-Empire romain germanique	Holy Roman Empire	Heiliges Römisches Reich	DEL
 Amérique du Nord	North America	Nordamerika	Q49	https://www.wikidata.org/wiki/Q49	Amériquee du Nord	North America	Nordamerika	DEL
 Amérique latine	Latin America	Lateinamerika	Q12585	https://www.wikidata.org/wiki/Q12585	Amérique latine	Latin America	Lateinamerika	DEL
 amour	love	Liebe	Q316	https://www.wikidata.org/wiki/Q316	amour	love	Liebe	DEL
@@ -85,7 +85,7 @@ conversation 	conversation	Konversation	Q52943	https://www.wikidata.org/wiki/Q52
 corporation	corporation	Zunft	Q170161	https://www.wikidata.org/wiki/Q170161	guild	corporation	Zunft	DEL
 corps 	body	Körper	Q170494	https://www.wikidata.org/wiki/Q170494	corps	body	Körper	DEL
 correspondance 	correspondence	Korrespondenz	Q1784733	https://www.wikidata.org/wiki/Q1784733	correspondance	correspondence	Korrespondenz	DEL
-correspondance littéraire		Briefliteratur	Q2250271	https://www.wikidata.org/wiki/Q2250271	Correspondance littéraire	Correspondance littéraire	Briefliteratur	DEL
+correspondance littéraire	epistolary novel 	Briefroman 	Q2250271	https://www.wikidata.org/wiki/Q2250271	Correspondance littéraire	Correspondance littéraire	Briefliteratur	DEL
 cosmopolitisme 	cosmopolitanism	Kosmopolitismus	Q188843	https://www.wikidata.org/wiki/Q188843	Cosmopolitisme 	cosmopolitanism	Kosmopolitismus	DEL
 couleur 	color	Farbe	Q1075	https://www.wikidata.org/wiki/Q1075	couleur	color	Farbe	DEL
 cour 	court	Hof	Q1134237	https://www.wikidata.org/wiki/Q1134237	cour	court	Hofstaat	DEL
@@ -135,9 +135,9 @@ esthétique 	aesthetics	Ästhetik	Q35986	https://www.wikidata.org/wiki/Q35986	es
 Europe 	europe	Europa	Q46	https://www.wikidata.org/wiki/Q46	europe	europe	Europa	DEL
 fable 	fable	Fabel	Q693	https://www.wikidata.org/wiki/Q693	fable	fable	Fabel	DEL
 famille 	family	Familie	Q8436	https://www.wikidata.org/wiki/Q8436	famille	family	Familie	DEL
-fanatisme 	fanatacism	Fanatismus	Q489750	https://www.wikidata.org/wiki/Q489750	fanatisme	fanatacism	Fanatismus	DEL
+fanatisme 	fanaticism 	Fanatismus	Q489750	https://www.wikidata.org/wiki/Q489750	fanatisme	fanatacism	Fanatismus	DEL
 féminisme 	feminism	Feminismus	Q7252	https://www.wikidata.org/wiki/Q7252	féminisme 	feminism	Feminismus	DEL
-femme de lettres	woman of letters		Q381353	https://www.wikidata.org/wiki/Q381353	femme de lettres 	woman of letters	Briefkorrespondentin	DEL
+femme de lettres	woman of letters	Schriftstellerinnen	Q381353	https://www.wikidata.org/wiki/Q381353	femme de lettres 	woman of letters	Briefkorrespondentin	DEL
 féodalité	feudalism	Feudalismus	Q37739	https://www.wikidata.org/wiki/Q37739	féodalité	feudalism	Feudalismus	DEL
 fête 	party	Fest	Q200538	https://www.wikidata.org/wiki/Q200538	fête 	party	Fest	DEL
 finance	finance	Finanzwesen	Q43015	https://www.wikidata.org/wiki/Q43015	Finance	finance	Finanzen	DEL
@@ -190,7 +190,7 @@ langue 	language	Sparche	Q34770	https://www.wikidata.org/wiki/Q34770	langue 	lan
 lecture	lecture	Lesen	Q199657	https://www.wikidata.org/wiki/Q199657	lecture	lecture	Lesen	DEL
 libéralisme 	liberalism	Liberalismus	Q6216	https://www.wikidata.org/wiki/Q6216	Libéralisme classique	Classic liberalism	Liberalismus	DEL
 liberté	liberty	Freiheit	Q2979	https://www.wikidata.org/wiki/Q2979	liberté	liberty	Freiheit	DEL
-libertinage	libertinsime	Libertinismus	Q18915146	https://www.wikidata.org/wiki/Q18915146	libertinage	libertinsime	Libertinismus	DEL
+libertinage	libertinism 	Libertinismus	Q18915146	https://www.wikidata.org/wiki/Q18915146	libertinage	libertinsime	Libertinismus	DEL
 littérature clandestine 	Clandestine literature	Klandestine Literatur	Q3821764	https://www.wikidata.org/wiki/Q3821764	Littérature clandestine 	Clandestine literature		DEL
 livre	book	Buch	Q571	https://www.wikidata.org/wiki/Q571	livre	Book	Buch	DEL
 Locus amoenus	Locus amoenus	Locus amoenus	Q739317	https://www.wikidata.org/wiki/Q739317	Locus amoenus 	Locus amoenus 	Locus amoenus	Topic Modeling
