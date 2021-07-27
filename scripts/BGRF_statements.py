@@ -19,12 +19,11 @@ import pandas as pd
 # Files and folders
 # =======================
 
-#bgrf_file = "BGRF_20.tsv"
 bgrf_file = "BGRF_100.tsv"
 
 bgrf_mapping = "themenkonzepte_bgrf.tsv"
 
-resultfile = "bgrf100_about_statements.tsv"
+resultfile = "bgrf20_about_statements.tsv"
 
 
 # =======================
@@ -99,12 +98,8 @@ def search_strings(bgrf_matrix, keywords_list, mapping_dict):
 
 def delete_duplicates(df):
     '''
-    Takes dataframe and deletes duplicates.
-    
-    Compares two consecutive entries with the same BGRF id.
-    To do: id und Themenwert in einem Dictionary speichern,
-    um auch Duplikate zu finden, die nicht direkt aufeinander folgen.
-    
+    Takes dataframe and deletes duplicates.    
+    Compares two consecutive entries with the same BGRF id.    
     '''
     ind_prev = ""
     ind_act = ""
@@ -146,7 +141,6 @@ def main(bgrf_file, bgrf_mapping, resultfile):
     #print(mapping_matrix)
     keywords_list, mapping_dict = get_keywords(mapping_matrix)
     df = search_strings(bgrf_matrix, keywords_list, mapping_dict)
-    delete_duplicates(df)
     df = delete_duplicates(df)
     save2tsv(df, resultfile)
     
