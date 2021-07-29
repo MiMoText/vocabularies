@@ -23,7 +23,7 @@ bgrf_file = "BGRF_100.tsv"
 
 bgrf_mapping = "themenkonzepte_bgrf.tsv"
 
-resultfile = "bgrf20_about_statements.tsv"
+resultfile = "bgrf100_about_statements.tsv"
 
 
 # =======================
@@ -54,7 +54,8 @@ def get_keywords(mapping_matrix):
                     list_of_keywords.append(variant.strip())
                     mapping_dict[variant] = row['Themenwert']
         keyword_lists.append(list_of_keywords)
-
+    
+    print(keyword_lists)
     return(keyword_lists, mapping_dict)
      
 
@@ -63,7 +64,9 @@ def extract_from_column(item, ind, counter, bgrf_matrix, rows, mapping_dict, col
     For a specific keyword column from the BGRF matrix:
     mapping information is written into a dictionary.
     '''
-    if item in bgrf_matrix[column_name][ind] and counter == 0:
+
+    if item in (bgrf_matrix[column_name][ind]) and counter == 0:
+        print(item, ":  ", bgrf_matrix[column_name][ind])
         counter = counter + 1
         rows.append({'id' : ind, 'Spalte' : column_name, 'text' : bgrf_matrix[column_name][ind], 'Keyword': item, 'property': 'isabout', 'Themenwert': mapping_dict[item]})
         return rows, counter
@@ -75,6 +78,7 @@ def search_strings(bgrf_matrix, keywords_list, mapping_dict):
     Loop over rows of the BGRF matrix and search for concept strings.
     With extract_from_column() rows are created that are
     joined together to form a dataframe.
+    A counter is used to ensure that only one statement is generated per work and per concept.
     '''
     rows = []
     for ind in bgrf_matrix.index:
@@ -95,28 +99,6 @@ def search_strings(bgrf_matrix, keywords_list, mapping_dict):
     
     return df
     
-
-def delete_duplicates(df):
-    '''
-    Takes dataframe and deletes duplicates.    
-    Compares two consecutive entries with the same BGRF id.    
-    '''
-    ind_prev = ""
-    ind_act = ""
-    themenwert_act = ""
-    themenwert_prev = ""
-    for ind in df.index:
-        ind_act = df["id"][ind]
-        themenwert_act = df["Themenwert"][ind]
-        
-        if ind_act == ind_prev:
-            # Compares current with previous concept
-            if themenwert_act == themenwert_prev:
-                print(ind_act, themenwert_act)
-                df = df.drop(ind)
-        ind_prev = ind_act
-        themenwert_prev = themenwert_act
-    return df
 
 
 def save2tsv(df, resultfile):
@@ -141,7 +123,6 @@ def main(bgrf_file, bgrf_mapping, resultfile):
     #print(mapping_matrix)
     keywords_list, mapping_dict = get_keywords(mapping_matrix)
     df = search_strings(bgrf_matrix, keywords_list, mapping_dict)
-    df = delete_duplicates(df)
     save2tsv(df, resultfile)
     
 main(bgrf_file, bgrf_mapping, resultfile)
