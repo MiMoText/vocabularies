@@ -245,10 +245,11 @@ mystique	mysticism	Mystik	Q45996	https://www.wikidata.org/wiki/Q45996	mystique	m
 mythologie	mythology	Mythologie	Q9134	https://www.wikidata.org/wiki/Q9134	mythologie	mythology	Mythologie	DEL	exact match
 nation	nation	Nation	Q6266	https://www.wikidata.org/wiki/Q6266	nation	nation	Nation	DEL	exact match
 nature	nature	Natur	Q7860	https://www.wikidata.org/wiki/Q7860	nature	nature	Natur	DEL	exact match
+naufrage	shipwrecking	Schiffbruch	Q906512	https://www.wikidata.org/wiki/Q906512	naufrage	shipwrecking	Schiffbruch	BGRF	exact match
 nécessité	necessity	Notwendigkeit	Q2301186	https://www.wikidata.org/wiki/Q2301186	nécessité	necessity	Notwendigkeit	DEL	exact match
 néo-classicisme	neoclassicism	Klassizismus	Q14378	https://www.wikidata.org/wiki/Q14378	néo-classicisme	neoclassicism	Klassizismus	DEL	exact match
 newtonianisme	Newtonianism	Newtonismus	Q17123497	https://www.wikidata.org/wiki/Q17123497	newtonisme	Newtonianism		DEL	close match
-noble sauvage	noble savage	edler Wilder	Q829689	https://www.wikidata.org/wiki/Q829689	bon sauvage	noble savage	edler Wilder	DEL	close match
+"noble sauvage"	"noble savage"	"edler Wilder"	Q829689	https://www.wikidata.org/wiki/Q829689	bon sauvage	noble savage	edler Wilder	DEL	close match
 noblesse	nobility	Adel	Q134737	https://www.wikidata.org/wiki/Q134737	noblesse	nobility	Adel	DEL	exact match
 nuit	night	Nacht	Q575	https://www.wikidata.org/wiki/Q575	nuit	night	Nacht	DEL	exact match
 oppression	oppression	Unterdrückung	Q252000	https://www.wikidata.org/wiki/Q252000	oppression	oppression	Unterdrückung	Seklit	exact match
@@ -322,7 +323,7 @@ scepticisme	skepticism	Skeptizismus	Q1395219	https://www.wikidata.org/wiki/Q1395
 science	science	Wissenschaft	Q336	https://www.wikidata.org/wiki/Q336	science	science	Wissenschaft	DEL	exact match
 sculpture	sculpture	Skulptur	Q860861	https://www.wikidata.org/wiki/Q860861	sculpture	sculpture	Skulptur	DEL	exact match
 séduction	seduction	Verführung	Q1527023	https://www.wikidata.org/wiki/Q1527023	séduction	seduction	Verführung	Seklit	exact match
-sensibilité	sensibility	Empfindsamkeit	Q1195509	https://www.wikidata.org/wiki/Q1195509	sensibilité	sensibility	Sinnlichkeit	DEL	close match
+sentimentalisme	sentimentalism	Empfindsamkeit	Q754602	https://www.wikidata.org/wiki/Q754602	Empfindsamkeit	sentimentalism	Empfindsamkeit	DEL	close match
 sensualisme	sensualism	Sensualismus	Q651205	https://www.wikidata.org/wiki/Q651205	sensualisme	sensualism	Sensualismus	DEL	exact match
 sentiment	sentiment	Gefühl	Q205555	https://www.wikidata.org/wiki/Q205555	feeling	sentiment	Gefühl	Topic Modeling	exact match
 sexualité	sexuality	Sexualität	Q4042967	https://www.wikidata.org/wiki/Q4042967	sexualité	sexuality	Sexualität	DEL	exact match
