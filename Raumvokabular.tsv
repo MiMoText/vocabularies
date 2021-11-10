@@ -1,64 +1,66 @@
-MiMoText Label (fr)	MiMoText Label (en)	MiMoText Label (de)	Wikidata IDs	Wikidata URLs	Wikidata Label (fr)	Wikidata Label (en)	Wikidata Label (de)	Quelle	Match quality
-Afrique	Africa	Afrika	Q2826196	https://www.wikidata.org/wiki/Q15	Afrique	Africa	Afrika	DEL	exact match
-Allemagne	Germany	Deutschland	Q183	https://www.wikidata.org/wiki/Q183	Allemagne	Germany	Deutschland	DEL	exact match
-Amérique	Americas	Amerika		https://www.wikidata.org/wiki/Q828	Amérique	Americas	Amerika	BGRF	exact match
-Amérique du Nord	North America	Nordamerika	Q49	https://www.wikidata.org/wiki/Q49	Amérique du Nord	North America	Nordamerika	DEL	exact match
-Amérique du Sud	South America	Südamerika		https://www.wikidata.org/wiki/Q18	Amérique du Sud	South America	Südamerika	Seklit.	exact match
-Amérique latine	Latin America	Lateinamerika	Q12585	https://www.wikidata.org/wiki/Q12585	Amérique latine	Latin America	Lateinamerika	DEL	exact match
-Ancien régime	Ancien régime	Ancien régime	Q234081	https://www.wikidata.org/wiki/Q234081	Ancien régime	Ancien régime	Ancien régime	Seklit	exact match
-Angleterre	England	England	Q21	https://www.wikidata.org/wiki/Q21	Angleterre	England	England	BGRF/DEL	exact match
-atelier	atelier	Atelier	Q2072285	https://www.wikidata.org/wiki/Q2072285	atelier	atelier	Atelier	DEL	exact match
-Balkans	Balkans	Balkan	Q23522	https://www.wikidata.org/wiki/Q23522	Balkans	Balkans	Balkanhalbinsel	DEL	close match
-boudoir	boudoir	Boudoir	Q62238	https://www.wikidata.org/wiki/Q62238	boudoir	boudoir	Boudoir	DEL	exact match
-cabinet de curiosité	cabinet of curiosities	Kuriositätenkabinett	Q1146002	https://www.wikidata.org/wiki/Q1146002	cabinet de curiosités	cabinet of curiosities	Wunderkammer	DEL	close match
-Café	coffeehouse	Café	Q30022	https://www.wikidata.org/wiki/Q30022	Café	coffeehouse	Café	DEL	exact match
-Canal	canal	Kanal	Q12284	https://www.wikidata.org/wiki/Q12284	canal	canal	Kanal	DEL	exact match
-Chine	China	China	Q29520	https://www.wikidata.org/wiki/Q29520	chine	china	China	DEL	exact match
-coche	coach	Kutsche		https://www.wikidata.org/wiki/Q4655519	coche	coach	Kutsche	BGRF	exact match
-cour	court	Hof	Q1134237	https://www.wikidata.org/wiki/Q1134237	cour	court	Hofstaat	DEL	close match
-Danemark	Denmark	Dänemark	Q35	https://www.wikidata.org/wiki/Q35	Danemark	denmark	Dänemark	DEL	exact match
-désert	desert	Wüste		https://www.wikidata.org/wiki/Q8514	désert	desert	Wüste	BGRF	exact match
-Écosse	Scotland	Schottland	Q22	https://www.wikidata.org/wiki/Q22	Écosse	Scotland	Schottland	DEL	exact match
-Égypte	Egypte	Ägypten		https://www.wikidata.org/wiki/Q79	Égypte	Egypte	Ägypten	BGRF	exact match
-enfer	hell	Hölle		https://www.wikidata.org/wiki/Q564	enfer	hell	Hölle	BGRF	exact match
-Espagne	Spain	Spanien		https://www.wikidata.org/wiki/Q29	Espagne	Spain	Spanien	BGRF/DEL	exact match
-Europe	europe	Europa	Q46	https://www.wikidata.org/wiki/Q46	europe	europe	Europa	BGRF/DEL	exact match
-foire	fair	Jahrmarkt	Q288514	https://www.wikidata.org/wiki/Q288514	Foire	fair	Jahrmarkt	DEL	exact match
-France	France	Frankreich	Q142	https://www.wikidata.org/wiki/Q142	France	France	Frankreich	BGRF/DEL	exact match
-Grèce	Greece	Griechenland		https://www.wikidata.org/wiki/Q41	Grèce	Greece	Griechenland	BGRF	exact match
-grotte	grotto	Grotte		https://www.wikidata.org/wiki/Q1131329	grotte	grotto	Grotte	BGRF	close match
-grotte	cave	Höhle		https://www.wikidata.org/wiki/Q35509	grotte	cave	Höhle	BGRF	close match
-Hollande	Netherlands	Niederlande	Q55	https://www.wikidata.org/wiki/Q55	Pays-Bas	Netherlands	Niederlande	DEL	close match
-Hongrie	Hungary	Ungarn	Q28	https://www.wikidata.org/wiki/Q28	Hongrie	Hungary	Ungarn	DEL	exact match
-hôpital	hospital	Krankenhaus	Q16917	https://www.wikidata.org/wiki/Q16917	hôpital	hospital	Krankenhaus	DEL	exact match
-île	island	Insel	Q23442	https://www.wikidata.org/wiki/Q23442	île	island	Insel	DEL	exact match
-Italie	Italy	Italien	Q38	https://www.wikidata.org/wiki/Q38	Italie	Italy	Italien	DEL	exact match
-Japon	Japan	Japan	Q17	https://www.wikidata.org/wiki/Q17	Japon	Japan	Japan	DEL	exact match
-jardin	garden	Garten	Q1107656	https://www.wikidata.org/wiki/Q1107656	jardin	garden	Garten	DEL	exact match
-lieu imaginaire	imaginary place	imaginärer Ort		https://www.wikidata.org/wiki/Q3895768	lieu de fiction	fictional location	fiktiver Ort	BGRF	close match
-Locus amoenus	Locus amoenus	Locus amoenus	Q739317	https://www.wikidata.org/wiki/Q739317	Locus amoenus	Locus amoenus	Locus amoenus	Topic Modeling	exact match
-lune	moon	Mond		https://www.wikidata.org/wiki/Q405	lune	moon	Mond	BGRF	exact match
-monastère	monastery	Kloster		https://www.wikidata.org/wiki/Q44613	monastère	monastery	Kloster	BGRF	exact match
-montagne	mountain	Berg	Q8502	https://www.wikidata.org/wiki/Q8502	montagne	mountain	Berg	DEL	exact match
-musée	museum	Museum	Q33506	https://www.wikidata.org/wiki/Q33506	musée	museum	Museum	DEL	exact match
-observatoire	observatory	Observatorium	Q62832	https://www.wikidata.org/wiki/Q62832	observatoire	observatory	Observatorium	DEL	exact match
-opéra	opera	Oper	Q1344	https://www.wikidata.org/wiki/Q1344	opéra	opera	Oper	DEL	exact match
-Orient	Orient	Orient	Q205653	https://www.wikidata.org/wiki/Q205653	orient	orient	Orient	BGRF/DEL	exact match
-paradis	paradise	Paradies	Q3363340	https://www.wikidata.org/wiki/Q3363340	paradis	paradise	Paradies	Seklit	exact match
-paysage	landscape	Landschaft	Q107425	https://www.wikidata.org/wiki/Q107425	paysage	landscape	Landschaft	DEL	exact match
-Pologne	Poland	Polen	Q36	https://www.wikidata.org/wiki/Q36	Pologne	Poland	Polen	DEL	exact match
-port	port	Hafen	Q44782	https://www.wikidata.org/wiki/Q44782	Port	port	Hafen	DEL	exact match
-Portugal	Portugal	Portugal	Q45	https://www.wikidata.org/wiki/Q45	Portugal	Portugal	Portugal	DEL	exact match
-prison	prison	Gefängnis	Q40357	https://www.wikidata.org/wiki/Q40357	prison	prison	Gefängnis	BGRF/DEL	exact match
-Proche-Orient	Near East	Naher Osten		https://www.wikidata.org/wiki/Q48214	Proche-Orient	Near East	Naher Osten	Seklit.	
-ruine	ruin	Ruine	Q109607	https://www.wikidata.org/wiki/Q109607	ruine	ruins	Ruine	BGRF/DEL	close match
-Russie	Russia	Russland	Q159	https://www.wikidata.org/wiki/Q159	Russie	Russia	Russland	DEL	exact match
-Saint-Empire romain germanique	Holy Roman Empire	Heiliges Römisches Reich	Q12548	https://www.wikidata.org/wiki/Q12548	Saint-Empire romain germanique	Holy Roman Empire	Heiliges Römisches Reich	DEL	exact match
-salon	salon	Salon	Q576342	https://www.wikidata.org/wiki/Q576342	salon	salon	literarischer Salon	DEL	exact match
-Suède	Sweden	Schweden	Q34	https://www.wikidata.org/wiki/Q34	Suède	Sweden	Schweden	DEL	exact match
-Suisse	Switzerland	Schweiz	Q39	https://www.wikidata.org/wiki/Q39	Suisse	Switzerland	Schweiz	DEL	exact match
-système solaire	solar system	Sonnensystem	Q544	https://www.wikidata.org/wiki/Q544	système solaire	Solar system	Sonnensystem	DEL	exact match
-terre	earth	Erde	Q2	https://www.wikidata.org/wiki/Q2	Terre	Earth	Erde	DEL	exact match
-théâtre	theater	Theater	Q11635	https://www.wikidata.org/wiki/Q11635	théâtre	theater	Theater	DEL	exact match
-village	village	Dorf	Q532	https://www.wikidata.org/wiki/Q532	village	village	Dorf	DEL	exact match
-ville	city	Stadt	Q515	https://www.wikidata.org/wiki/Q515	ville	city	Stadt	DEL	exact match
+				P31	P59	FR	EN	DE			P25	P2	P2RP14	
+new	item										Q25	Q26	Q25	
+MiMoText Label (fr)	MiMoText Label (en)	MiMoText Label (de)	Wikidata IDs	Wikidata URLs		Wikidata Label (fr)	Wikidata Label (en)	Wikidata Label (de)	Quelle (intern)					
+			Q2826196	https://www.wikidata.org/wiki/Q15		Afrique	Africa	Afrika	DEL	exact match				
+			Q183	https://www.wikidata.org/wiki/Q183		Allemagne	Germany	Deutschland	DEL	exact match				
+				https://www.wikidata.org/wiki/Q828		Amérique	Americas	Amerika	BGRF	exact match				
+			Q49	https://www.wikidata.org/wiki/Q49		Amérique du Nord	North America	Nordamerika	DEL	exact match				
+				https://www.wikidata.org/wiki/Q18		Amérique du Sud	South America	Südamerika	Seklit.	exact match				
+			Q12585	https://www.wikidata.org/wiki/Q12585		Amérique latine	Latin America	Lateinamerika	DEL	exact match				
+			Q234081	https://www.wikidata.org/wiki/Q234081		Ancien régime	Ancien régime	Ancien régime	Seklit	exact match				
+			Q21	https://www.wikidata.org/wiki/Q21		Angleterre	England	England	BGRF/DEL	exact match				
+			Q2072285	https://www.wikidata.org/wiki/Q2072285		atelier	atelier	Atelier	DEL	exact match				
+Balkans	Balkans	Balkan	Q23522		https://www.wikidata.org/wiki/Q23522				DEL	close match				
+			Q62238	https://www.wikidata.org/wiki/Q62238		boudoir	boudoir	Boudoir	DEL	exact match				
+cabinet de curiosité	cabinet of curiosities	Kuriositätenkabinett	Q1146002		https://www.wikidata.org/wiki/Q1146002				DEL	close match				
+			Q30022	https://www.wikidata.org/wiki/Q30022		Café	coffeehouse	Café	DEL	exact match				
+			Q12284	https://www.wikidata.org/wiki/Q12284		canal	canal	Kanal	DEL	exact match				
+			Q29520	https://www.wikidata.org/wiki/Q29520		chine	china	China	DEL	exact match				
+				https://www.wikidata.org/wiki/Q4655519		coche	coach	Kutsche	BGRF	exact match				
+cour	court	Hof	Q1134237		https://www.wikidata.org/wiki/Q1134237				DEL	close match				
+			Q35	https://www.wikidata.org/wiki/Q35		Danemark	denmark	Dänemark	DEL	exact match				
+				https://www.wikidata.org/wiki/Q8514		désert	desert	Wüste	BGRF	exact match				
+			Q22	https://www.wikidata.org/wiki/Q22		Écosse	Scotland	Schottland	DEL	exact match				
+				https://www.wikidata.org/wiki/Q79		Égypte	Egypte	Ägypten	BGRF	exact match				
+				https://www.wikidata.org/wiki/Q564		enfer	hell	Hölle	BGRF	exact match				
+				https://www.wikidata.org/wiki/Q29		Espagne	Spain	Spanien	BGRF/DEL	exact match				
+			Q46	https://www.wikidata.org/wiki/Q46		europe	europe	Europa	BGRF/DEL	exact match				
+			Q288514	https://www.wikidata.org/wiki/Q288514		Foire	fair	Jahrmarkt	DEL	exact match				
+			Q142	https://www.wikidata.org/wiki/Q142		France	France	Frankreich	BGRF/DEL	exact match				
+				https://www.wikidata.org/wiki/Q41		Grèce	Greece	Griechenland	BGRF	exact match				
+grotte	grotto	Grotte			https://www.wikidata.org/wiki/Q1131329				BGRF	close match				
+grotte	cave	Höhle			https://www.wikidata.org/wiki/Q35509				BGRF	close match				
+Hollande	Netherlands	Niederlande	Q55		https://www.wikidata.org/wiki/Q55				DEL	close match				
+			Q28	https://www.wikidata.org/wiki/Q28		Hongrie	Hungary	Ungarn	DEL	exact match				
+			Q16917	https://www.wikidata.org/wiki/Q16917		hôpital	hospital	Krankenhaus	DEL	exact match				
+			Q23442	https://www.wikidata.org/wiki/Q23442		île	island	Insel	DEL	exact match				
+			Q38	https://www.wikidata.org/wiki/Q38		Italie	Italy	Italien	DEL	exact match				
+			Q17	https://www.wikidata.org/wiki/Q17		Japon	Japan	Japan	DEL	exact match				
+			Q1107656	https://www.wikidata.org/wiki/Q1107656		jardin	garden	Garten	DEL	exact match				
+lieu imaginaire	imaginary place	imaginärer Ort			https://www.wikidata.org/wiki/Q3895768				BGRF	close match				
+Locus amoenus	Locus amoenus	Locus amoenus	Q739317		https://www.wikidata.org/wiki/Q739317				Topic Modeling	exact match				
+				https://www.wikidata.org/wiki/Q405		lune	moon	Mond	BGRF	exact match				
+				https://www.wikidata.org/wiki/Q44613		monastère	monastery	Kloster	BGRF	exact match				
+			Q8502	https://www.wikidata.org/wiki/Q8502		montagne	mountain	Berg	DEL	exact match				
+			Q33506	https://www.wikidata.org/wiki/Q33506		musée	museum	Museum	DEL	exact match				
+			Q62832	https://www.wikidata.org/wiki/Q62832		observatoire	observatory	Observatorium	DEL	exact match				
+			Q1344	https://www.wikidata.org/wiki/Q1344		opéra	opera	Oper	DEL	exact match				
+			Q205653	https://www.wikidata.org/wiki/Q205653		orient	orient	Orient	BGRF/DEL	exact match				
+			Q3363340	https://www.wikidata.org/wiki/Q3363340		paradis	paradise	Paradies	Seklit	exact match				
+			Q107425	https://www.wikidata.org/wiki/Q107425		paysage	landscape	Landschaft	DEL	exact match				
+			Q36	https://www.wikidata.org/wiki/Q36		Pologne	Poland	Polen	DEL	exact match				
+			Q44782	https://www.wikidata.org/wiki/Q44782		Port	port	Hafen	DEL	exact match				
+			Q45	https://www.wikidata.org/wiki/Q45		Portugal	Portugal	Portugal	DEL	exact match				
+			Q40357	https://www.wikidata.org/wiki/Q40357		prison	prison	Gefängnis	BGRF/DEL	exact match				
+				https://www.wikidata.org/wiki/Q48214		Proche-Orient	Near East	Naher Osten	Seklit.					
+ruine	ruin	Ruine	Q109607		https://www.wikidata.org/wiki/Q109607	ruine	ruins	Ruine	BGRF/DEL	close match				
+				https://www.wikidata.org/wiki/Q159		Russie	Russia	Russland	DEL	exact match				
+				https://www.wikidata.org/wiki/Q12548		Saint-Empire romain germanique	Holy Roman Empire	Heiliges Römisches Reich	DEL	exact match				
+				https://www.wikidata.org/wiki/Q576342		salon	salon	literarischer Salon	DEL	exact match				
+				https://www.wikidata.org/wiki/Q34		Suède	Sweden	Schweden	DEL	exact match				
+				https://www.wikidata.org/wiki/Q39		Suisse	Switzerland	Schweiz	DEL	exact match				
+				https://www.wikidata.org/wiki/Q544		système solaire	Solar system	Sonnensystem	DEL	exact match				
+				https://www.wikidata.org/wiki/Q2		Terre	Earth	Erde	DEL	exact match				
+				https://www.wikidata.org/wiki/Q11635		théâtre	theater	Theater	DEL	exact match				
+				https://www.wikidata.org/wiki/Q532		village	village	Dorf	DEL	exact match				
+				https://www.wikidata.org/wiki/Q515		ville	city	Stadt	DEL	exact match				
