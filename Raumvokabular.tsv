@@ -1,64 +1,420 @@
+MiMoText Label (fr)	MiMoText Label (en)	MiMoText Label (de)	Wikidata IDs	Wikidata URLs		coordinate location	Wikidata Label (fr) | copy MMT-Label	Wikidata Label (en)	Wikidata Label (de)	Quelle (intern)		skos:altLabel (fr)	skos:altLabel (en)	skos:altLabel (de)			
 				P31	P59	P65	FR	EN	DE	Column5	Column6	Column7	Column8	Column9	P25	P2	P2RP14
 new	item														Q25	Q26	Q25
-MiMoText Label (fr)	MiMoText Label (en)	MiMoText Label (de)	Wikidata IDs	Wikidata URLs		coordinate location	Wikidata Label (fr) | copy MMT-Label	Wikidata Label (en)	Wikidata Label (de)	Quelle (intern)		skos:altLabel (fr)	skos:altLabel (en)	skos:altLabel (de)			
-			Q828	https://www.wikidata.org/wiki/Q828			Amérique	Americas	Amerika	BGRF	exact match						
-			Q4655519	https://www.wikidata.org/wiki/Q4655519			coche	coach	Kutsche	BGRF	exact match						
-			Q8514	https://www.wikidata.org/wiki/Q8514			désert	desert	Wüste	BGRF	exact match						
-			Q79	https://www.wikidata.org/wiki/Q79			Égypte	Egypte	Ägypten	BGRF	exact match						
-			Q564	https://www.wikidata.org/wiki/Q564			enfer	hell	Hölle	BGRF	exact match						
-			Q41	https://www.wikidata.org/wiki/Q41			Grèce	Greece	Griechenland	BGRF	exact match						
-grotte	grotto	Grotte	Q1131329		https://www.wikidata.org/wiki/Q1131329					BGRF	close match						
-grotte	cave	Höhle	Q35509		https://www.wikidata.org/wiki/Q35509					BGRF	close match						
-lieu imaginaire	imaginary place	imaginärer Ort	Q3895768		https://www.wikidata.org/wiki/Q3895768					BGRF	close match						
-			Q405	https://www.wikidata.org/wiki/Q405			Lune	Moon	Mond	BGRF	exact match						
-			Q44613	https://www.wikidata.org/wiki/Q44613			monastère	monastery	Kloster	BGRF	exact match	couvent					
-ruine	ruin	Ruine	Q109607		https://www.wikidata.org/wiki/Q109607		ruine	ruins	Ruine	BGRF/DEL	close match						
-			Q142	https://www.wikidata.org/wiki/Q142		47,2	France	France	Frankreich	BGRF/DEL	exact match						
-			Q205653	https://www.wikidata.org/wiki/Q205653			Orient	Orient	Orient	BGRF/DEL	exact match						
-			Q21	https://www.wikidata.org/wiki/Q21		53,-1	Angleterre	England	England	BGRF/DEL	exact match						
-			Q40357	https://www.wikidata.org/wiki/Q40357			prison	prison	Gefängnis	BGRF/DEL	exact match						
-			Q46	https://www.wikidata.org/wiki/Q46		48.690959,9.14062	Europe	Europe	Europa	BGRF/DEL	exact match						
-			Q29	https://www.wikidata.org/wiki/Q29		40.2,-3.5	Espagne	Spain	Spanien	BGRF/DEL	exact match						
+			Q1	https://www.wikidata.org/wiki/Q1			univers	universe	Universum								
+			Q100	https://www.wikidata.org/wiki/Q100		42.358333333333,-71.0625	Boston	Boston	Boston								
+			Q1006	https://www.wikidata.org/wiki/Q1006		10,-11	Guinée	Guinea	Guinea								
+			Q101081	https://www.wikidata.org/wiki/Q101081		44,6	Provence	Provence	Provence								
+			Q1028	https://www.wikidata.org/wiki/Q1028		32,-6	Maroc	Morocco	Marokko								
+			Q1029	https://www.wikidata.org/wiki/Q1029		-19,35	Mozambique	Mozambique	Mosambik								
+			Q102911	https://www.wikidata.org/wiki/Q102911		52.25,4.667	Hollande	Holland	Holland								
+			Q103011	https://www.wikidata.org/wiki/Q103011		37.933333333333,22.933333333333	Corinthe	Corinth	Korinth								
+			Q10305	https://www.wikidata.org/wiki/Q10305		41.65,-0.88333333333333	Saragosse	Zaragoza	Saragossa								
+			Q1041	https://www.wikidata.org/wiki/Q1041		14.366667,-14.283333	Sénégal	Senegal	Senegal								
+			Q104527690	https://www.wikidata.org/wiki/Q104527690			L'île de Délos		Die Insel Delos								
+			Q1065592	https://www.wikidata.org/wiki/Q1065592			île inhabitée	desert island	unbewohnte Insel								
+			Q106577	https://www.wikidata.org/wiki/Q106577			Neustrie	Neustria	Neustrien								
 			Q107425	https://www.wikidata.org/wiki/Q107425			paysage	landscape	Landschaft	DEL	exact match						
+			Q1081620	https://www.wikidata.org/wiki/Q1081620		13.75,100.51666666666667	Siam	Siam	Siam								
+			Q1085	https://www.wikidata.org/wiki/Q1085		50.083333333333,14.416666666667	Prague	Prague	Prag								
+ruine	ruin	Ruine	Q109607		https://www.wikidata.org/wiki/Q109607		ruine	ruins	Ruine	BGRF/DEL	close match						
 			Q1107656	https://www.wikidata.org/wiki/Q1107656			jardin	garden	Garten	DEL	exact match						
+			Q1111777	https://www.wikidata.org/wiki/Q1111777		43.755555555556,-0.78861111111111	Laurède	Laurède	Laurède								
+			Q1128397	https://www.wikidata.org/wiki/Q1128397			couvent	convent	Konvent								
+grotte	grotto	Grotte	Q1131329		https://www.wikidata.org/wiki/Q1131329					BGRF	close match						
 cour	court	Hof	Q1134237		https://www.wikidata.org/wiki/Q1134237		cour	court	Hofstaat	DEL	close match						
+			Q1142	https://www.wikidata.org/wiki/Q1142		48.5,7.5	Alsace	Alsace	Elsass								
+			Q1145276	https://www.wikidata.org/wiki/Q1145276			pays de fiction	fictional country	fiktives Land								
 cabinet de curiosité	cabinet of curiosities	Kuriositätenkabinett	Q1146002		https://www.wikidata.org/wiki/Q1146002		cabinet de curiosités	cabinet of curiosities	Wunderkammer	DEL	close match						
+			Q1152	https://www.wikidata.org/wiki/Q1152		45.7,3.3	Auvergne	Auvergne	Auvergne								
+			Q11635	https://www.wikidata.org/wiki/Q11635			théâtre	theatre	Theater	DEL	exact match						
+			Q1170287	https://www.wikidata.org/wiki/Q1170287			sérail	Seraglio	Serail								
+			Q1171	https://www.wikidata.org/wiki/Q1171		15.401944,74.043333	Goa	Goa	Goa								
+			Q11772	https://www.wikidata.org/wiki/Q11772		38.59932,24.59412	Grèce antique	Ancient Greece	Antikes Griechenland								
+			Q1179	https://www.wikidata.org/wiki/Q1179		44.583333333333,0	Aquitaine	Aquitaine	Aquitanien								
+			Q1192720	https://www.wikidata.org/wiki/Q1192720		40.795277777778,14.163333333333	Nisida	Nisida	Nisida								
+			Q1199713	https://www.wikidata.org/wiki/Q1199713		-6.134836,106.813222	Batavia	Batavia	Batavia								
+			Q12130	https://www.wikidata.org/wiki/Q12130		48,-3	Bretagne	Brittany	Bretagne								
+			Q1216	https://www.wikidata.org/wiki/Q1216		45.25,7.9166666666667	Piémont	Piedmont	Piemont								
+			Q12191	https://www.wikidata.org/wiki/Q12191		47.217222222222,-1.5538888888889	Nantes	Nantes	Nantes								
+			Q12193	https://www.wikidata.org/wiki/Q12193		48.39,-4.4869444444444	Brest	Brest	Brest								
+			Q1219591	https://www.wikidata.org/wiki/Q1219591		48.585833333333,4.5311111111111	Lignon	Lignon	Lignon								
 			Q12284	https://www.wikidata.org/wiki/Q12284			canal	canal	Kanal	DEL	exact match						
+			Q123377	https://www.wikidata.org/wiki/Q123377		57.833333333333,-7	Hébrides	Hebrides	Hebriden								
+			Q1237299	https://www.wikidata.org/wiki/Q1237299			Midi de la France	Southern France	Südfrankreich								
+			Q12431	https://www.wikidata.org/wiki/Q12431		42.666666666667,1	Pyrénées	Pyrenees	Pyrenäen								
+			Q12548	https://www.wikidata.org/wiki/Q12548			Saint-Empire romain germanique	Holy Roman Empire	Heiliges Römisches Reich	DEL	exact match						
 			Q12585	https://www.wikidata.org/wiki/Q12585		-1.106889,-68.097391	Amérique latine	Latin America	Lateinamerika	DEL	exact match						
+			Q126148	https://www.wikidata.org/wiki/Q126148		35.776666666666664,-5.803888888888888	Tanger	Tangier	Tanger								
+			Q126898	https://www.wikidata.org/wiki/Q126898		43.58,7.1230555555556	Antibes	Antibes	Antibes								
+			Q12745	https://www.wikidata.org/wiki/Q12745		45.583333333333,6.3333333333333	Savoie	Savoie	Savoie								
+			Q127834	https://www.wikidata.org/wiki/Q127834			Nouveau Monde	New World	Neue Welt								
+			Q12798	https://www.wikidata.org/wiki/Q12798		46.670556,-1.426667	Vendée	Vendée	Département Vendée								
+			Q128087	https://www.wikidata.org/wiki/Q128087		39.21,26.28	Lesbos	Lesbos	Lesbos								
+			Q12824780	https://www.wikidata.org/wiki/Q12824780		39,34	Asie mineure	Asia Minor	Kleinasien								
+			Q1286	https://www.wikidata.org/wiki/Q1286		46,10	Alpes	Alps	Alpen								
+			Q1289	https://www.wikidata.org/wiki/Q1289		45.186944444444,5.7263888888889	Grenoble	Grenoble	Grenoble								
+			Q12892	https://www.wikidata.org/wiki/Q12892		51.221111111111114,4.3997222222222225	Anvers	Antwerp	Antwerpen								
+			Q129072	https://www.wikidata.org/wiki/Q129072		29.934444444444,52.891388888889	Persépolis	Persepolis	Persepolis								
+			Q130272	https://www.wikidata.org/wiki/Q130272		48.446666666667,1.4883333333333	Chartres	Chartres	Chartres								
+			Q131329	https://www.wikidata.org/wiki/Q131329		50.289166666667,2.78	Arras	Arras	Arras								
+			Q131792	https://www.wikidata.org/wiki/Q131792		8.56,-60.5	Orénoque	Orinoco	Orinoco								
+			Q131802	https://www.wikidata.org/wiki/Q131802			Scythes	Scythians	Skythen								
+			Q132646	https://www.wikidata.org/wiki/Q132646		36.758056,66.898889	Bactriane	Bactria	Baktrien								
 			Q1344	https://www.wikidata.org/wiki/Q1344			opéra	opera	Oper	DEL	exact match						
+			Q1345	https://www.wikidata.org/wiki/Q1345		39.952777777778,-75.163611111111	Philadelphie	Philadelphia	Philadelphia								
+			Q1364465	https://www.wikidata.org/wiki/Q1364465		45.912777777778,4.6541666666667	Alix	Alix	Alix								
+			Q13670	https://www.wikidata.org/wiki/Q13670		37.069166666667,15.2875	Syracuse	Syracuse	Syrakus								
+			Q1370	https://www.wikidata.org/wiki/Q1370		37.5,-79	Virginie	Virginia	Virginia								
+			Q1379299	https://www.wikidata.org/wiki/Q1379299		38.423889,27.142778	Smyrne	Smyrna									
+			Q1391	https://www.wikidata.org/wiki/Q1391		39,-76.7	Maryland	Maryland	Maryland								
+			Q13917	https://www.wikidata.org/wiki/Q13917		48.8522,2.3176	Île-de-France	Île-de-France	Île-de-France								
+			Q13950	https://www.wikidata.org/wiki/Q13950		49.5,2.8333333333333	Picardie	Picardy	Picardie								
+			Q1408764	https://www.wikidata.org/wiki/Q1408764		43.585278,39.720278	Circassie	Circassia	Tscherkessien								
+			Q14112	https://www.wikidata.org/wiki/Q14112		42.15,9.0833333333333	Corse	Corsica	Korsika								
+			Q14118	https://www.wikidata.org/wiki/Q14118		45.57,5.9118	Savoie	Savoy	Savoyen								
+			Q142	https://www.wikidata.org/wiki/Q142		47,2	France	France	Frankreich	BGRF/DEL	exact match						
+			Q14201393	https://www.wikidata.org/wiki/Q14201393		49.95122,1.779785	Nord de la France	Northern France									
+			Q14294	https://www.wikidata.org/wiki/Q14294		40.3197,-1.6975	Tage	Tagus river	Tajo								
+			Q14323	https://www.wikidata.org/wiki/Q14323		38.915833333333,-6.3333333333333	Mérida	Mérida	Mérida								
+			Q144880	https://www.wikidata.org/wiki/Q144880		37.8,20.75	Zante	Zakynthos	Zakynthos								
+			Q1449	https://www.wikidata.org/wiki/Q1449		44.407186111111,8.9339833333333	Gênes	Genoa	Genua								
+			Q145	https://www.wikidata.org/wiki/Q145		54.6,-2	Royaume-Uni	United Kingdom	Vereinigtes Königreich								
+			Q1458	https://www.wikidata.org/wiki/Q1458		39,16.5	Calabre	Calabria	Kalabrien								
+			Q1460	https://www.wikidata.org/wiki/Q1460		37.599958333333,14.015377777778	Sicile	Sicily	Autonome Region Sizilien								
+			Q1469	https://www.wikidata.org/wiki/Q1469		44.841666666667,4.2186111111111	Loire	Loire	Loire								
+			Q1471	https://www.wikidata.org/wiki/Q1471		49.434722222222,0.1175	Seine	Seine	Seine								
+			Q1479	https://www.wikidata.org/wiki/Q1479		44.837777777778,-0.57944444444444	Bordeaux	Bordeaux	Bordeaux								
+			Q148	https://www.wikidata.org/wiki/Q148		35.844722222222224,103.45194444444445	République populaire de Chine	People's Republic of China	Volksrepublik China								
+			Q1486	https://www.wikidata.org/wiki/Q1486		-34.599722222222,-58.381944444444	Buenos Aires	Buenos Aires	Buenos Aires								
+			Q15	https://www.wikidata.org/wiki/Q15		21.09375,7.1881	Afrique	Africa	Afrika								
+			Q150907	https://www.wikidata.org/wiki/Q150907		49.816,10.865	Franconie	Franconia	Franken								
+			Q151999	https://www.wikidata.org/wiki/Q151999		45.383333333333,5.7333333333333	Dauphiné	Dauphiné	Dauphiné								
+			Q1524	https://www.wikidata.org/wiki/Q1524		37.98416666666667,23.728055555555557	Athènes	Athens	Athen								
+			Q1530	https://www.wikidata.org/wiki/Q1530		33.35,44.416666666667	Bagdad	Baghdad	Bagdad								
+			Q153562	https://www.wikidata.org/wiki/Q153562			opéra	opera house	Opernhaus								
+			Q15476	https://www.wikidata.org/wiki/Q15476		42.666666666667,2.8166666666667	Roussillon	Rosselló	Rosselló								
+			Q15682	https://www.wikidata.org/wiki/Q15682		36.535,-6.2975	Cadix	Cádiz	Cádiz								
+			Q15878	https://www.wikidata.org/wiki/Q15878		49.12233911111111,-0.43664430555555556	Normandie	Normandy	Normandie								
+			Q159	https://www.wikidata.org/wiki/Q159		66.41666666666667,94.25	Russie	Russia	Russland	DEL	exact match						
+			Q16	https://www.wikidata.org/wiki/Q16		56,-109	Canada	Canada	Kanada								
+			Q163108	https://www.wikidata.org/wiki/Q163108		48.647222222222,-2.0088888888889	Saint-Malo	Saint-Malo	Saint-Malo								
+			Q165090	https://www.wikidata.org/wiki/Q165090		45.566388888889,5.9208333333333	Chambéry	Chambéry	Chambéry								
+			Q1653	https://www.wikidata.org/wiki/Q1653		45.221944444444446,29.743333333333332	Danube	Danube	Donau								
+			Q16560	https://www.wikidata.org/wiki/Q16560			palais	palace	Palast								
+			Q16572	https://www.wikidata.org/wiki/Q16572		23.128795,113.258976	Canton	Guangzhou	Guangzhou								
+			Q166131	https://www.wikidata.org/wiki/Q166131		18.2176,-67.8639	Antilles	Antilles	Antillen								
+			Q166919	https://www.wikidata.org/wiki/Q166919		39.6,22.2	Thessalie	Thessalia	Thessalien								
+			Q167600	https://www.wikidata.org/wiki/Q167600		47.7975,3.5669444444444	Auxerre	Auxerre	Auxerre								
+			Q168159	https://www.wikidata.org/wiki/Q168159		53.293975,-4.376728	Anglesey	Anglesey	Anglesey								
+			Q16869	https://www.wikidata.org/wiki/Q16869		41.01224,28.976018	Constantinople	Constantinople	Konstantinopel								
 			Q16917	https://www.wikidata.org/wiki/Q16917			hôpital	hospital	Krankenhaus	DEL	exact match						
+			Q169460	https://www.wikidata.org/wiki/Q169460		37.531111,27.275556	Milet	Miletus	Milet								
 			Q17	https://www.wikidata.org/wiki/Q17		35,136	Japon	Japan	Japan	DEL	exact match						
+			Q17054	https://www.wikidata.org/wiki/Q17054		14.65,-61.015	Martinique	Martinique	Martinique								
+			Q1716449	https://www.wikidata.org/wiki/Q1716449			Royaume houéda	Kingdom of Whydah	Sahé								
+			Q173063	https://www.wikidata.org/wiki/Q173063		42.35,-3.81666667	Castille	Castile	Kastilien								
+			Q1741	https://www.wikidata.org/wiki/Q1741		48.20833,16.373064	Vienne	Vienna	Wien								
+			Q1747689	https://www.wikidata.org/wiki/Q1747689		41.89,12.48	Rome antique	Ancient Rome	Römisches Reich								
+			Q1748	https://www.wikidata.org/wiki/Q1748		55.676111111111,12.568888888889	Copenhague	Copenhagen	Kopenhagen								
+			Q175185	https://www.wikidata.org/wiki/Q175185			campagne	rural area	ländlicher Raum								
+			Q1761	https://www.wikidata.org/wiki/Q1761		53.34972222222222,-6.260277777777778	Dublin	Dublin	Dublin								
+			Q178611	https://www.wikidata.org/wiki/Q178611		47.2431,6.0219	Jura	Jura Mountains	Jura								
+			Q1794	https://www.wikidata.org/wiki/Q1794		50.113611111111,8.6797222222222	Francfort-sur-le-Main	Frankfurt	Frankfurt am Main								
+			Q18	https://www.wikidata.org/wiki/Q18		-21,-59	Amérique du Sud	South America	Südamerika	Seklit.	exact match						
+			Q180871	https://www.wikidata.org/wiki/Q180871		49.414166666667,2.8222222222222	Compiègne	Compiègne	Compiègne								
+			Q180918	https://www.wikidata.org/wiki/Q180918		34.77612852,32.42651039	Paphos	Paphos	Paphos								
+			Q18097	https://www.wikidata.org/wiki/Q18097		38.316666666667,127.23333333333	Corée	Korea	Korea								
+			Q181269	https://www.wikidata.org/wiki/Q181269		48.429722222222,0.091944444444444	Alençon	Alençon	Alençon								
+			Q182872	https://www.wikidata.org/wiki/Q182872		48.408888888889,2.7016666666667	Fontainebleau	Fontainebleau	Fontainebleau								
 			Q183	https://www.wikidata.org/wiki/Q183		51,10	Allemagne	Germany	Deutschland	DEL	exact match						
+			Q183464	https://www.wikidata.org/wiki/Q183464		57.862234,25.967155	Livonie	Livonia	Livland								
+			Q189059	https://www.wikidata.org/wiki/Q189059		39.103611111111,26.533055555556	Mytilène	Mytilene	Mytilini								
+			Q1891	https://www.wikidata.org/wiki/Q1891		44.493888888889,11.342777777778	Bologne	Bologna	Bologna								
+			Q189153	https://www.wikidata.org/wiki/Q189153		48.846388888889,2.2152777777778	Saint-Cloud	Saint-Cloud	Saint-Cloud								
+			Q19232000	https://www.wikidata.org/wiki/Q19232000			Silvérie										
+			Q193	https://www.wikidata.org/wiki/Q193			Saturne	Saturn	Saturn								
+			Q193821	https://www.wikidata.org/wiki/Q193821		47.259166666667,-0.078055555555556	Saumur	Saumur	Saumur								
+			Q193929	https://www.wikidata.org/wiki/Q193929		48.871111111111,2.2269444444444	Suresnes	Suresnes	Suresnes								
+			Q194138	https://www.wikidata.org/wiki/Q194138		47.166944444444,0.24277777777778	Chinon	Chinon	Chinon								
+			Q2	https://www.wikidata.org/wiki/Q2			Terre	Earth	Erde	DEL	exact match						
+			Q20	https://www.wikidata.org/wiki/Q20		65,11	Norvège	Norway	Norwegen								
+			Q202378	https://www.wikidata.org/wiki/Q202378		48.455277777778,-5.0975	Ouessant	Ushant	Ouessant								
+			Q20306954	https://www.wikidata.org/wiki/Q20306954		16.139722222222,43.151944444444	Samarah	Samarah	Samarah								
+			Q2044	https://www.wikidata.org/wiki/Q2044		43.771388888889,11.254166666667	Florence	Florence	Florenz								
+			Q205057	https://www.wikidata.org/wiki/Q205057		-13.26,-72.11	Cuzco	Cusco Departament	Cusco								
+			Q205653	https://www.wikidata.org/wiki/Q205653			Orient	Orient	Orient	BGRF/DEL	exact match						
+			Q206221	https://www.wikidata.org/wiki/Q206221		43.666666666667,3.1666666666667	Languedoc	Languedoc	Languedoc								
 			Q2072285	https://www.wikidata.org/wiki/Q2072285			atelier d'artiste	atelier	Atelier	DEL	exact match						
+			Q207239	https://www.wikidata.org/wiki/Q207239		36.2575,22.9975	Cythère	Kythira	Kythira								
+			Q2079	https://www.wikidata.org/wiki/Q2079		51.333333333333,12.383333333333	Leipzig	Leipzig	Leipzig								
+			Q209626	https://www.wikidata.org/wiki/Q209626		48.864722222222,2.2508333333333	bois de Boulogne	Bois de Boulogne	Bois de Boulogne								
+			Q21	https://www.wikidata.org/wiki/Q21		53,-1	Angleterre	England	England	BGRF/DEL	exact match						
+			Q210672	https://www.wikidata.org/wiki/Q210672		48.653611111111,5.1855555555556	Stainville	Stainville	Stainville								
+			Q21144570	https://www.wikidata.org/wiki/Q21144570			Hortence	Hortence	Hortence								
+			Q2119	https://www.wikidata.org/wiki/Q2119		49.48777777777778,8.466111111111111	Mannheim	Mannheim	Mannheim								
+			Q212420	https://www.wikidata.org/wiki/Q212420		48.197222222222,3.2833333333333	Sens	Sens	Sens								
+			Q213137	https://www.wikidata.org/wiki/Q213137		1,103	Indes orientales	East Indies									
+			Q213763	https://www.wikidata.org/wiki/Q213763		43.3,-0.366667	Béarn	Béarn	Béarn								
+			Q214362	https://www.wikidata.org/wiki/Q214362		47.933888888889,3.2419444444444	Saint-Romain-le-Preux	Saint-Romain-le-Preux	Saint-Romain-le-Preux								
+			Q21476034	https://www.wikidata.org/wiki/Q21476034		-62.45,-60.8		Chica	Playa Chica								
+			Q217293	https://www.wikidata.org/wiki/Q217293		49.285,5.2380555555556	Gercourt-et-Drillancourt	Gercourt-et-Drillancourt	Gercourt-et-Drillancourt								
+			Q219	https://www.wikidata.org/wiki/Q219		42.75,25.5	Bulgarie	Bulgaria	Bulgarien								
 			Q22	https://www.wikidata.org/wiki/Q22		57,-5	Écosse	Scotland	Schottland	DEL	exact match						
+			Q220	https://www.wikidata.org/wiki/Q220		41.893055555556,12.482777777778	Rome	Rome	Rom								
+			Q22698	https://www.wikidata.org/wiki/Q22698			parc	park	Park								
+			Q22889	https://www.wikidata.org/wiki/Q22889		51.381389,-2.358611	Bath	Bath	Bath								
+			Q229	https://www.wikidata.org/wiki/Q229		35,33	Chypre	Cyprus	Republik Zypern								
+			Q230	https://www.wikidata.org/wiki/Q230		42.016669444444,43.733330555556	Géorgie	Georgia	Georgien								
+			Q23148	https://www.wikidata.org/wiki/Q23148		50.3,-4.9	Cornouailles	Cornwall	Cornwall								
+			Q23154	https://www.wikidata.org/wiki/Q23154		51.45,-2.5833333333333	Bristol	Bristol	Bristol								
+			Q23298	https://www.wikidata.org/wiki/Q23298		51.19,0.73	Kent	Kent	Kent								
+			Q234	https://www.wikidata.org/wiki/Q234		51,4.5	Flandre	Flanders	Flandern								
+			Q234081	https://www.wikidata.org/wiki/Q234081			Ancien Régime	Ancien Régime	Ancien Régime	Seklit	exact match						
 			Q23442	https://www.wikidata.org/wiki/Q23442			île	island	Insel	DEL	exact match						
+			Q23482	https://www.wikidata.org/wiki/Q23482		43.296666666667,5.3763888888889	Marseille	Marseille	Marseille								
 Balkans	Balkans	Balkan	Q23522		https://www.wikidata.org/wiki/Q23522	42,22	Balkans	Balkans	Balkanhalbinsel	DEL	close match						
+			Q23663811	https://www.wikidata.org/wiki/Q23663811		6.0666666666667,14.316666666667		Tibéré									
+			Q237131	https://www.wikidata.org/wiki/Q237131			France au Moyen Âge	France in the Middle Ages	Frankreich im Mittelalter								
+			Q23792	https://www.wikidata.org/wiki/Q23792		31.625321,35.145264	Palestine	Palestine	Palästina								
+			Q239	https://www.wikidata.org/wiki/Q239		50.846666666666664,4.351666666666667	Bruxelles	City of Brussels	Brüssel								
+			Q241	https://www.wikidata.org/wiki/Q241		22,-79.5	Cuba	Cuba	Kuba								
+			Q2478280	https://www.wikidata.org/wiki/Q2478280		27.1,56.45	Ormuz	Ormus	Ormus (Reich)								
+			Q25	https://www.wikidata.org/wiki/Q25		52.35,-3.6333333333333	pays de Galles	Wales	Wales								
+			Q25277	https://www.wikidata.org/wiki/Q25277		19,-71	Hispaniola	Hispaniola	Hispaniola								
+			Q258540	https://www.wikidata.org/wiki/Q258540		39.872778,22.546667	vallée de Tempé	Vale of Tempe	Tempe								
+			Q262	https://www.wikidata.org/wiki/Q262		28,1	Algérie	Algeria	Algerien								
+			Q26253	https://www.wikidata.org/wiki/Q26253		32.75,-17	Madère	Madeira	Autonome Region Madeira								
+			Q2634	https://www.wikidata.org/wiki/Q2634		40.833333333333,14.25	Naples	Naples	Neapel								
+			Q2656	https://www.wikidata.org/wiki/Q2656		38.115658,13.361262	Palerme	Palermo	Palermo								
+			Q26915	https://www.wikidata.org/wiki/Q26915		38.5,22.25	Phocide	Phocis Prefecture	Fokida								
+			Q27	https://www.wikidata.org/wiki/Q27		53,-8	Irlande	Ireland	Irland								
+			Q270	https://www.wikidata.org/wiki/Q270		52.216666666667,21.033333333333	Varsovie	Warsaw	Warschau								
+			Q27275	https://www.wikidata.org/wiki/Q27275		45.3,63.9	Asie centrale	Central Asia	Zentralasien								
+			Q27381	https://www.wikidata.org/wiki/Q27381		30.440741666667,9.6817138888889	Afrique du Nord	North Africa	Nordafrika								
+			Q2742	https://www.wikidata.org/wiki/Q2742		51.9625,7.6255555555556	Münster	Münster	Münster								
+			Q279	https://www.wikidata.org/wiki/Q279		44.64582,10.92572	Modène	Modena	Modena								
 			Q28	https://www.wikidata.org/wiki/Q28		47,19	Hongrie	Hungary	Ungarn	DEL	exact match						
-			Q2826196	https://www.wikidata.org/wiki/Q2826196			Afrique	Afrique	Afrique	DEL	exact match						
+			Q2807	https://www.wikidata.org/wiki/Q2807		40.418888888889,-3.6919444444444	Madrid	Madrid	Madrid								
+			Q2826196	https://www.wikidata.org/wiki/Q2826196		21.09375,7.1881	Afrique	Afrique	Afrique	DEL	exact match						
+			Q288	https://www.wikidata.org/wiki/Q288		47.392777777778,0.68833333333333	Tours	Tours	Tours								
 			Q288514	https://www.wikidata.org/wiki/Q288514			foire	fair	Jahrmarkt	DEL	exact match						
+			Q29	https://www.wikidata.org/wiki/Q29		40.2,-3.5	Espagne	Spain	Spanien	BGRF/DEL	exact match						
+			Q2946	https://www.wikidata.org/wiki/Q2946		48.804805555556,2.1203333333333	château de Versailles	Palace of Versailles	Schloss Versailles								
 			Q29520	https://www.wikidata.org/wiki/Q29520		35,105	Chine	China	China	DEL	exact match						
+			Q30	https://www.wikidata.org/wiki/Q30		39.828175,-98.5795	États-Unis	United States of America	Vereinigte Staaten								
 			Q30022	https://www.wikidata.org/wiki/Q30022			café	coffeehouse	Café	DEL	exact match						
+			Q301276	https://www.wikidata.org/wiki/Q301276			vestibule	vestibule	Vestibül								
+			Q3034560	https://www.wikidata.org/wiki/Q3034560		49.123055555556,1.7058333333333	domaine de Villarceaux	Domaine of Villarceaux	Domaine de Villarceaux								
+			Q3051218	https://www.wikidata.org/wiki/Q3051218		50.75,3.99	Pagus de Brabant	Brabant	Brabant								
+			Q308	https://www.wikidata.org/wiki/Q308			Mercure	Mercury	Merkur								
+			Q30974	https://www.wikidata.org/wiki/Q30974		49.443055555556,1.1025	Rouen	Rouen	Rouen								
+			Q313	https://www.wikidata.org/wiki/Q313			Vénus	Venus	Venus								
+			Q319	https://www.wikidata.org/wiki/Q319			Jupiter	Jupiter	Jupiter								
+			Q31945	https://www.wikidata.org/wiki/Q31945		23,46	Arabie	Arabian Peninsula	Arabische Halbinsel								
+			Q326339	https://www.wikidata.org/wiki/Q326339		41.01666667,29.01666667	Üsküdar	Üsküdar	Üsküdar								
+			Q327	https://www.wikidata.org/wiki/Q327		48,-3	Bretagne	Brittany	Bretagne								
+			Q329948	https://www.wikidata.org/wiki/Q329948		48.863333333333,2.3369444444444	Palais-Royal	Palais-Royal	Palais-Royal								
 			Q33506	https://www.wikidata.org/wiki/Q33506			musée	museum	Museum	DEL	exact match						
+			Q3363340	https://www.wikidata.org/wiki/Q3363340			paradis	paradise	Paradies	Seklit	exact match						
+			Q34	https://www.wikidata.org/wiki/Q34		61,15	Suède	Sweden	Schweden	DEL	exact match						
+			Q3404008	https://www.wikidata.org/wiki/Q3404008			civilisation inca	Inca civilization	Inka								
+			Q3409	https://www.wikidata.org/wiki/Q3409			Sirius	Sirius	Sirius								
+			Q34370	https://www.wikidata.org/wiki/Q34370		51.9225,4.47917	Rotterdam	Rotterdam	Rotterdam								
+			Q34374	https://www.wikidata.org/wiki/Q34374		35.309722222222,24.893333333333	Crète	Crete	Kreta								
+			Q34820	https://www.wikidata.org/wiki/Q34820		18.476388888889,-69.893333333333	Saint-Domingue	Santo Domingo	Santo Domingo								
 			Q35	https://www.wikidata.org/wiki/Q35		56,10	Danemark	Denmark	Dänemark	DEL	exact match						
+			Q350	https://www.wikidata.org/wiki/Q350		52.208055555556,0.1225	Cambridge	Cambridge	Cambridge								
+			Q35381	https://www.wikidata.org/wiki/Q35381		6.9166666666667,79.833333333333	Colombo	Colombo	Colombo								
+			Q3542	https://www.wikidata.org/wiki/Q3542		9.0822,-10.7233	Niger	Niger River	Niger								
+grotte	cave	Höhle	Q35509		https://www.wikidata.org/wiki/Q35509					BGRF	close match						
+			Q35509	https://www.wikidata.org/wiki/Q35509			grotte	cave	Höhle								
+			Q3561	https://www.wikidata.org/wiki/Q3561		36.776388888889,3.0586111111111	Alger	Algiers	Algier								
+			Q3572	https://www.wikidata.org/wiki/Q3572		36.800833333333,10.18	Tunis	Tunis	Tunis								
+			Q357201	https://www.wikidata.org/wiki/Q357201			Bourgogne	Burgundy	Burgund								
+			Q3576516	https://www.wikidata.org/wiki/Q3576516			Zéphyre	Zéphire									
 			Q36	https://www.wikidata.org/wiki/Q36		52,19	Pologne	Poland	Polen	DEL	exact match						
+			Q365	https://www.wikidata.org/wiki/Q365		50.942222222222,6.9577777777778	Cologne	Cologne	Köln								
+			Q36600	https://www.wikidata.org/wiki/Q36600		52.08,4.31	La Haye	The Hague	Den Haag								
+Erford							Erford										
+			Q369188	https://www.wikidata.org/wiki/Q369188		46.1075,6.5913888888889	Taninges	Taninges	Taninges								
+			Q3711	https://www.wikidata.org/wiki/Q3711		44.816666666667,20.466666666667	Belgrade	Belgrade	Belgrad								
+			Q37180	https://www.wikidata.org/wiki/Q37180		47.043333333333,3.3916666666667	Saint-Firmin	Saint-Firmin	Saint-Firmin								
+			Q3746183	https://www.wikidata.org/wiki/Q3746183		30,52	Perse	Persis	Persis								
+			Q37495	https://www.wikidata.org/wiki/Q37495		38,19	mer Ionienne	Ionian Sea	Ionisches Meer								
+			Q3757	https://www.wikidata.org/wiki/Q3757		-7.4916666666667,110.00444444444	Java	Java	Java								
+			Q3766	https://www.wikidata.org/wiki/Q3766		33.513055555556,36.291944444444	Damas	Damascus	Damaskus								
+			Q37776	https://www.wikidata.org/wiki/Q37776		47.242222222222,6.0213888888889	Besançon	Besançon	Besançon								
 			Q38	https://www.wikidata.org/wiki/Q38		42.5,12.5	Italie	Italy	Italien	DEL	exact match						
+			Q38060	https://www.wikidata.org/wiki/Q38060		46.5,2.9	Gaule	Gaul	Gallien								
+			Q3852	https://www.wikidata.org/wiki/Q3852		49.631944444444,8.3652777777778	Worms	Worms	Worms								
+			Q3863033	https://www.wikidata.org/wiki/Q3863033			Morlaquie	Morlachia									
+			Q38872	https://www.wikidata.org/wiki/Q38872			Prusse	Prussia	Preußen								
+lieu imaginaire	imaginary place	imaginärer Ort	Q3895768		https://www.wikidata.org/wiki/Q3895768					BGRF	close match						
+			Q3895768	https://www.wikidata.org/wiki/Q3895768			lieu de fiction	fictional location	fiktiver Ort								
+			Q39	https://www.wikidata.org/wiki/Q39		46.798562,8.231973	Suisse	Switzerland	Schweiz	DEL	exact match						
+			Q39193	https://www.wikidata.org/wiki/Q39193		49.833333333333,14.333333333333	Bohême	Bohemia	Böhmen								
+			Q39865	https://www.wikidata.org/wiki/Q39865		50.5,5.8666666666667	Spa	Spa	Spa								
+			Q399	https://www.wikidata.org/wiki/Q399		40.383333,44.95	Arménie	Armenia	Armenien								
+			Q3992	https://www.wikidata.org/wiki/Q3992		50.639722222222225,5.570555555555556	Liège	Liège	Lüttich								
+			Q40	https://www.wikidata.org/wiki/Q40		48,14	Autriche	Austria	Österreich								
+			Q403366	https://www.wikidata.org/wiki/Q403366			Ééa	Aeaea	Aiaia								
+			Q40357	https://www.wikidata.org/wiki/Q40357			prison	prison	Gefängnis	BGRF/DEL	exact match						
+			Q405	https://www.wikidata.org/wiki/Q405			Lune	Moon	Mond	BGRF	exact match						
+			Q40898	https://www.wikidata.org/wiki/Q40898		48.692777777778,6.1836111111111	Nancy	Nancy	Nancy								
+			Q4092	https://www.wikidata.org/wiki/Q4092		-34.358055555556,18.471944444444	cap de Bonne-Espérance	Cape of Good Hope	Kap der Guten Hoffnung								
+			Q41	https://www.wikidata.org/wiki/Q41		38.5,23	Grèce	Greece	Griechenland	BGRF	exact match						
+			Q41183	https://www.wikidata.org/wiki/Q41183		36.2,37.15	Alep	Aleppo	Aleppo								
+			Q41185	https://www.wikidata.org/wiki/Q41185		49.182222222222,-0.37055555555556	Caen	Caen	Caen								
+			Q41604	https://www.wikidata.org/wiki/Q41604		49.891944444444,2.2977777777778	Amiens	Amiens	Amiens								
+			Q41642	https://www.wikidata.org/wiki/Q41642		34.116667,35.65	Phénicie	Phoenicia	Phönizien								
+			Q41741	https://www.wikidata.org/wiki/Q41741		42,26	Thrace	Thrace	Thrakien								
+			Q41876	https://www.wikidata.org/wiki/Q41876		49.265277777778,4.0286111111111	Reims	Reims	Reims								
+			Q419	https://www.wikidata.org/wiki/Q419		-9.4,-76	Pérou	Peru	Peru								
+			Q42000	https://www.wikidata.org/wiki/Q42000		-17.666666666667,-149.46666666667	Tahiti	Tahiti	Tahiti								
+			Q4204	https://www.wikidata.org/wiki/Q4204		48.3,8.15	Forêt-Noire	Black Forest	Schwarzwald								
+			Q42053	https://www.wikidata.org/wiki/Q42053		32.644722222222,51.6675	Ispahan	Isfahan	Isfahan								
+			Q43	https://www.wikidata.org/wiki/Q43		39,36	Turquie	Turkey	Türkei								
+			Q43048	https://www.wikidata.org/wiki/Q43048		36.166666666667,28	Rhodes	Rhodes	Rhodos								
+			Q43100	https://www.wikidata.org/wiki/Q43100		34.5,76	Cachemire	Kashmir	Kaschmir								
+			Q44613	https://www.wikidata.org/wiki/Q44613			monastère	monastery	Kloster	BGRF	exact match	couvent					
 			Q44782	https://www.wikidata.org/wiki/Q44782			port	port	Hafen	DEL	exact match						
 			Q45	https://www.wikidata.org/wiki/Q45		38.7,-9.1833333333333	Portugal	Portugal	Portugal	DEL	exact match						
+			Q456	https://www.wikidata.org/wiki/Q456		45.758888888889,4.8413888888889	Lyon	Lyon	Lyon								
+			Q46	https://www.wikidata.org/wiki/Q46		48.690959,9.14062	Europe	Europe	Europa	BGRF/DEL	exact match						
+			Q4655519	https://www.wikidata.org/wiki/Q4655519			coche	coach	Kutsche	BGRF	exact match						
+			Q472564	https://www.wikidata.org/wiki/Q472564		46.813333333333,12.761111111111	Amlach	Amlach	Amlach								
+			Q47465	https://www.wikidata.org/wiki/Q47465		43.527777777778,5.4455555555556	Aix-en-Provence	Aix-en-Provence	Aix-en-Provence								
+			Q476033	https://www.wikidata.org/wiki/Q476033		52,5	Pays-Bas	Low Countries	Niedere Lande								
+			Q47690	https://www.wikidata.org/wiki/Q47690		32.5,44.5	Babylone	Babylonia	Babylonien								
+			Q48	https://www.wikidata.org/wiki/Q48		43.681111111111115,87.33111111111111	Asie	Asia	Asien								
+			Q48175	https://www.wikidata.org/wiki/Q48175		31.778333333333332,35.22972222222222	Terre sainte	Holy Land	Heiliges Land								
+			Q48214	https://www.wikidata.org/wiki/Q48214		32.8,35.6	Proche-Orient	Near East	Naher Osten	Seklit.	exact match						
+			Q48726	https://www.wikidata.org/wiki/Q48726		36.967822,55.011854	Hyrcanie	Hyrcania	Hyrkanien								
 			Q49	https://www.wikidata.org/wiki/Q49		47,-105	Amérique du Nord	North America	Nordamerika	DEL	exact match						
-Hollande	Netherlands	Niederlande	Q55		https://www.wikidata.org/wiki/Q55	52.316666666667,5.55	Pays-Bas	Netherlands	Niederlande	DEL	close match						
-			Q62238	https://www.wikidata.org/wiki/Q62238			boudoir	boudoir	Boudoir	DEL	exact match						
-			Q62832	https://www.wikidata.org/wiki/Q62832			observatoire	observatory	Observatorium	DEL	exact match						
-			Q8502	https://www.wikidata.org/wiki/Q8502			montagne	mountain	Berg	DEL	exact match						
-			Q159	https://www.wikidata.org/wiki/Q159		66.41666666666667,94.25	Russie	Russia	Russland	DEL	exact match						
-			Q12548	https://www.wikidata.org/wiki/Q12548			Saint-Empire romain germanique	Holy Roman Empire	Heiliges Römisches Reich	DEL	exact match						
-			Q576342	https://www.wikidata.org/wiki/Q576342			salon littéraire	salon	literarischer Salon	DEL	exact match						
-			Q34	https://www.wikidata.org/wiki/Q34		61,15	Suède	Sweden	Schweden	DEL	exact match						
-			Q39	https://www.wikidata.org/wiki/Q39		46.798562,8.231973	Suisse	Switzerland	Schweiz	DEL	exact match						
-			Q544	https://www.wikidata.org/wiki/Q544			système solaire	Solar System	Sonnensystem	DEL	exact match						
-			Q2	https://www.wikidata.org/wiki/Q2			Terre	Earth	Erde	DEL	exact match						
-			Q11635	https://www.wikidata.org/wiki/Q11635			théâtre	theatre	Theater	DEL	exact match						
-			Q532	https://www.wikidata.org/wiki/Q532			village	village	Dorf	DEL	exact match						
+			Q490	https://www.wikidata.org/wiki/Q490		45.466944444444,9.19	Milan	Milan	Mailand								
+			Q4918	https://www.wikidata.org/wiki/Q4918		38,17	mer Méditerranée	Mediterranean Sea	Mittelmeer								
+			Q495	https://www.wikidata.org/wiki/Q495		45.066666666667,7.7	Turin	Turin	Turin								
+			Q4951156	https://www.wikidata.org/wiki/Q4951156		37.566666666667,14.266666666667	Sicile	Sicily	Sizilien								
+			Q49831	https://www.wikidata.org/wiki/Q49831		49.581111111111,2.9988888888889	Noyon	Noyon	Noyon								
+			Q50189	https://www.wikidata.org/wiki/Q50189		45.899166666667,6.1294444444444	Annecy	Annecy	Annecy								
+			Q505503	https://www.wikidata.org/wiki/Q505503			Cochinchine	Cochinchina	Cochinchina								
+			Q5089	https://www.wikidata.org/wiki/Q5089		22.0833,90.8333	Gange	Ganges	Ganges								
+			Q514081	https://www.wikidata.org/wiki/Q514081		44.7,3.3	Gévaudan	Gévaudan	Gévaudan								
 			Q515	https://www.wikidata.org/wiki/Q515			ville	city	Stadt	DEL	exact match						
+			Q525	https://www.wikidata.org/wiki/Q525			Soleil	Sun	Sonne								
+			Q52636	https://www.wikidata.org/wiki/Q52636		39.966666666667,4.0833333333333	Minorque	Menorca	Menorca								
+			Q532	https://www.wikidata.org/wiki/Q532			village	village	Dorf	DEL	exact match						
+			Q541738	https://www.wikidata.org/wiki/Q541738		49.781388888889,4.7658333333333	Aiglemont	Aiglemont	Aiglemont								
+			Q544	https://www.wikidata.org/wiki/Q544			système solaire	Solar System	Sonnensystem	DEL	exact match						
+			Q545	https://www.wikidata.org/wiki/Q545		58,20	mer Baltique	Baltic Sea	Ostsee								
+			Q5465	https://www.wikidata.org/wiki/Q5465		-33.925,18.425	Le Cap	Cape Town	Kapstadt								
+Hollande	Netherlands	Niederlande	Q55	https://www.wikidata.org/wiki/Q55		52.316666666667,5.55	Pays-Bas	Netherlands	Niederlande	DEL	exact match						
+			Q55038540	https://www.wikidata.org/wiki/Q55038540					Verseuil								
+			Q564	https://www.wikidata.org/wiki/Q564			enfer	hell	Hölle	BGRF	exact match						
+			Q5684	https://www.wikidata.org/wiki/Q5684		32.541780555556,44.431644444444	Babylone	Babylon	Babylon								
+			Q5690	https://www.wikidata.org/wiki/Q5690		37.081944444444,22.423611111111	Sparte	Sparta	Sparta								
+			Q5715	https://www.wikidata.org/wiki/Q5715		29.85412,31.25934	Memphis	Memphis	Memphis								
+			Q576342	https://www.wikidata.org/wiki/Q576342			salon littéraire	salon	literarischer Salon	DEL	exact match						
+			Q5813	https://www.wikidata.org/wiki/Q5813		28.536,-15.749	Îles Canaries	Canary Islands	Kanarische Inseln								
+			Q59176	https://www.wikidata.org/wiki/Q59176		49.452222222222,5.4558333333333	Marville	Marville	Marville								
+			Q596	https://www.wikidata.org/wiki/Q596			(1) Cérès	Ceres	(1) Ceres								
+			Q597	https://www.wikidata.org/wiki/Q597		38.708042,-9.139016	Lisbonne	Lisbon	Lissabon								
+			Q597576	https://www.wikidata.org/wiki/Q597576		45.991666666667,1.0452777777778	Cieux	Cieux	Cieux								
+			Q598449	https://www.wikidata.org/wiki/Q598449		49.267777777778,3.6972222222222	Courville	Courville	Courville								
+			Q60	https://www.wikidata.org/wiki/Q60		40.712728,-74.006015	New York	New York City	New York City								
+			Q602	https://www.wikidata.org/wiki/Q602		46.5742,8.3804	Rhône	Rhône	Rhone								
+			Q617	https://www.wikidata.org/wiki/Q617		45.406388888889,11.877777777778	Padoue	Padua	Padua								
+			Q617386	https://www.wikidata.org/wiki/Q617386		49.717777777778,8.1061111111111	Wahlheim	Wahlheim	Wahlheim								
+			Q620765	https://www.wikidata.org/wiki/Q620765		40,30	Lydie	Lydia	Lydien								
+			Q621	https://www.wikidata.org/wiki/Q621		48.804722222222,2.1341666666667	Versailles	Versailles	Versailles								
+			Q62238	https://www.wikidata.org/wiki/Q62238			boudoir	boudoir	Boudoir	DEL	exact match						
+			Q624458	https://www.wikidata.org/wiki/Q624458		48.064444444444,6.2238888888889	La Haye	La Haye	La Haye								
+			Q6256	https://www.wikidata.org/wiki/Q6256			pays	country	Land								
+			Q62646	https://www.wikidata.org/wiki/Q62646		50.9,11.1	Germanie	Germania	Germania magna								
+			Q626655	https://www.wikidata.org/wiki/Q626655		44.42623611,3.73926389	Cévennes	Cévennes	Cevennen								
+			Q628	https://www.wikidata.org/wiki/Q628		45.695,9.67	Bergame	Bergamo	Bergamo								
+			Q62832	https://www.wikidata.org/wiki/Q62832			observatoire	observatory	Observatorium	DEL	exact match						
+			Q632058	https://www.wikidata.org/wiki/Q632058		42.896666666667,0.065	Barèges	Barèges	Barèges								
+			Q6343	https://www.wikidata.org/wiki/Q6343		36.852558,10.323461	Carthage	Carthage	Karthago								
+			Q6397	https://www.wikidata.org/wiki/Q6397		43.948611111111,4.8083333333333	Avignon	Avignon	Avignon								
+			Q64	https://www.wikidata.org/wiki/Q64		52.516666666667,13.383333333333	Berlin	Berlin	Berlin								
+			Q641	https://www.wikidata.org/wiki/Q641		45.439722222222,12.331944444444	Venise	Venice	Venedig								
+			Q6441	https://www.wikidata.org/wiki/Q6441		43.610919444444,3.8772305555556	Montpellier	Montpellier	Montpellier								
+			Q6454	https://www.wikidata.org/wiki/Q6454		50.9475,1.8555555555556	Calais	Calais	Calais								
+			Q64699469	https://www.wikidata.org/wiki/Q64699469		37.92917,27.35944	Éphèse	Ephesus	Ephesos								
+			Q647	https://www.wikidata.org/wiki/Q647		48.114166666667,-1.6808333333333	Rennes	Rennes	Rennes								
+			Q648	https://www.wikidata.org/wiki/Q648		50.631944444444,3.0575	Lille	Lille	Lille								
+			Q650676	https://www.wikidata.org/wiki/Q650676		50.0747,4.5483	Nismes	Nismes									
+			Q6548	https://www.wikidata.org/wiki/Q6548		47.902222222222,1.9041666666667	Orléans	Orléans	Orléans								
+			Q6555	https://www.wikidata.org/wiki/Q6555		43.184722222222,3.0036111111111	Narbonne	Narbonne	Narbonne								
+			Q656	https://www.wikidata.org/wiki/Q656		59.95,30.316666666667	Saint-Pétersbourg	Saint Petersburg	Sankt Petersburg								
+			Q6588	https://www.wikidata.org/wiki/Q6588		45.184166666667,0.71805555555556	Périgueux	Périgueux	Périgueux								
+			Q6602	https://www.wikidata.org/wiki/Q6602		48.573333333333,7.7522222222222	Strasbourg	Strasbourg	Straßburg								
+			Q6616	https://www.wikidata.org/wiki/Q6616		46.581111111111,0.33527777777778	Poitiers	Poitiers	Poitiers								
+			Q6619693	https://www.wikidata.org/wiki/Q6619693			île de fiction	fictional island	fiktive Insel								
+			Q664	https://www.wikidata.org/wiki/Q664		-41.2,174	Nouvelle-Zélande	New Zealand	Neuseeland								
+			Q668	https://www.wikidata.org/wiki/Q668		22.8,83	Inde	India	Indien								
+			Q669037	https://www.wikidata.org/wiki/Q669037		21.98333333,-79.03333333	Indes occidentales	West Indies	Westindische Inseln								
+			Q6747596	https://www.wikidata.org/wiki/Q6747596			Michette	Manchet									
+			Q684	https://www.wikidata.org/wiki/Q684			est	east	Osten								
+			Q6842	https://www.wikidata.org/wiki/Q6842		51.79,6.14	Clèves	Kleve	Kleve								
+			Q69625	https://www.wikidata.org/wiki/Q69625		47.192222222222,8.83	Altendorf	Altendorf	Altendorf SZ								
+			Q70	https://www.wikidata.org/wiki/Q70		46.94798,7.44743	Berne	Bern	Bern								
+			Q7003	https://www.wikidata.org/wiki/Q7003		47.323055555556,5.0419444444444	Dijon	Dijon	Dijon								
+			Q7007824	https://www.wikidata.org/wiki/Q7007824			Abyssinie	Abyssinia	Abessinien								
+			Q71	https://www.wikidata.org/wiki/Q71		46.2,6.15	Genève	Geneva	Genf								
+			Q72	https://www.wikidata.org/wiki/Q72		47.378611111111,8.54	Zurich	Zürich	Zürich								
+			Q7204	https://www.wikidata.org/wiki/Q7204		28,45	Moyen-Orient	Middle East	Mittlerer Osten								
+			Q72499	https://www.wikidata.org/wiki/Q72499		35,18	bassin méditerranéen	Mediterranean Basin	Mittelmeerraum								
+			Q727	https://www.wikidata.org/wiki/Q727		52.383333333333,4.9	Amsterdam	Amsterdam	Amsterdam								
+			Q7270	https://www.wikidata.org/wiki/Q7270			république	republic	Republik								
+			Q7275	https://www.wikidata.org/wiki/Q7275			État	state	Staat								
+			Q732586	https://www.wikidata.org/wiki/Q732586		47.696944444444,3.9938888888889	Noyers	Noyers	Noyers								
+			Q733	https://www.wikidata.org/wiki/Q733		-23.5,-58	Paraguay	Paraguay	Paraguay								
+Locus amoenus	Locus amoenus	Locus amoenus	Q739317		https://www.wikidata.org/wiki/Q739317		Locus amoenus	Locus amoenus	Locus amoenus	Topic Modeling	close match						
+			Q742117	https://www.wikidata.org/wiki/Q742117		38.708042,-9.139016	Estrémadure	Estremadura	Estremadura								
+			Q75459	https://www.wikidata.org/wiki/Q75459		38.483333333333,22.5	Delphes	Delphi	Delphi								
+			Q759587	https://www.wikidata.org/wiki/Q759587		48.966111111111,1.6016666666667	Ménerville	Ménerville	Ménerville								
+			Q766	https://www.wikidata.org/wiki/Q766		18.18,-77.4	Jamaïque	Jamaica	Jamaika								
+			Q785	https://www.wikidata.org/wiki/Q785		49.19,-2.11	Jersey	Jersey	Jersey								
+			Q7880	https://www.wikidata.org/wiki/Q7880		43.604444444444,1.4438888888889	Toulouse	Toulouse	Toulouse								
+			Q79	https://www.wikidata.org/wiki/Q79		27,29	Égypte	Egypte	Ägypten	BGRF	exact match						
+			Q79848	https://www.wikidata.org/wiki/Q79848		50.906666666666666,-1.4044444444444444	Southampton	Southampton	Southampton								
+			Q80338	https://www.wikidata.org/wiki/Q80338		24,88	Bengale	Bengal	Bengalen								
+			Q8065766	https://www.wikidata.org/wiki/Q8065766		11.083333333333,-0.56666666666667	Zamé	Zame									
+			Q807	https://www.wikidata.org/wiki/Q807		46.533333333333,6.6333333333333	Lausanne	Lausanne	Lausanne								
+			Q809717	https://www.wikidata.org/wiki/Q809717					Bas-Languedoc								
+			Q81483	https://www.wikidata.org/wiki/Q81483		34,36	Levant	Levant	Levante								
+			Q81720	https://www.wikidata.org/wiki/Q81720		51.1035,17.0396	Silésie	Silesia	Schlesien								
+			Q82070	https://www.wikidata.org/wiki/Q82070		33.266666666667,35.2	Tyr	Tyre	Tyros								
+			Q822	https://www.wikidata.org/wiki/Q822		33.833333,35.766667	Liban	Lebanon	Libanon								
+			Q82794	https://www.wikidata.org/wiki/Q82794			zone géographique	geographic region	Region								
+			Q828	https://www.wikidata.org/wiki/Q828		19,-96	Amérique	Americas	Amerika	BGRF	exact match						
+			Q833380	https://www.wikidata.org/wiki/Q833380		49.076388888889,3.6394444444444	Dormans	Dormans	Dormans								
+			Q83971	https://www.wikidata.org/wiki/Q83971			Tartarie	Tartary	Tatarei								
+			Q84	https://www.wikidata.org/wiki/Q84		51.507222222222,-0.1275	Londres	London	London								
+			Q845909	https://www.wikidata.org/wiki/Q845909			Scythie	Scythia	Skythien								
+			Q8502	https://www.wikidata.org/wiki/Q8502			montagne	mountain	Berg	DEL	exact match						
+			Q850620	https://www.wikidata.org/wiki/Q850620		45.183333333333,0.71666666666667	Périgord	Périgord	Périgord								
+			Q8514	https://www.wikidata.org/wiki/Q8514			désert	desert	Wüste	BGRF	exact match						
+			Q854	https://www.wikidata.org/wiki/Q854		7,81	Sri Lanka	Sri Lanka	Sri Lanka								
+			Q858	https://www.wikidata.org/wiki/Q858		35.216667,38.583333	Syrie	Syria	Syrien								
+			Q861551	https://www.wikidata.org/wiki/Q861551		19.1,-72.333333333333	Saint-Domingue	Saint-Domingue	Saint-Domingue								
+			Q864148	https://www.wikidata.org/wiki/Q864148		33.17972222,131.38611111	Bungo	Bungo Province	Provinz Bungo								
+			Q87	https://www.wikidata.org/wiki/Q87		31.2,29.916666666667	Alexandrie	Alexandria	Alexandria								
+			Q8810	https://www.wikidata.org/wiki/Q8810		37.178055555556,-3.6008333333333	Grenade	Granada	Granada								
+			Q8818	https://www.wikidata.org/wiki/Q8818		39.47,-0.3763888888888889	Valence	Valencia	Valencia								
+			Q8851	https://www.wikidata.org/wiki/Q8851		36.716666666667,-4.4166666666667	Malaga	Málaga	Málaga								
+			Q90	https://www.wikidata.org/wiki/Q90		48.856944444444,2.3513888888889	Paris	Paris	Paris								
+			Q916	https://www.wikidata.org/wiki/Q916		-12.35,17.35	Angola	Angola	Angola								
+			Q948	https://www.wikidata.org/wiki/Q948		34,10	Tunisie	Tunisia	Tunesien								
+			Q954076	https://www.wikidata.org/wiki/Q954076		46.64861111,-0.24777778	Poitou	Poitou	Poitou								
+			Q956	https://www.wikidata.org/wiki/Q956		39.90403,116.407526	Pékin	Beijing	Peking								
+			Q96	https://www.wikidata.org/wiki/Q96		23,-102	Mexique	Mexico	Mexiko								
+			Q9679	https://www.wikidata.org/wiki/Q9679		50.666666666667,-1.2666666666667	île de Wight	Isle of Wight	Isle of Wight								
+			Q980	https://www.wikidata.org/wiki/Q980		48.7775,11.431111111111	Bavière	Bavaria	Bayern								
+			Q99545681	https://www.wikidata.org/wiki/Q99545681			Perse antique	ancient Persia									
 Versenai							Versenai			NER							
 Albi							Albi			NER							
 Alcine							Alcine			NER							
@@ -227,394 +583,3 @@ Sydney							Sydney			NER
 Trénel							Trénel			NER							
 Verglan							Verglan			NER							
 Vernol							Vernol			NER							
-			Q234081	https://www.wikidata.org/wiki/Q234081			Ancien Régime	Ancien Régime	Ancien Régime	Seklit	exact match						
-			Q3363340	https://www.wikidata.org/wiki/Q3363340			paradis	paradise	Paradies	Seklit	exact match						
-			Q18	https://www.wikidata.org/wiki/Q18		-21,-59	Amérique du Sud	South America	Südamerika	Seklit.	exact match						
-			Q48214	https://www.wikidata.org/wiki/Q48214		32.8,35.6	Proche-Orient	Near East	Naher Osten	Seklit.	exact match						
-Locus amoenus	Locus amoenus	Locus amoenus	Q739317		https://www.wikidata.org/wiki/Q739317		Locus amoenus	Locus amoenus	Locus amoenus	Topic Modeling	close match						
-			Q1	https://www.wikidata.org/wiki/Q1			univers	universe	Universum								
-			Q100	https://www.wikidata.org/wiki/Q100		42.358333333333,-71.0625	Boston	Boston	Boston								
-			Q1006	https://www.wikidata.org/wiki/Q1006		10,-11	Guinée	Guinea	Guinea								
-			Q101081	https://www.wikidata.org/wiki/Q101081		44,6	Provence	Provence	Provence								
-			Q1028	https://www.wikidata.org/wiki/Q1028		32,-6	Maroc	Morocco	Marokko								
-			Q1029	https://www.wikidata.org/wiki/Q1029		-19,35	Mozambique	Mozambique	Mosambik								
-			Q102911	https://www.wikidata.org/wiki/Q102911		52.25,4.667	Hollande	Holland	Holland								
-			Q103011	https://www.wikidata.org/wiki/Q103011		37.933333333333,22.933333333333	Corinthe	Corinth	Korinth								
-			Q10305	https://www.wikidata.org/wiki/Q10305		41.65,-0.88333333333333	Saragosse	Zaragoza	Saragossa								
-			Q1041	https://www.wikidata.org/wiki/Q1041		14.366667,-14.283333	Sénégal	Senegal	Senegal								
-			Q104527690	https://www.wikidata.org/wiki/Q104527690			L'île de Délos		Die Insel Delos								
-			Q1065592	https://www.wikidata.org/wiki/Q1065592			île inhabitée	desert island	unbewohnte Insel								
-			Q106577	https://www.wikidata.org/wiki/Q106577			Neustrie	Neustria	Neustrien								
-			Q1081620	https://www.wikidata.org/wiki/Q1081620		13.75,100.51666666666667	Siam	Siam	Siam								
-			Q1085	https://www.wikidata.org/wiki/Q1085		50.083333333333,14.416666666667	Prague	Prague	Prag								
-			Q1111777	https://www.wikidata.org/wiki/Q1111777		43.755555555556,-0.78861111111111	Laurède	Laurède	Laurède								
-			Q1128397	https://www.wikidata.org/wiki/Q1128397			couvent	convent	Konvent								
-			Q1134237	https://www.wikidata.org/wiki/Q1134237			cour	court	Hofstaat								
-			Q1142	https://www.wikidata.org/wiki/Q1142		48.5,7.5	Alsace	Alsace	Elsass								
-			Q1145276	https://www.wikidata.org/wiki/Q1145276			pays de fiction	fictional country	fiktives Land								
-			Q1152	https://www.wikidata.org/wiki/Q1152		45.7,3.3	Auvergne	Auvergne	Auvergne								
-			Q1170287	https://www.wikidata.org/wiki/Q1170287			sérail	Seraglio	Serail								
-			Q1171	https://www.wikidata.org/wiki/Q1171		15.401944,74.043333	Goa	Goa	Goa								
-			Q11772	https://www.wikidata.org/wiki/Q11772		38.59932,24.59412	Grèce antique	Ancient Greece	Antikes Griechenland								
-			Q1179	https://www.wikidata.org/wiki/Q1179		44.583333333333,0	Aquitaine	Aquitaine	Aquitanien								
-			Q1192720	https://www.wikidata.org/wiki/Q1192720		40.795277777778,14.163333333333	Nisida	Nisida	Nisida								
-			Q1199713	https://www.wikidata.org/wiki/Q1199713		-6.134836,106.813222	Batavia	Batavia	Batavia								
-			Q12130	https://www.wikidata.org/wiki/Q12130		48,-3	Bretagne	Brittany	Bretagne								
-			Q1216	https://www.wikidata.org/wiki/Q1216		45.25,7.9166666666667	Piémont	Piedmont	Piemont								
-			Q12191	https://www.wikidata.org/wiki/Q12191		47.217222222222,-1.5538888888889	Nantes	Nantes	Nantes								
-			Q12193	https://www.wikidata.org/wiki/Q12193		48.39,-4.4869444444444	Brest	Brest	Brest								
-			Q1219591	https://www.wikidata.org/wiki/Q1219591		48.585833333333,4.5311111111111	Lignon	Lignon	Lignon								
-			Q123377	https://www.wikidata.org/wiki/Q123377		57.833333333333,-7	Hébrides	Hebrides	Hebriden								
-			Q1237299	https://www.wikidata.org/wiki/Q1237299			Midi de la France	Southern France	Südfrankreich								
-			Q12431	https://www.wikidata.org/wiki/Q12431		42.666666666667,1	Pyrénées	Pyrenees	Pyrenäen								
-			Q126148	https://www.wikidata.org/wiki/Q126148		35.776666666666664,-5.803888888888888	Tanger	Tangier	Tanger								
-			Q126898	https://www.wikidata.org/wiki/Q126898		43.58,7.1230555555556	Antibes	Antibes	Antibes								
-			Q12745	https://www.wikidata.org/wiki/Q12745		45.583333333333,6.3333333333333	Savoie	Savoie	Savoie								
-			Q127834	https://www.wikidata.org/wiki/Q127834			Nouveau Monde	New World	Neue Welt								
-			Q12798	https://www.wikidata.org/wiki/Q12798		46.670556,-1.426667	Vendée	Vendée	Département Vendée								
-			Q128087	https://www.wikidata.org/wiki/Q128087		39.21,26.28	Lesbos	Lesbos	Lesbos								
-			Q12824780	https://www.wikidata.org/wiki/Q12824780		39,34	Asie mineure	Asia Minor	Kleinasien								
-			Q1286	https://www.wikidata.org/wiki/Q1286		46,10	Alpes	Alps	Alpen								
-			Q1289	https://www.wikidata.org/wiki/Q1289		45.186944444444,5.7263888888889	Grenoble	Grenoble	Grenoble								
-			Q12892	https://www.wikidata.org/wiki/Q12892		51.221111111111114,4.3997222222222225	Anvers	Antwerp	Antwerpen								
-			Q129072	https://www.wikidata.org/wiki/Q129072		29.934444444444,52.891388888889	Persépolis	Persepolis	Persepolis								
-			Q130272	https://www.wikidata.org/wiki/Q130272		48.446666666667,1.4883333333333	Chartres	Chartres	Chartres								
-			Q131329	https://www.wikidata.org/wiki/Q131329		50.289166666667,2.78	Arras	Arras	Arras								
-			Q131792	https://www.wikidata.org/wiki/Q131792		8.56,-60.5	Orénoque	Orinoco	Orinoco								
-			Q131802	https://www.wikidata.org/wiki/Q131802			Scythes	Scythians	Skythen								
-			Q132646	https://www.wikidata.org/wiki/Q132646		36.758056,66.898889	Bactriane	Bactria	Baktrien								
-			Q1345	https://www.wikidata.org/wiki/Q1345		39.952777777778,-75.163611111111	Philadelphie	Philadelphia	Philadelphia								
-			Q1364465	https://www.wikidata.org/wiki/Q1364465		45.912777777778,4.6541666666667	Alix	Alix	Alix								
-			Q13670	https://www.wikidata.org/wiki/Q13670		37.069166666667,15.2875	Syracuse	Syracuse	Syrakus								
-			Q1370	https://www.wikidata.org/wiki/Q1370		37.5,-79	Virginie	Virginia	Virginia								
-			Q1379299	https://www.wikidata.org/wiki/Q1379299		38.423889,27.142778	Smyrne	Smyrna									
-			Q1391	https://www.wikidata.org/wiki/Q1391		39,-76.7	Maryland	Maryland	Maryland								
-			Q13917	https://www.wikidata.org/wiki/Q13917		48.8522,2.3176	Île-de-France	Île-de-France	Île-de-France								
-			Q13950	https://www.wikidata.org/wiki/Q13950		49.5,2.8333333333333	Picardie	Picardy	Picardie								
-			Q1408764	https://www.wikidata.org/wiki/Q1408764		43.585278,39.720278	Circassie	Circassia	Tscherkessien								
-			Q14112	https://www.wikidata.org/wiki/Q14112		42.15,9.0833333333333	Corse	Corsica	Korsika								
-			Q14118	https://www.wikidata.org/wiki/Q14118		45.57,5.9118	Savoie	Savoy	Savoyen								
-			Q142	https://www.wikidata.org/wiki/Q142		47,2	France	France	Frankreich								
-			Q14201393	https://www.wikidata.org/wiki/Q14201393		49.95122,1.779785	Nord de la France	Northern France									
-			Q14294	https://www.wikidata.org/wiki/Q14294		40.3197,-1.6975	Tage	Tagus river	Tajo								
-			Q14323	https://www.wikidata.org/wiki/Q14323		38.915833333333,-6.3333333333333	Mérida	Mérida	Mérida								
-			Q144880	https://www.wikidata.org/wiki/Q144880		37.8,20.75	Zante	Zakynthos	Zakynthos								
-			Q1449	https://www.wikidata.org/wiki/Q1449		44.407186111111,8.9339833333333	Gênes	Genoa	Genua								
-			Q145	https://www.wikidata.org/wiki/Q145		54.6,-2	Royaume-Uni	United Kingdom	Vereinigtes Königreich								
-			Q1458	https://www.wikidata.org/wiki/Q1458		39,16.5	Calabre	Calabria	Kalabrien								
-			Q1460	https://www.wikidata.org/wiki/Q1460		37.599958333333,14.015377777778	Sicile	Sicily	Autonome Region Sizilien								
-			Q1469	https://www.wikidata.org/wiki/Q1469		44.841666666667,4.2186111111111	Loire	Loire	Loire								
-			Q1471	https://www.wikidata.org/wiki/Q1471		49.434722222222,0.1175	Seine	Seine	Seine								
-			Q1479	https://www.wikidata.org/wiki/Q1479		44.837777777778,-0.57944444444444	Bordeaux	Bordeaux	Bordeaux								
-			Q148	https://www.wikidata.org/wiki/Q148		35.844722222222224,103.45194444444445	République populaire de Chine	People's Republic of China	Volksrepublik China								
-			Q1486	https://www.wikidata.org/wiki/Q1486		-34.599722222222,-58.381944444444	Buenos Aires	Buenos Aires	Buenos Aires								
-			Q15	https://www.wikidata.org/wiki/Q15		21.09375,7.1881	Afrique	Africa	Afrika								
-			Q150907	https://www.wikidata.org/wiki/Q150907		49.816,10.865	Franconie	Franconia	Franken								
-			Q151999	https://www.wikidata.org/wiki/Q151999		45.383333333333,5.7333333333333	Dauphiné	Dauphiné	Dauphiné								
-			Q1524	https://www.wikidata.org/wiki/Q1524		37.98416666666667,23.728055555555557	Athènes	Athens	Athen								
-			Q1530	https://www.wikidata.org/wiki/Q1530		33.35,44.416666666667	Bagdad	Baghdad	Bagdad								
-			Q153562	https://www.wikidata.org/wiki/Q153562			opéra	opera house	Opernhaus								
-			Q15476	https://www.wikidata.org/wiki/Q15476		42.666666666667,2.8166666666667	Roussillon	Rosselló	Rosselló								
-			Q15682	https://www.wikidata.org/wiki/Q15682		36.535,-6.2975	Cadix	Cádiz	Cádiz								
-			Q15878	https://www.wikidata.org/wiki/Q15878		49.12233911111111,-0.43664430555555556	Normandie	Normandy	Normandie								
-			Q159	https://www.wikidata.org/wiki/Q159		66.41666666666667,94.25	Russie	Russia	Russland								
-			Q16	https://www.wikidata.org/wiki/Q16		56,-109	Canada	Canada	Kanada								
-			Q163108	https://www.wikidata.org/wiki/Q163108		48.647222222222,-2.0088888888889	Saint-Malo	Saint-Malo	Saint-Malo								
-			Q165090	https://www.wikidata.org/wiki/Q165090		45.566388888889,5.9208333333333	Chambéry	Chambéry	Chambéry								
-			Q1653	https://www.wikidata.org/wiki/Q1653		45.221944444444446,29.743333333333332	Danube	Danube	Donau								
-			Q16560	https://www.wikidata.org/wiki/Q16560			palais	palace	Palast								
-			Q16572	https://www.wikidata.org/wiki/Q16572		23.128795,113.258976	Canton	Guangzhou	Guangzhou								
-			Q166131	https://www.wikidata.org/wiki/Q166131		18.2176,-67.8639	Antilles	Antilles	Antillen								
-			Q166919	https://www.wikidata.org/wiki/Q166919		39.6,22.2	Thessalie	Thessalia	Thessalien								
-			Q167600	https://www.wikidata.org/wiki/Q167600		47.7975,3.5669444444444	Auxerre	Auxerre	Auxerre								
-			Q168159	https://www.wikidata.org/wiki/Q168159		53.293975,-4.376728	Anglesey	Anglesey	Anglesey								
-			Q16869	https://www.wikidata.org/wiki/Q16869		41.01224,28.976018	Constantinople	Constantinople	Konstantinopel								
-			Q169460	https://www.wikidata.org/wiki/Q169460		37.531111,27.275556	Milet	Miletus	Milet								
-			Q17	https://www.wikidata.org/wiki/Q17		35,136	Japon	Japan	Japan								
-			Q17054	https://www.wikidata.org/wiki/Q17054		14.65,-61.015	Martinique	Martinique	Martinique								
-			Q1716449	https://www.wikidata.org/wiki/Q1716449			Royaume houéda	Kingdom of Whydah	Sahé								
-			Q173063	https://www.wikidata.org/wiki/Q173063		42.35,-3.81666667	Castille	Castile	Kastilien								
-			Q1741	https://www.wikidata.org/wiki/Q1741		48.20833,16.373064	Vienne	Vienna	Wien								
-			Q1747689	https://www.wikidata.org/wiki/Q1747689		41.89,12.48	Rome antique	Ancient Rome	Römisches Reich								
-			Q1748	https://www.wikidata.org/wiki/Q1748		55.676111111111,12.568888888889	Copenhague	Copenhagen	Kopenhagen								
-			Q175185	https://www.wikidata.org/wiki/Q175185			campagne	rural area	ländlicher Raum								
-			Q1761	https://www.wikidata.org/wiki/Q1761		53.34972222222222,-6.260277777777778	Dublin	Dublin	Dublin								
-			Q178611	https://www.wikidata.org/wiki/Q178611		47.2431,6.0219	Jura	Jura Mountains	Jura								
-			Q1794	https://www.wikidata.org/wiki/Q1794		50.113611111111,8.6797222222222	Francfort-sur-le-Main	Frankfurt	Frankfurt am Main								
-			Q18	https://www.wikidata.org/wiki/Q18		-21,-59	Amérique du Sud	South America	Südamerika								
-			Q180871	https://www.wikidata.org/wiki/Q180871		49.414166666667,2.8222222222222	Compiègne	Compiègne	Compiègne								
-			Q180918	https://www.wikidata.org/wiki/Q180918		34.77612852,32.42651039	Paphos	Paphos	Paphos								
-			Q18097	https://www.wikidata.org/wiki/Q18097		38.316666666667,127.23333333333	Corée	Korea	Korea								
-			Q181269	https://www.wikidata.org/wiki/Q181269		48.429722222222,0.091944444444444	Alençon	Alençon	Alençon								
-			Q182872	https://www.wikidata.org/wiki/Q182872		48.408888888889,2.7016666666667	Fontainebleau	Fontainebleau	Fontainebleau								
-			Q183	https://www.wikidata.org/wiki/Q183		51,10	Allemagne	Germany	Deutschland								
-			Q183464	https://www.wikidata.org/wiki/Q183464		57.862234,25.967155	Livonie	Livonia	Livland								
-			Q189059	https://www.wikidata.org/wiki/Q189059		39.103611111111,26.533055555556	Mytilène	Mytilene	Mytilini								
-			Q1891	https://www.wikidata.org/wiki/Q1891		44.493888888889,11.342777777778	Bologne	Bologna	Bologna								
-			Q189153	https://www.wikidata.org/wiki/Q189153		48.846388888889,2.2152777777778	Saint-Cloud	Saint-Cloud	Saint-Cloud								
-			Q19232000	https://www.wikidata.org/wiki/Q19232000			Silvérie										
-			Q193	https://www.wikidata.org/wiki/Q193			Saturne	Saturn	Saturn								
-			Q193821	https://www.wikidata.org/wiki/Q193821		47.259166666667,-0.078055555555556	Saumur	Saumur	Saumur								
-			Q193929	https://www.wikidata.org/wiki/Q193929		48.871111111111,2.2269444444444	Suresnes	Suresnes	Suresnes								
-			Q194138	https://www.wikidata.org/wiki/Q194138		47.166944444444,0.24277777777778	Chinon	Chinon	Chinon								
-			Q2	https://www.wikidata.org/wiki/Q2			Terre	Earth	Erde								
-			Q20	https://www.wikidata.org/wiki/Q20		65,11	Norvège	Norway	Norwegen								
-			Q202378	https://www.wikidata.org/wiki/Q202378		48.455277777778,-5.0975	Ouessant	Ushant	Ouessant								
-			Q20306954	https://www.wikidata.org/wiki/Q20306954		16.139722222222,43.151944444444		Samarah									
-			Q20306962	https://www.wikidata.org/wiki/Q20306962		16.938611111111,43.762777777778		Samarah									
-			Q2044	https://www.wikidata.org/wiki/Q2044		43.771388888889,11.254166666667	Florence	Florence	Florenz								
-			Q205057	https://www.wikidata.org/wiki/Q205057		-13.26,-72.11	Cuzco	Cusco Departament	Cusco								
-			Q205653	https://www.wikidata.org/wiki/Q205653			Orient	Orient	Orient								
-			Q206221	https://www.wikidata.org/wiki/Q206221		43.666666666667,3.1666666666667	Languedoc	Languedoc	Languedoc								
-			Q207239	https://www.wikidata.org/wiki/Q207239		36.2575,22.9975	Cythère	Kythira	Kythira								
-			Q2079	https://www.wikidata.org/wiki/Q2079		51.333333333333,12.383333333333	Leipzig	Leipzig	Leipzig								
-			Q209626	https://www.wikidata.org/wiki/Q209626		48.864722222222,2.2508333333333	bois de Boulogne	Bois de Boulogne	Bois de Boulogne								
-			Q21	https://www.wikidata.org/wiki/Q21		53,-1	Angleterre	England	England								
-			Q210672	https://www.wikidata.org/wiki/Q210672		48.653611111111,5.1855555555556	Stainville	Stainville	Stainville								
-			Q21144570	https://www.wikidata.org/wiki/Q21144570			Hortence	Hortence	Hortence								
-			Q2119	https://www.wikidata.org/wiki/Q2119		49.48777777777778,8.466111111111111	Mannheim	Mannheim	Mannheim								
-			Q212420	https://www.wikidata.org/wiki/Q212420		48.197222222222,3.2833333333333	Sens	Sens	Sens								
-			Q213137	https://www.wikidata.org/wiki/Q213137		1,103	Indes orientales	East Indies									
-			Q213763	https://www.wikidata.org/wiki/Q213763		43.3,-0.366667	Béarn	Béarn	Béarn								
-			Q214362	https://www.wikidata.org/wiki/Q214362		47.933888888889,3.2419444444444	Saint-Romain-le-Preux	Saint-Romain-le-Preux	Saint-Romain-le-Preux								
-			Q21476034	https://www.wikidata.org/wiki/Q21476034		-62.45,-60.8		Chica	Playa Chica								
-			Q217293	https://www.wikidata.org/wiki/Q217293		49.285,5.2380555555556	Gercourt-et-Drillancourt	Gercourt-et-Drillancourt	Gercourt-et-Drillancourt								
-			Q219	https://www.wikidata.org/wiki/Q219		42.75,25.5	Bulgarie	Bulgaria	Bulgarien								
-			Q22	https://www.wikidata.org/wiki/Q22		57,-5	Écosse	Scotland	Schottland								
-			Q220	https://www.wikidata.org/wiki/Q220		41.893055555556,12.482777777778	Rome	Rome	Rom								
-			Q22698	https://www.wikidata.org/wiki/Q22698			parc	park	Park								
-			Q22889	https://www.wikidata.org/wiki/Q22889		51.381389,-2.358611	Bath	Bath	Bath								
-			Q229	https://www.wikidata.org/wiki/Q229		35,33	Chypre	Cyprus	Republik Zypern								
-			Q230	https://www.wikidata.org/wiki/Q230		42.016669444444,43.733330555556	Géorgie	Georgia	Georgien								
-			Q23148	https://www.wikidata.org/wiki/Q23148		50.3,-4.9	Cornouailles	Cornwall	Cornwall								
-			Q23154	https://www.wikidata.org/wiki/Q23154		51.45,-2.5833333333333	Bristol	Bristol	Bristol								
-			Q23298	https://www.wikidata.org/wiki/Q23298		51.19,0.73	Kent	Kent	Kent								
-			Q234	https://www.wikidata.org/wiki/Q234		51,4.5	Flandre	Flanders	Flandern								
-			Q23442	https://www.wikidata.org/wiki/Q23442			île	island	Insel								
-			Q23482	https://www.wikidata.org/wiki/Q23482		43.296666666667,5.3763888888889	Marseille	Marseille	Marseille								
-			Q23663811	https://www.wikidata.org/wiki/Q23663811		6.0666666666667,14.316666666667		Tibéré									
-			Q237131	https://www.wikidata.org/wiki/Q237131			France au Moyen Âge	France in the Middle Ages	Frankreich im Mittelalter								
-			Q23792	https://www.wikidata.org/wiki/Q23792		31.625321,35.145264	Palestine	Palestine	Palästina								
-			Q239	https://www.wikidata.org/wiki/Q239		50.846666666666664,4.351666666666667	Bruxelles	City of Brussels	Brüssel								
-			Q241	https://www.wikidata.org/wiki/Q241		22,-79.5	Cuba	Cuba	Kuba								
-			Q2478280	https://www.wikidata.org/wiki/Q2478280		27.1,56.45	Ormuz	Ormus	Ormus (Reich)								
-			Q25	https://www.wikidata.org/wiki/Q25		52.35,-3.6333333333333	pays de Galles	Wales	Wales								
-			Q25277	https://www.wikidata.org/wiki/Q25277		19,-71	Hispaniola	Hispaniola	Hispaniola								
-			Q258540	https://www.wikidata.org/wiki/Q258540		39.872778,22.546667	vallée de Tempé	Vale of Tempe	Tempe								
-			Q262	https://www.wikidata.org/wiki/Q262		28,1	Algérie	Algeria	Algerien								
-			Q26219948	https://www.wikidata.org/wiki/Q26219948			Indes	Indies									
-			Q26253	https://www.wikidata.org/wiki/Q26253		32.75,-17	Madère	Madeira	Autonome Region Madeira								
-			Q2634	https://www.wikidata.org/wiki/Q2634		40.833333333333,14.25	Naples	Naples	Neapel								
-			Q2656	https://www.wikidata.org/wiki/Q2656		38.115658,13.361262	Palerme	Palermo	Palermo								
-			Q26915	https://www.wikidata.org/wiki/Q26915		38.5,22.25	Phocide	Phocis Prefecture	Fokida								
-			Q27	https://www.wikidata.org/wiki/Q27		53,-8	Irlande	Ireland	Irland								
-			Q270	https://www.wikidata.org/wiki/Q270		52.216666666667,21.033333333333	Varsovie	Warsaw	Warschau								
-			Q27275	https://www.wikidata.org/wiki/Q27275		45.3,63.9	Asie centrale	Central Asia	Zentralasien								
-			Q27381	https://www.wikidata.org/wiki/Q27381		30.440741666667,9.6817138888889	Afrique du Nord	North Africa	Nordafrika								
-			Q2742	https://www.wikidata.org/wiki/Q2742		51.9625,7.6255555555556	Münster	Münster	Münster								
-			Q279	https://www.wikidata.org/wiki/Q279		44.64582,10.92572	Modène	Modena	Modena								
-			Q28	https://www.wikidata.org/wiki/Q28		47,19	Hongrie	Hungary	Ungarn								
-			Q2807	https://www.wikidata.org/wiki/Q2807		40.418888888889,-3.6919444444444	Madrid	Madrid	Madrid								
-			Q288	https://www.wikidata.org/wiki/Q288		47.392777777778,0.68833333333333	Tours	Tours	Tours								
-			Q29	https://www.wikidata.org/wiki/Q29		40.2,-3.5	Espagne	Spain	Spanien								
-			Q2946	https://www.wikidata.org/wiki/Q2946		48.804805555556,2.1203333333333	château de Versailles	Palace of Versailles	Schloss Versailles								
-			Q2993546	https://www.wikidata.org/wiki/Q2993546			Paysage de fantaisie										
-			Q2995467	https://www.wikidata.org/wiki/Q2995467			Conte oriental										
-			Q30	https://www.wikidata.org/wiki/Q30		39.828175,-98.5795	États-Unis	United States of America	Vereinigte Staaten								
-			Q301276	https://www.wikidata.org/wiki/Q301276			vestibule	vestibule	Vestibül								
-			Q3034560	https://www.wikidata.org/wiki/Q3034560		49.123055555556,1.7058333333333	domaine de Villarceaux	Domaine of Villarceaux	Domaine de Villarceaux								
-			Q3051218	https://www.wikidata.org/wiki/Q3051218		50.75,3.99	Pagus de Brabant	Brabant	Brabant								
-			Q308	https://www.wikidata.org/wiki/Q308			Mercure	Mercury	Merkur								
-			Q30974	https://www.wikidata.org/wiki/Q30974		49.443055555556,1.1025	Rouen	Rouen	Rouen								
-			Q313	https://www.wikidata.org/wiki/Q313			Vénus	Venus	Venus								
-			Q319	https://www.wikidata.org/wiki/Q319			Jupiter	Jupiter	Jupiter								
-			Q31945	https://www.wikidata.org/wiki/Q31945		23,46	Arabie	Arabian Peninsula	Arabische Halbinsel								
-			Q326339	https://www.wikidata.org/wiki/Q326339		41.01666667,29.01666667	Üsküdar	Üsküdar	Üsküdar								
-			Q327	https://www.wikidata.org/wiki/Q327		48,-3	Bretagne	Brittany	Bretagne								
-			Q329948	https://www.wikidata.org/wiki/Q329948		48.863333333333,2.3369444444444	Palais-Royal	Palais-Royal	Palais-Royal								
-			Q34	https://www.wikidata.org/wiki/Q34		61,15	Suède	Sweden	Schweden								
-			Q3404008	https://www.wikidata.org/wiki/Q3404008			civilisation inca	Inca civilization	Inka								
-			Q3409	https://www.wikidata.org/wiki/Q3409			Sirius	Sirius	Sirius								
-			Q34370	https://www.wikidata.org/wiki/Q34370		51.9225,4.47917	Rotterdam	Rotterdam	Rotterdam								
-			Q34374	https://www.wikidata.org/wiki/Q34374		35.309722222222,24.893333333333	Crète	Crete	Kreta								
-			Q34820	https://www.wikidata.org/wiki/Q34820		18.476388888889,-69.893333333333	Saint-Domingue	Santo Domingo	Santo Domingo								
-			Q35	https://www.wikidata.org/wiki/Q35		56,10	Danemark	Denmark	Dänemark								
-			Q350	https://www.wikidata.org/wiki/Q350		52.208055555556,0.1225	Cambridge	Cambridge	Cambridge								
-			Q35381	https://www.wikidata.org/wiki/Q35381		6.9166666666667,79.833333333333	Colombo	Colombo	Colombo								
-			Q3542	https://www.wikidata.org/wiki/Q3542		9.0822,-10.7233	Niger	Niger River	Niger								
-			Q35509	https://www.wikidata.org/wiki/Q35509			grotte	cave	Höhle								
-			Q3561	https://www.wikidata.org/wiki/Q3561		36.776388888889,3.0586111111111	Alger	Algiers	Algier								
-			Q3572	https://www.wikidata.org/wiki/Q3572		36.800833333333,10.18	Tunis	Tunis	Tunis								
-			Q357201	https://www.wikidata.org/wiki/Q357201			Bourgogne	Burgundy	Burgund								
-			Q3576516	https://www.wikidata.org/wiki/Q3576516			Zéphyre	Zéphire									
-			Q36	https://www.wikidata.org/wiki/Q36		52,19	Pologne	Poland	Polen								
-			Q365	https://www.wikidata.org/wiki/Q365		50.942222222222,6.9577777777778	Cologne	Cologne	Köln								
-			Q36600	https://www.wikidata.org/wiki/Q36600		52.08,4.31	La Haye	The Hague	Den Haag								
-			Q36858333	https://www.wikidata.org/wiki/Q36858333			Erford	Erford	Erford								
-			Q369188	https://www.wikidata.org/wiki/Q369188		46.1075,6.5913888888889	Taninges	Taninges	Taninges								
-			Q3711	https://www.wikidata.org/wiki/Q3711		44.816666666667,20.466666666667	Belgrade	Belgrade	Belgrad								
-			Q37180	https://www.wikidata.org/wiki/Q37180		47.043333333333,3.3916666666667	Saint-Firmin	Saint-Firmin	Saint-Firmin								
-			Q3746183	https://www.wikidata.org/wiki/Q3746183		30,52	Perse	Persis	Persis								
-			Q37495	https://www.wikidata.org/wiki/Q37495		38,19	mer Ionienne	Ionian Sea	Ionisches Meer								
-			Q3757	https://www.wikidata.org/wiki/Q3757		-7.4916666666667,110.00444444444	Java	Java	Java								
-			Q3766	https://www.wikidata.org/wiki/Q3766		33.513055555556,36.291944444444	Damas	Damascus	Damaskus								
-			Q37776	https://www.wikidata.org/wiki/Q37776		47.242222222222,6.0213888888889	Besançon	Besançon	Besançon								
-			Q38	https://www.wikidata.org/wiki/Q38		42.5,12.5	Italie	Italy	Italien								
-			Q38060	https://www.wikidata.org/wiki/Q38060		46.5,2.9	Gaule	Gaul	Gallien								
-			Q3852	https://www.wikidata.org/wiki/Q3852		49.631944444444,8.3652777777778	Worms	Worms	Worms								
-			Q3863033	https://www.wikidata.org/wiki/Q3863033			Morlaquie	Morlachia									
-			Q38872	https://www.wikidata.org/wiki/Q38872			Prusse	Prussia	Preußen								
-			Q3895768	https://www.wikidata.org/wiki/Q3895768			lieu de fiction	fictional location	fiktiver Ort								
-			Q39	https://www.wikidata.org/wiki/Q39		46.798562,8.231973	Suisse	Switzerland	Schweiz								
-			Q39193	https://www.wikidata.org/wiki/Q39193		49.833333333333,14.333333333333	Bohême	Bohemia	Böhmen								
-			Q39865	https://www.wikidata.org/wiki/Q39865		50.5,5.8666666666667	Spa	Spa	Spa								
-			Q399	https://www.wikidata.org/wiki/Q399		40.383333,44.95	Arménie	Armenia	Armenien								
-			Q3992	https://www.wikidata.org/wiki/Q3992		50.639722222222225,5.570555555555556	Liège	Liège	Lüttich								
-			Q40	https://www.wikidata.org/wiki/Q40		48,14	Autriche	Austria	Österreich								
-			Q403366	https://www.wikidata.org/wiki/Q403366			Ééa	Aeaea	Aiaia								
-			Q405	https://www.wikidata.org/wiki/Q405			Lune	Moon	Mond								
-			Q40898	https://www.wikidata.org/wiki/Q40898		48.692777777778,6.1836111111111	Nancy	Nancy	Nancy								
-			Q4092	https://www.wikidata.org/wiki/Q4092		-34.358055555556,18.471944444444	cap de Bonne-Espérance	Cape of Good Hope	Kap der Guten Hoffnung								
-			Q41	https://www.wikidata.org/wiki/Q41		38.5,23	Grèce	Greece	Griechenland								
-			Q41183	https://www.wikidata.org/wiki/Q41183		36.2,37.15	Alep	Aleppo	Aleppo								
-			Q41185	https://www.wikidata.org/wiki/Q41185		49.182222222222,-0.37055555555556	Caen	Caen	Caen								
-			Q41604	https://www.wikidata.org/wiki/Q41604		49.891944444444,2.2977777777778	Amiens	Amiens	Amiens								
-			Q41642	https://www.wikidata.org/wiki/Q41642		34.116667,35.65	Phénicie	Phoenicia	Phönizien								
-			Q41741	https://www.wikidata.org/wiki/Q41741		42,26	Thrace	Thrace	Thrakien								
-			Q41876	https://www.wikidata.org/wiki/Q41876		49.265277777778,4.0286111111111	Reims	Reims	Reims								
-			Q419	https://www.wikidata.org/wiki/Q419		-9.4,-76	Pérou	Peru	Peru								
-			Q42000	https://www.wikidata.org/wiki/Q42000		-17.666666666667,-149.46666666667	Tahiti	Tahiti	Tahiti								
-			Q4204	https://www.wikidata.org/wiki/Q4204		48.3,8.15	Forêt-Noire	Black Forest	Schwarzwald								
-			Q42053	https://www.wikidata.org/wiki/Q42053		32.644722222222,51.6675	Ispahan	Isfahan	Isfahan								
-			Q43	https://www.wikidata.org/wiki/Q43		39,36	Turquie	Turkey	Türkei								
-			Q43048	https://www.wikidata.org/wiki/Q43048		36.166666666667,28	Rhodes	Rhodes	Rhodos								
-			Q43100	https://www.wikidata.org/wiki/Q43100		34.5,76	Cachemire	Kashmir	Kaschmir								
-			Q44613	https://www.wikidata.org/wiki/Q44613			monastère	monastery	Kloster								
-			Q45	https://www.wikidata.org/wiki/Q45		38.7,-9.1833333333333	Portugal	Portugal	Portugal								
-			Q456	https://www.wikidata.org/wiki/Q456		45.758888888889,4.8413888888889	Lyon	Lyon	Lyon								
-			Q46	https://www.wikidata.org/wiki/Q46		48.690959,9.14062	Europe	Europe	Europa								
-			Q472564	https://www.wikidata.org/wiki/Q472564		46.813333333333,12.761111111111	Amlach	Amlach	Amlach								
-			Q47465	https://www.wikidata.org/wiki/Q47465		43.527777777778,5.4455555555556	Aix-en-Provence	Aix-en-Provence	Aix-en-Provence								
-			Q476033	https://www.wikidata.org/wiki/Q476033		52,5	Pays-Bas	Low Countries	Niedere Lande								
-			Q47690	https://www.wikidata.org/wiki/Q47690		32.5,44.5	Babylone	Babylonia	Babylonien								
-			Q48	https://www.wikidata.org/wiki/Q48		43.681111111111115,87.33111111111111	Asie	Asia	Asien								
-			Q48175	https://www.wikidata.org/wiki/Q48175		31.778333333333332,35.22972222222222	Terre sainte	Holy Land	Heiliges Land								
-			Q48726	https://www.wikidata.org/wiki/Q48726		36.967822,55.011854	Hyrcanie	Hyrcania	Hyrkanien								
-			Q49	https://www.wikidata.org/wiki/Q49		47,-105	Amérique du Nord	North America	Nordamerika								
-			Q490	https://www.wikidata.org/wiki/Q490		45.466944444444,9.19	Milan	Milan	Mailand								
-			Q4918	https://www.wikidata.org/wiki/Q4918		38,17	mer Méditerranée	Mediterranean Sea	Mittelmeer								
-			Q495	https://www.wikidata.org/wiki/Q495		45.066666666667,7.7	Turin	Turin	Turin								
-			Q4951156	https://www.wikidata.org/wiki/Q4951156		37.566666666667,14.266666666667	Sicile	Sicily	Sizilien								
-			Q49831	https://www.wikidata.org/wiki/Q49831		49.581111111111,2.9988888888889	Noyon	Noyon	Noyon								
-			Q50189	https://www.wikidata.org/wiki/Q50189		45.899166666667,6.1294444444444	Annecy	Annecy	Annecy								
-			Q505503	https://www.wikidata.org/wiki/Q505503			Cochinchine	Cochinchina	Cochinchina								
-			Q5089	https://www.wikidata.org/wiki/Q5089		22.0833,90.8333	Gange	Ganges	Ganges								
-			Q514081	https://www.wikidata.org/wiki/Q514081		44.7,3.3	Gévaudan	Gévaudan	Gévaudan								
-			Q515	https://www.wikidata.org/wiki/Q515			ville	city	Stadt								
-			Q525	https://www.wikidata.org/wiki/Q525			Soleil	Sun	Sonne								
-			Q52636	https://www.wikidata.org/wiki/Q52636		39.966666666667,4.0833333333333	Minorque	Menorca	Menorca								
-			Q541738	https://www.wikidata.org/wiki/Q541738		49.781388888889,4.7658333333333	Aiglemont	Aiglemont	Aiglemont								
-			Q545	https://www.wikidata.org/wiki/Q545		58,20	mer Baltique	Baltic Sea	Ostsee								
-			Q5465	https://www.wikidata.org/wiki/Q5465		-33.925,18.425	Le Cap	Cape Town	Kapstadt								
-			Q55	https://www.wikidata.org/wiki/Q55		52.316666666667,5.55	Pays-Bas	Netherlands	Niederlande								
-			Q55038540	https://www.wikidata.org/wiki/Q55038540					Verseuil								
-			Q564	https://www.wikidata.org/wiki/Q564			enfer	hell	Hölle								
-			Q5684	https://www.wikidata.org/wiki/Q5684		32.541780555556,44.431644444444	Babylone	Babylon	Babylon								
-			Q5690	https://www.wikidata.org/wiki/Q5690		37.081944444444,22.423611111111	Sparte	Sparta	Sparta								
-			Q5715	https://www.wikidata.org/wiki/Q5715		29.85412,31.25934	Memphis	Memphis	Memphis								
-			Q5813	https://www.wikidata.org/wiki/Q5813		28.536,-15.749	Îles Canaries	Canary Islands	Kanarische Inseln								
-			Q59176	https://www.wikidata.org/wiki/Q59176		49.452222222222,5.4558333333333	Marville	Marville	Marville								
-			Q596	https://www.wikidata.org/wiki/Q596			(1) Cérès	Ceres	(1) Ceres								
-			Q597	https://www.wikidata.org/wiki/Q597		38.708042,-9.139016	Lisbonne	Lisbon	Lissabon								
-			Q597576	https://www.wikidata.org/wiki/Q597576		45.991666666667,1.0452777777778	Cieux	Cieux	Cieux								
-			Q598449	https://www.wikidata.org/wiki/Q598449		49.267777777778,3.6972222222222	Courville	Courville	Courville								
-			Q60	https://www.wikidata.org/wiki/Q60		40.712728,-74.006015	New York	New York City	New York City								
-			Q602	https://www.wikidata.org/wiki/Q602		46.5742,8.3804	Rhône	Rhône	Rhone								
-			Q617	https://www.wikidata.org/wiki/Q617		45.406388888889,11.877777777778	Padoue	Padua	Padua								
-			Q617386	https://www.wikidata.org/wiki/Q617386		49.717777777778,8.1061111111111	Wahlheim	Wahlheim	Wahlheim								
-			Q620765	https://www.wikidata.org/wiki/Q620765		40,30	Lydie	Lydia	Lydien								
-			Q621	https://www.wikidata.org/wiki/Q621		48.804722222222,2.1341666666667	Versailles	Versailles	Versailles								
-			Q62238	https://www.wikidata.org/wiki/Q62238			boudoir	boudoir	Boudoir								
-			Q624458	https://www.wikidata.org/wiki/Q624458		48.064444444444,6.2238888888889	La Haye	La Haye	La Haye								
-			Q6256	https://www.wikidata.org/wiki/Q6256			pays	country	Land								
-			Q62646	https://www.wikidata.org/wiki/Q62646		50.9,11.1	Germanie	Germania	Germania magna								
-			Q626655	https://www.wikidata.org/wiki/Q626655		44.42623611,3.73926389	Cévennes	Cévennes	Cevennen								
-			Q628	https://www.wikidata.org/wiki/Q628		45.695,9.67	Bergame	Bergamo	Bergamo								
-			Q632058	https://www.wikidata.org/wiki/Q632058		42.896666666667,0.065	Barèges	Barèges	Barèges								
-			Q6343	https://www.wikidata.org/wiki/Q6343		36.852558,10.323461	Carthage	Carthage	Karthago								
-			Q6397	https://www.wikidata.org/wiki/Q6397		43.948611111111,4.8083333333333	Avignon	Avignon	Avignon								
-			Q64	https://www.wikidata.org/wiki/Q64		52.516666666667,13.383333333333	Berlin	Berlin	Berlin								
-			Q641	https://www.wikidata.org/wiki/Q641		45.439722222222,12.331944444444	Venise	Venice	Venedig								
-			Q6441	https://www.wikidata.org/wiki/Q6441		43.610919444444,3.8772305555556	Montpellier	Montpellier	Montpellier								
-			Q6454	https://www.wikidata.org/wiki/Q6454		50.9475,1.8555555555556	Calais	Calais	Calais								
-			Q64699469	https://www.wikidata.org/wiki/Q64699469		37.92917,27.35944	Éphèse	Ephesus	Ephesos								
-			Q647	https://www.wikidata.org/wiki/Q647		48.114166666667,-1.6808333333333	Rennes	Rennes	Rennes								
-			Q648	https://www.wikidata.org/wiki/Q648		50.631944444444,3.0575	Lille	Lille	Lille								
-			Q650676	https://www.wikidata.org/wiki/Q650676		50.0747,4.5483	Nismes	Nismes									
-			Q6548	https://www.wikidata.org/wiki/Q6548		47.902222222222,1.9041666666667	Orléans	Orléans	Orléans								
-			Q6555	https://www.wikidata.org/wiki/Q6555		43.184722222222,3.0036111111111	Narbonne	Narbonne	Narbonne								
-			Q656	https://www.wikidata.org/wiki/Q656		59.95,30.316666666667	Saint-Pétersbourg	Saint Petersburg	Sankt Petersburg								
-			Q6588	https://www.wikidata.org/wiki/Q6588		45.184166666667,0.71805555555556	Périgueux	Périgueux	Périgueux								
-			Q6602	https://www.wikidata.org/wiki/Q6602		48.573333333333,7.7522222222222	Strasbourg	Strasbourg	Straßburg								
-			Q6616	https://www.wikidata.org/wiki/Q6616		46.581111111111,0.33527777777778	Poitiers	Poitiers	Poitiers								
-			Q6619693	https://www.wikidata.org/wiki/Q6619693			île de fiction	fictional island	fiktive Insel								
-			Q664	https://www.wikidata.org/wiki/Q664		-41.2,174	Nouvelle-Zélande	New Zealand	Neuseeland								
-			Q668	https://www.wikidata.org/wiki/Q668		22.8,83	Inde	India	Indien								
-			Q669037	https://www.wikidata.org/wiki/Q669037		21.98333333,-79.03333333	Indes occidentales	West Indies	Westindische Inseln								
-			Q6747596	https://www.wikidata.org/wiki/Q6747596			Michette	Manchet									
-			Q684	https://www.wikidata.org/wiki/Q684			est	east	Osten								
-			Q6842	https://www.wikidata.org/wiki/Q6842		51.79,6.14	Clèves	Kleve	Kleve								
-			Q69625	https://www.wikidata.org/wiki/Q69625		47.192222222222,8.83	Altendorf	Altendorf	Altendorf SZ								
-			Q70	https://www.wikidata.org/wiki/Q70		46.94798,7.44743	Berne	Bern	Bern								
-			Q7003	https://www.wikidata.org/wiki/Q7003		47.323055555556,5.0419444444444	Dijon	Dijon	Dijon								
-			Q7007824	https://www.wikidata.org/wiki/Q7007824			Abyssinie	Abyssinia	Abessinien								
-			Q71	https://www.wikidata.org/wiki/Q71		46.2,6.15	Genève	Geneva	Genf								
-			Q72	https://www.wikidata.org/wiki/Q72		47.378611111111,8.54	Zurich	Zürich	Zürich								
-			Q7204	https://www.wikidata.org/wiki/Q7204		28,45	Moyen-Orient	Middle East	Mittlerer Osten								
-			Q72499	https://www.wikidata.org/wiki/Q72499		35,18	bassin méditerranéen	Mediterranean Basin	Mittelmeerraum								
-			Q727	https://www.wikidata.org/wiki/Q727		52.383333333333,4.9	Amsterdam	Amsterdam	Amsterdam								
-			Q7270	https://www.wikidata.org/wiki/Q7270			république	republic	Republik								
-			Q7275	https://www.wikidata.org/wiki/Q7275			État	state	Staat								
-			Q732586	https://www.wikidata.org/wiki/Q732586		47.696944444444,3.9938888888889	Noyers	Noyers	Noyers								
-			Q733	https://www.wikidata.org/wiki/Q733		-23.5,-58	Paraguay	Paraguay	Paraguay								
-			Q742117	https://www.wikidata.org/wiki/Q742117		38.708042,-9.139016	Estrémadure	Estremadura	Estremadura								
-			Q75459	https://www.wikidata.org/wiki/Q75459		38.483333333333,22.5	Delphes	Delphi	Delphi								
-			Q759587	https://www.wikidata.org/wiki/Q759587		48.966111111111,1.6016666666667	Ménerville	Ménerville	Ménerville								
-			Q766	https://www.wikidata.org/wiki/Q766		18.18,-77.4	Jamaïque	Jamaica	Jamaika								
-			Q785	https://www.wikidata.org/wiki/Q785		49.19,-2.11	Jersey	Jersey	Jersey								
-			Q7880	https://www.wikidata.org/wiki/Q7880		43.604444444444,1.4438888888889	Toulouse	Toulouse	Toulouse								
-			Q79	https://www.wikidata.org/wiki/Q79		27,29	Égypte	Egypt	Ägypten								
-			Q79848	https://www.wikidata.org/wiki/Q79848		50.906666666666666,-1.4044444444444444	Southampton	Southampton	Southampton								
-			Q80338	https://www.wikidata.org/wiki/Q80338		24,88	Bengale	Bengal	Bengalen								
-			Q8065766	https://www.wikidata.org/wiki/Q8065766		11.083333333333,-0.56666666666667	Zamé	Zame									
-			Q807	https://www.wikidata.org/wiki/Q807		46.533333333333,6.6333333333333	Lausanne	Lausanne	Lausanne								
-			Q809717	https://www.wikidata.org/wiki/Q809717					Bas-Languedoc								
-			Q81483	https://www.wikidata.org/wiki/Q81483		34,36	Levant	Levant	Levante								
-			Q81720	https://www.wikidata.org/wiki/Q81720		51.1035,17.0396	Silésie	Silesia	Schlesien								
-			Q82070	https://www.wikidata.org/wiki/Q82070		33.266666666667,35.2	Tyr	Tyre	Tyros								
-			Q822	https://www.wikidata.org/wiki/Q822		33.833333,35.766667	Liban	Lebanon	Libanon								
-			Q82794	https://www.wikidata.org/wiki/Q82794			zone géographique	geographic region	Region								
-			Q828	https://www.wikidata.org/wiki/Q828		19,-96	Amérique	Americas	Amerika								
-			Q833380	https://www.wikidata.org/wiki/Q833380		49.076388888889,3.6394444444444	Dormans	Dormans	Dormans								
-			Q83971	https://www.wikidata.org/wiki/Q83971			Tartarie	Tartary	Tatarei								
-			Q84	https://www.wikidata.org/wiki/Q84		51.507222222222,-0.1275	Londres	London	London								
-			Q845909	https://www.wikidata.org/wiki/Q845909			Scythie	Scythia	Skythien								
-			Q850620	https://www.wikidata.org/wiki/Q850620		45.183333333333,0.71666666666667	Périgord	Périgord	Périgord								
-			Q8514	https://www.wikidata.org/wiki/Q8514			désert	desert	Wüste								
-			Q854	https://www.wikidata.org/wiki/Q854		7,81	Sri Lanka	Sri Lanka	Sri Lanka								
-			Q858	https://www.wikidata.org/wiki/Q858		35.216667,38.583333	Syrie	Syria	Syrien								
-			Q861551	https://www.wikidata.org/wiki/Q861551		19.1,-72.333333333333	Saint-Domingue	Saint-Domingue	Saint-Domingue								
-			Q864148	https://www.wikidata.org/wiki/Q864148		33.17972222,131.38611111	Bungo	Bungo Province	Provinz Bungo								
-			Q87	https://www.wikidata.org/wiki/Q87		31.2,29.916666666667	Alexandrie	Alexandria	Alexandria								
-			Q8810	https://www.wikidata.org/wiki/Q8810		37.178055555556,-3.6008333333333	Grenade	Granada	Granada								
-			Q8818	https://www.wikidata.org/wiki/Q8818		39.47,-0.3763888888888889	Valence	Valencia	Valencia								
-			Q8851	https://www.wikidata.org/wiki/Q8851		36.716666666667,-4.4166666666667	Malaga	Málaga	Málaga								
-			Q90	https://www.wikidata.org/wiki/Q90		48.856944444444,2.3513888888889	Paris	Paris	Paris								
-			Q916	https://www.wikidata.org/wiki/Q916		-12.35,17.35	Angola	Angola	Angola								
-			Q948	https://www.wikidata.org/wiki/Q948		34,10	Tunisie	Tunisia	Tunesien								
-			Q954076	https://www.wikidata.org/wiki/Q954076		46.64861111,-0.24777778	Poitou	Poitou	Poitou								
-			Q956	https://www.wikidata.org/wiki/Q956		39.90403,116.407526	Pékin	Beijing	Peking								
-			Q96	https://www.wikidata.org/wiki/Q96		23,-102	Mexique	Mexico	Mexiko								
-			Q9679	https://www.wikidata.org/wiki/Q9679		50.666666666667,-1.2666666666667	île de Wight	Isle of Wight	Isle of Wight								
-			Q980	https://www.wikidata.org/wiki/Q980		48.7775,11.431111111111	Bavière	Bavaria	Bayern								
-			Q99545681	https://www.wikidata.org/wiki/Q99545681			Perse antique	ancient Persia									
