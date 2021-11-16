@@ -157,7 +157,7 @@ cabinet de curiosité	cabinet of curiosities	Kuriositätenkabinett	Q1146002		htt
 			Q213137	https://www.wikidata.org/wiki/Q213137		1,103	Indes orientales	East Indies									
 			Q213763	https://www.wikidata.org/wiki/Q213763		43.3,-0.366667	Béarn	Béarn	Béarn								
 			Q214362	https://www.wikidata.org/wiki/Q214362		47.933888888889,3.2419444444444	Saint-Romain-le-Preux	Saint-Romain-le-Preux	Saint-Romain-le-Preux								
-			Q21476034	https://www.wikidata.org/wiki/Q21476034		-62.45,-60.8		Chica	Playa Chica								
+			Q21476034	https://www.wikidata.org/wiki/Q21476034		-62.45,-60.8	Chica	Chica	Playa Chica								
 			Q217293	https://www.wikidata.org/wiki/Q217293		49.285,5.2380555555556	Gercourt-et-Drillancourt	Gercourt-et-Drillancourt	Gercourt-et-Drillancourt								
 			Q219	https://www.wikidata.org/wiki/Q219		42.75,25.5	Bulgarie	Bulgaria	Bulgarien								
 			Q22	https://www.wikidata.org/wiki/Q22		57,-5	Écosse	Scotland	Schottland	DEL	exact match						
@@ -174,7 +174,7 @@ cabinet de curiosité	cabinet of curiosities	Kuriositätenkabinett	Q1146002		htt
 			Q23442	https://www.wikidata.org/wiki/Q23442			île	island	Insel	DEL	exact match						
 			Q23482	https://www.wikidata.org/wiki/Q23482		43.296666666667,5.3763888888889	Marseille	Marseille	Marseille								
 Balkans	Balkans	Balkan	Q23522		https://www.wikidata.org/wiki/Q23522	42,22	Balkans	Balkans	Balkanhalbinsel	DEL	close match						
-			Q23663811	https://www.wikidata.org/wiki/Q23663811		6.0666666666667,14.316666666667		Tibéré									
+			Q23663811	https://www.wikidata.org/wiki/Q23663811		6.0666666666667,14.316666666667	Tibéré	Tibéré									
 			Q237131	https://www.wikidata.org/wiki/Q237131			France au Moyen Âge	France in the Middle Ages	Frankreich im Mittelalter								
 			Q23792	https://www.wikidata.org/wiki/Q23792		31.625321,35.145264	Palestine	Palestine	Palästina								
 			Q239	https://www.wikidata.org/wiki/Q239		50.846666666666664,4.351666666666667	Bruxelles	City of Brussels	Brüssel								
@@ -228,7 +228,6 @@ Balkans	Balkans	Balkan	Q23522		https://www.wikidata.org/wiki/Q23522	42,22	Balkan
 			Q35381	https://www.wikidata.org/wiki/Q35381		6.9166666666667,79.833333333333	Colombo	Colombo	Colombo								
 			Q3542	https://www.wikidata.org/wiki/Q3542		9.0822,-10.7233	Niger	Niger River	Niger								
 grotte	cave	Höhle	Q35509		https://www.wikidata.org/wiki/Q35509					BGRF	close match						
-			Q35509	https://www.wikidata.org/wiki/Q35509			grotte	cave	Höhle								
 			Q3561	https://www.wikidata.org/wiki/Q3561		36.776388888889,3.0586111111111	Alger	Algiers	Algier								
 			Q3572	https://www.wikidata.org/wiki/Q3572		36.800833333333,10.18	Tunis	Tunis	Tunis								
 			Q357201	https://www.wikidata.org/wiki/Q357201			Bourgogne	Burgundy	Burgund								
@@ -251,7 +250,6 @@ Erford							Erford
 			Q3863033	https://www.wikidata.org/wiki/Q3863033			Morlaquie	Morlachia									
 			Q38872	https://www.wikidata.org/wiki/Q38872			Prusse	Prussia	Preußen								
 lieu imaginaire	imaginary place	imaginärer Ort	Q3895768		https://www.wikidata.org/wiki/Q3895768					BGRF	close match						
-			Q3895768	https://www.wikidata.org/wiki/Q3895768			lieu de fiction	fictional location	fiktiver Ort								
 			Q39	https://www.wikidata.org/wiki/Q39		46.798562,8.231973	Suisse	Switzerland	Schweiz	DEL	exact match						
 			Q39193	https://www.wikidata.org/wiki/Q39193		49.833333333333,14.333333333333	Bohême	Bohemia	Böhmen								
 			Q39865	https://www.wikidata.org/wiki/Q39865		50.5,5.8666666666667	Spa	Spa	Spa								
@@ -310,7 +308,6 @@ lieu imaginaire	imaginary place	imaginärer Ort	Q3895768		https://www.wikidata.o
 			Q545	https://www.wikidata.org/wiki/Q545		58,20	mer Baltique	Baltic Sea	Ostsee								
 			Q5465	https://www.wikidata.org/wiki/Q5465		-33.925,18.425	Le Cap	Cape Town	Kapstadt								
 Hollande	Netherlands	Niederlande	Q55	https://www.wikidata.org/wiki/Q55		52.316666666667,5.55	Pays-Bas	Netherlands	Niederlande	DEL	exact match						
-			Q55038540	https://www.wikidata.org/wiki/Q55038540					Verseuil								
 			Q564	https://www.wikidata.org/wiki/Q564			enfer	hell	Hölle	BGRF	exact match						
 			Q5684	https://www.wikidata.org/wiki/Q5684		32.541780555556,44.431644444444	Babylone	Babylon	Babylon								
 			Q5690	https://www.wikidata.org/wiki/Q5690		37.081944444444,22.423611111111	Sparte	Sparta	Sparta								
@@ -384,7 +381,7 @@ Locus amoenus	Locus amoenus	Locus amoenus	Q739317		https://www.wikidata.org/wiki
 			Q80338	https://www.wikidata.org/wiki/Q80338		24,88	Bengale	Bengal	Bengalen								
 			Q8065766	https://www.wikidata.org/wiki/Q8065766		11.083333333333,-0.56666666666667	Zamé	Zame									
 			Q807	https://www.wikidata.org/wiki/Q807		46.533333333333,6.6333333333333	Lausanne	Lausanne	Lausanne								
-			Q809717	https://www.wikidata.org/wiki/Q809717					Bas-Languedoc								
+			Q809717	https://www.wikidata.org/wiki/Q809717			Bas-Languedoc		Bas-Languedoc								
 			Q81483	https://www.wikidata.org/wiki/Q81483		34,36	Levant	Levant	Levante								
 			Q81720	https://www.wikidata.org/wiki/Q81720		51.1035,17.0396	Silésie	Silesia	Schlesien								
 			Q82070	https://www.wikidata.org/wiki/Q82070		33.266666666667,35.2	Tyr	Tyre	Tyros								
