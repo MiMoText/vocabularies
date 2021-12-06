@@ -52,7 +52,7 @@ cabinet de curiosité	cabinet of curiosities	Kuriositätenkabinett	Q1146002		htt
 			Q12798	https://www.wikidata.org/wiki/Q12798		46.670556,-1.426667	Vendée	Vendée	Département Vendée								
 			Q128087	https://www.wikidata.org/wiki/Q128087		39.21,26.28	Lesbos	Lesbos	Lesbos								
 			Q12824780	https://www.wikidata.org/wiki/Q12824780		39,34	Asie mineure	Asia Minor	Kleinasien								
-			Q1286	https://www.wikidata.org/wiki/Q1286		46,10	Alpes	Alps	Alpen								
+			Q1286	https://www.wikidata.org/wiki/Q1286		46,1	Alpes	Alps	Alpen								
 			Q1289	https://www.wikidata.org/wiki/Q1289		45.186944444444,5.7263888888889	Grenoble	Grenoble	Grenoble								
 			Q12892	https://www.wikidata.org/wiki/Q12892		51.221111111111114,4.3997222222222225	Anvers	Antwerp	Antwerpen								
 			Q129072	https://www.wikidata.org/wiki/Q129072		29.934444444444,52.891388888889	Persépolis	Persepolis	Persepolis								
@@ -127,7 +127,7 @@ cabinet de curiosité	cabinet of curiosities	Kuriositätenkabinett	Q1146002		htt
 			Q18097	https://www.wikidata.org/wiki/Q18097		38.316666666667,127.23333333333	Corée	Korea	Korea								
 			Q181269	https://www.wikidata.org/wiki/Q181269		48.429722222222,0.091944444444444	Alençon	Alençon	Alençon								
 			Q182872	https://www.wikidata.org/wiki/Q182872		48.408888888889,2.7016666666667	Fontainebleau	Fontainebleau	Fontainebleau								
-			Q183	https://www.wikidata.org/wiki/Q183		51,10	Allemagne	Germany	Deutschland	DEL	exact match						
+			Q183	https://www.wikidata.org/wiki/Q183		51,1	Allemagne	Germany	Deutschland	DEL	exact match						
 			Q183464	https://www.wikidata.org/wiki/Q183464		57.862234,25.967155	Livonie	Livonia	Livland								
 			Q189059	https://www.wikidata.org/wiki/Q189059		39.103611111111,26.533055555556	Mytilène	Mytilene	Mytilini								
 			Q1891	https://www.wikidata.org/wiki/Q1891		44.493888888889,11.342777777778	Bologne	Bologna	Bologna								
@@ -223,7 +223,7 @@ Balkans	Balkans	Balkan	Q23522		https://www.wikidata.org/wiki/Q23522	42,22	Balkan
 			Q34370	https://www.wikidata.org/wiki/Q34370		51.9225,4.47917	Rotterdam	Rotterdam	Rotterdam								
 			Q34374	https://www.wikidata.org/wiki/Q34374		35.309722222222,24.893333333333	Crète	Crete	Kreta								
 			Q34820	https://www.wikidata.org/wiki/Q34820		18.476388888889,-69.893333333333	Saint-Domingue	Santo Domingo	Santo Domingo								
-			Q35	https://www.wikidata.org/wiki/Q35		56,10	Danemark	Denmark	Dänemark	DEL	exact match						
+			Q35	https://www.wikidata.org/wiki/Q35		56,1	Danemark	Denmark	Dänemark	DEL	exact match						
 			Q350	https://www.wikidata.org/wiki/Q350		52.208055555556,0.1225	Cambridge	Cambridge	Cambridge								
 			Q35381	https://www.wikidata.org/wiki/Q35381		6.9166666666667,79.833333333333	Colombo	Colombo	Colombo								
 			Q3542	https://www.wikidata.org/wiki/Q3542		9.0822,-10.7233	Niger	Niger River	Niger								
@@ -305,7 +305,7 @@ lieu imaginaire	imaginary place	imaginärer Ort	Q3895768		https://www.wikidata.o
 			Q532	https://www.wikidata.org/wiki/Q532			village	village	Dorf	DEL	exact match						
 			Q541738	https://www.wikidata.org/wiki/Q541738		49.781388888889,4.7658333333333	Aiglemont	Aiglemont	Aiglemont								
 			Q544	https://www.wikidata.org/wiki/Q544			système solaire	Solar System	Sonnensystem	DEL	exact match						
-			Q545	https://www.wikidata.org/wiki/Q545		58,20	mer Baltique	Baltic Sea	Ostsee								
+			Q545	https://www.wikidata.org/wiki/Q545		58,2	mer Baltique	Baltic Sea	Ostsee								
 			Q5465	https://www.wikidata.org/wiki/Q5465		-33.925,18.425	Le Cap	Cape Town	Kapstadt								
 Hollande	Netherlands	Niederlande	Q55	https://www.wikidata.org/wiki/Q55		52.316666666667,5.55	Pays-Bas	Netherlands	Niederlande	DEL	exact match						
 			Q564	https://www.wikidata.org/wiki/Q564			enfer	hell	Hölle	BGRF	exact match						
@@ -323,7 +323,7 @@ Hollande	Netherlands	Niederlande	Q55	https://www.wikidata.org/wiki/Q55		52.31666
 			Q602	https://www.wikidata.org/wiki/Q602		46.5742,8.3804	Rhône	Rhône	Rhone								
 			Q617	https://www.wikidata.org/wiki/Q617		45.406388888889,11.877777777778	Padoue	Padua	Padua								
 			Q617386	https://www.wikidata.org/wiki/Q617386		49.717777777778,8.1061111111111	Wahlheim	Wahlheim	Wahlheim								
-			Q620765	https://www.wikidata.org/wiki/Q620765		40,30	Lydie	Lydia	Lydien								
+			Q620765	https://www.wikidata.org/wiki/Q620765		40,3	Lydie	Lydia	Lydien								
 			Q621	https://www.wikidata.org/wiki/Q621		48.804722222222,2.1341666666667	Versailles	Versailles	Versailles								
 			Q62238	https://www.wikidata.org/wiki/Q62238			boudoir	boudoir	Boudoir	DEL	exact match						
 			Q624458	https://www.wikidata.org/wiki/Q624458		48.064444444444,6.2238888888889	La Haye	La Haye	La Haye								
@@ -405,178 +405,268 @@ Locus amoenus	Locus amoenus	Locus amoenus	Q739317		https://www.wikidata.org/wiki
 			Q8851	https://www.wikidata.org/wiki/Q8851		36.716666666667,-4.4166666666667	Malaga	Málaga	Málaga								
 			Q90	https://www.wikidata.org/wiki/Q90		48.856944444444,2.3513888888889	Paris	Paris	Paris								
 			Q916	https://www.wikidata.org/wiki/Q916		-12.35,17.35	Angola	Angola	Angola								
-			Q948	https://www.wikidata.org/wiki/Q948		34,10	Tunisie	Tunisia	Tunesien								
+			Q948	https://www.wikidata.org/wiki/Q948		34,1	Tunisie	Tunisia	Tunesien								
 			Q954076	https://www.wikidata.org/wiki/Q954076		46.64861111,-0.24777778	Poitou	Poitou	Poitou								
 			Q956	https://www.wikidata.org/wiki/Q956		39.90403,116.407526	Pékin	Beijing	Peking								
 			Q96	https://www.wikidata.org/wiki/Q96		23,-102	Mexique	Mexico	Mexiko								
 			Q9679	https://www.wikidata.org/wiki/Q9679		50.666666666667,-1.2666666666667	île de Wight	Isle of Wight	Isle of Wight								
 			Q980	https://www.wikidata.org/wiki/Q980		48.7775,11.431111111111	Bavière	Bavaria	Bayern								
 			Q99545681	https://www.wikidata.org/wiki/Q99545681			Perse antique	ancient Persia									
-Versenai							Versenai			NER							
-Albi							Albi			NER							
-Alcine							Alcine			NER							
-Alibre							Alibre			NER							
-Alibre							Alibre			NER							
-Almont							Almont			NER							
-Amand							Amand			NER							
-Amazan							Amazan			NER							
-Arcis							Arcis			NER							
-Armincourt							Armincourt			NER							
-Barin							Barin			NER							
-Baronnet							Baronnet			NER							
-Beaumenard							Beaumenard			NER							
-Belcour							Belcour			NER							
-Belise							Belise			NER							
-Bougainville							Bougainville			NER							
-Branlinos							Branlinos			NER							
-Briceval							Briceval			NER							
-Bruxelles							Bruxelles			NER							
-Bude							Bude			NER							
-Calais							Calais			NER							
-Cardoville							Cardoville			NER							
-Chelles							Chelles			NER							
-Cidalise							Cidalise			NER							
-Clarens							Clarens			NER							
-Combe							Combe			NER							
-Comminges							Comminges			NER							
-Cressy							Cressy			NER							
-Dainville							Dainville			NER							
-Déterville							Déterville			NER							
-Diaulas							Diaulas			NER							
-Dinazarde							Dinazarde			NER							
-Dolimon							Dolimon			NER							
-Dorneuil							Dorneuil			NER							
-Dorville							Dorville			NER							
-Elmasie							Elmasie			NER							
-Eranville							Eranville			NER							
-Europe							Europe			NER							
-Fakreddin							Fakreddin			NER							
-Fanchette							Fanchette			NER							
-Fanchette							Fanchette			NER							
-Fermon							Fermon			NER							
-Fessinot							Fessinot			NER							
-Flamacour							Flamacour			NER							
-Florimonde							Florimonde			NER							
-Florise							Florise			NER							
-Fromonville							Fromonville			NER							
-Gaine							Gaine			NER							
-Galligènes							Galligènes			NER							
-Géminyile							Géminyile			NER							
-Gersay							Gersay			NER							
-Guaé							Guaé			NER							
-Guaiziek							Guaiziek			NER							
-Gulchenrouz							Gulchenrouz			NER							
-Hariote							Hariote			NER							
-Hiboumanes							Hiboumanes			NER							
-Inare							Inare			NER							
-Isle							Isle			NER							
-Isles							Isles			NER							
-Isménie							Isménie			NER							
-Jagrenat							Jagrenat			NER							
-Lacédémone							Lacédémone			NER							
-Lagaraye							Lagaraye			NER							
-Lagouache							Lagouache			NER							
-Layrac							Layrac			NER							
-le Taïtien							le Taïtien			NER							
-Lesseville							Lesseville			NER							
-Locriens							Locriens			NER							
-Longchamp							Longchamp			NER							
-Manzaïde							Manzaïde			NER							
-Massanne							Massanne			NER							
-Médie							Médie			NER							
-Ménécrate							Ménécrate			NER							
-Méris							Méris			NER							
-Merval							Merval			NER							
-Milcourt							Milcourt			NER							
-Minois							Minois			NER							
-Mirval							Mirval			NER							
-Mœris							Mœris			NER							
-Molinos							Molinos			NER							
-Montfort							Montfort			NER							
-Morakanabad							Morakanabad			NER							
-Murcé							Murcé			NER							
-Nasuf							Nasuf			NER							
-Neuilly							Neuilly			NER							
-Nismes							Nismes			NER							
-Nitri							Nitri			NER							
-Olympia							Olympia			NER							
-Orbe							Orbe			NER							
-Orl							Orl			NER							
-Ormilly							Ormilly			NER							
-Orseuil							Orseuil			NER							
-Paquantois							Paquantois			NER							
-Parangon							Parangon			NER							
-Phocus							Phocus			NER							
-Primrose							Primrose			NER							
-Rosemont							Rosemont			NER							
-Saint - Flour							Saint - Flour			NER							
-Saint-Ange							Saint-Ange			NER							
-Saint-Flour							Saint-Flour			NER							
-Saintré							Saintré			NER							
-Sancerre							Sancerre			NER							
-Sargines							Sargines			NER							
-sauvai							sauvai			NER							
-Senneterre							Senneterre			NER							
-Senneville							Senneville			NER							
-Sidley							Sidley			NER							
-Sinderson							Sinderson			NER							
-Sylvanire							Sylvanire			NER							
-Syndham							Syndham			NER							
-Téolinde							Téolinde			NER							
-Tergowitz							Tergowitz			NER							
-Thémines							Thémines			NER							
-Thomill							Thomill			NER							
-Thrazylle							Thrazylle			NER							
-Tien							Tien			NER							
-Tiennete							Tiennete			NER							
-Timante							Timante			NER							
-Timori							Timori			NER							
-Tout-Ou-Rien							Tout-Ou-Rien			NER							
-Ust							Ust			NER							
-Valcreux							Valcreux			NER							
-Vante							Vante			NER							
-Vinchester							Vinchester			NER							
-Vitikind							Vitikind			NER							
-Volsange							Volsange			NER							
-Wilton							Wilton			NER							
-Zeinzemin							Zeinzemin			NER							
-Zerbin							Zerbin			NER							
-Alménidore							Alménidore			NER							
-Ardasire							Ardasire			NER							
-Armoflède							Armoflède			NER							
-Artidore							Artidore			NER							
-Auterive							Auterive			NER							
-Axiochus							Axiochus			NER							
-Barville							Barville			NER							
-Bazilette							Bazilette			NER							
-Belosane							Belosane			NER							
-Célimene							Célimene			NER							
-Desglands							Desglands			NER							
-Dubois							Dubois			NER							
-Euphrosie							Euphrosie			NER							
-Fleur-De-Myrte							Fleur-De-Myrte			NER							
-Florizene							Florizene			NER							
-Français							Français			NER							
-Franval							Franval			NER							
-Frivolipolis							Frivolipolis			NER							
-Golconde							Golconde			NER							
-Jezennemours							Jezennemours			NER							
-Kermouth							Kermouth			NER							
-Lamontette							Lamontette			NER							
-Luzan							Luzan			NER							
-Mondelis							Mondelis			NER							
-Mortagne							Mortagne			NER							
-Nassès							Nassès			NER							
-Némorin							Némorin			NER							
-Nouronihar							Nouronihar			NER							
-Paquans							Paquans			NER							
-Periphas							Periphas			NER							
-Pizarre							Pizarre			NER							
-Saint-Flour							Saint-Flour			NER							
-Saint-Silvain							Saint-Silvain			NER							
-Schah-Baham							Schah-Baham			NER							
-S-Firmin							S-Firmin			NER							
-Sydney							Sydney			NER							
-Trénel							Trénel			NER							
-Verglan							Verglan			NER							
-Vernol							Vernol			NER							
+Versenai	Versenai	Versenai					Versenai	Versenai	Versenai	NER							
+Albi	Albi	Albi					Albi	Albi	Albi	NER							
+Alcine	Alcine	Alcine					Alcine	Alcine	Alcine	NER							
+Alibre	Alibre	Alibre					Alibre	Alibre	Alibre	NER							
+Alibre	Alibre	Alibre					Alibre	Alibre	Alibre	NER							
+Almont	Almont	Almont					Almont	Almont	Almont	NER							
+Amand	Amand	Amand					Amand	Amand	Amand	NER							
+Amazan	Amazan	Amazan					Amazan	Amazan	Amazan	NER							
+Arcis	Arcis	Arcis					Arcis	Arcis	Arcis	NER							
+Armincourt	Armincourt	Armincourt					Armincourt	Armincourt	Armincourt	NER							
+Barin	Barin	Barin					Barin	Barin	Barin	NER							
+Baronnet	Baronnet	Baronnet					Baronnet	Baronnet	Baronnet	NER							
+Beaumenard	Beaumenard	Beaumenard					Beaumenard	Beaumenard	Beaumenard	NER							
+Belcour	Belcour	Belcour					Belcour	Belcour	Belcour	NER							
+Belise	Belise	Belise					Belise	Belise	Belise	NER							
+Bougainville	Bougainville	Bougainville					Bougainville	Bougainville	Bougainville	NER							
+Branlinos	Branlinos	Branlinos					Branlinos	Branlinos	Branlinos	NER							
+Briceval	Briceval	Briceval					Briceval	Briceval	Briceval	NER							
+Bruxelles	Bruxelles	Bruxelles					Bruxelles	Bruxelles	Bruxelles	NER							
+Bude	Bude	Bude					Bude	Bude	Bude	NER							
+Calais	Calais	Calais					Calais	Calais	Calais	NER							
+Cardoville	Cardoville	Cardoville					Cardoville	Cardoville	Cardoville	NER							
+Chelles	Chelles	Chelles					Chelles	Chelles	Chelles	NER							
+Cidalise	Cidalise	Cidalise					Cidalise	Cidalise	Cidalise	NER							
+Clarens	Clarens	Clarens					Clarens	Clarens	Clarens	NER							
+Combe	Combe	Combe					Combe	Combe	Combe	NER							
+Comminges	Comminges	Comminges					Comminges	Comminges	Comminges	NER							
+Cressy	Cressy	Cressy					Cressy	Cressy	Cressy	NER							
+Dainville	Dainville	Dainville					Dainville	Dainville	Dainville	NER							
+Déterville	Déterville	Déterville					Déterville	Déterville	Déterville	NER							
+Diaulas	Diaulas	Diaulas					Diaulas	Diaulas	Diaulas	NER							
+Dinazarde	Dinazarde	Dinazarde					Dinazarde	Dinazarde	Dinazarde	NER							
+Dolimon	Dolimon	Dolimon					Dolimon	Dolimon	Dolimon	NER							
+Dorneuil	Dorneuil	Dorneuil					Dorneuil	Dorneuil	Dorneuil	NER							
+Dorville	Dorville	Dorville					Dorville	Dorville	Dorville	NER							
+Elmasie	Elmasie	Elmasie					Elmasie	Elmasie	Elmasie	NER							
+Eranville	Eranville	Eranville					Eranville	Eranville	Eranville	NER							
+Europe	Europe	Europe					Europe	Europe	Europe	NER							
+Fakreddin	Fakreddin	Fakreddin					Fakreddin	Fakreddin	Fakreddin	NER							
+Fanchette	Fanchette	Fanchette					Fanchette	Fanchette	Fanchette	NER							
+Fanchette	Fanchette	Fanchette					Fanchette	Fanchette	Fanchette	NER							
+Fermon	Fermon	Fermon					Fermon	Fermon	Fermon	NER							
+Fessinot	Fessinot	Fessinot					Fessinot	Fessinot	Fessinot	NER							
+Flamacour	Flamacour	Flamacour					Flamacour	Flamacour	Flamacour	NER							
+Florimonde	Florimonde	Florimonde					Florimonde	Florimonde	Florimonde	NER							
+Florise	Florise	Florise					Florise	Florise	Florise	NER							
+Fromonville	Fromonville	Fromonville					Fromonville	Fromonville	Fromonville	NER							
+Gaine	Gaine	Gaine					Gaine	Gaine	Gaine	NER							
+Galligènes	Galligènes	Galligènes					Galligènes	Galligènes	Galligènes	NER							
+Géminyile	Géminyile	Géminyile					Géminyile	Géminyile	Géminyile	NER							
+Gersay	Gersay	Gersay					Gersay	Gersay	Gersay	NER							
+Guaé	Guaé	Guaé					Guaé	Guaé	Guaé	NER							
+Guaiziek	Guaiziek	Guaiziek					Guaiziek	Guaiziek	Guaiziek	NER							
+Gulchenrouz	Gulchenrouz	Gulchenrouz					Gulchenrouz	Gulchenrouz	Gulchenrouz	NER							
+Hariote	Hariote	Hariote					Hariote	Hariote	Hariote	NER							
+Hiboumanes	Hiboumanes	Hiboumanes					Hiboumanes	Hiboumanes	Hiboumanes	NER							
+Inare	Inare	Inare					Inare	Inare	Inare	NER							
+Isle	Isle	Isle					Isle	Isle	Isle	NER							
+Isles	Isles	Isles					Isles	Isles	Isles	NER							
+Isménie	Isménie	Isménie					Isménie	Isménie	Isménie	NER							
+Jagrenat	Jagrenat	Jagrenat					Jagrenat	Jagrenat	Jagrenat	NER							
+Lacédémone	Lacédémone	Lacédémone					Lacédémone	Lacédémone	Lacédémone	NER							
+Lagaraye	Lagaraye	Lagaraye					Lagaraye	Lagaraye	Lagaraye	NER							
+Lagouache	Lagouache	Lagouache					Lagouache	Lagouache	Lagouache	NER							
+Layrac	Layrac	Layrac					Layrac	Layrac	Layrac	NER							
+le Taïtien	le Taïtien	le Taïtien					le Taïtien	le Taïtien	le Taïtien	NER							
+Lesseville	Lesseville	Lesseville					Lesseville	Lesseville	Lesseville	NER							
+Locriens	Locriens	Locriens					Locriens	Locriens	Locriens	NER							
+Longchamp	Longchamp	Longchamp					Longchamp	Longchamp	Longchamp	NER							
+Manzaïde	Manzaïde	Manzaïde					Manzaïde	Manzaïde	Manzaïde	NER							
+Massanne	Massanne	Massanne					Massanne	Massanne	Massanne	NER							
+Médie	Médie	Médie					Médie	Médie	Médie	NER							
+Ménécrate	Ménécrate	Ménécrate					Ménécrate	Ménécrate	Ménécrate	NER							
+Méris	Méris	Méris					Méris	Méris	Méris	NER							
+Merval	Merval	Merval					Merval	Merval	Merval	NER							
+Milcourt	Milcourt	Milcourt					Milcourt	Milcourt	Milcourt	NER							
+Minois	Minois	Minois					Minois	Minois	Minois	NER							
+Mirval	Mirval	Mirval					Mirval	Mirval	Mirval	NER							
+Mœris	Mœris	Mœris					Mœris	Mœris	Mœris	NER							
+Molinos	Molinos	Molinos					Molinos	Molinos	Molinos	NER							
+Montfort	Montfort	Montfort					Montfort	Montfort	Montfort	NER							
+Morakanabad	Morakanabad	Morakanabad					Morakanabad	Morakanabad	Morakanabad	NER							
+Murcé	Murcé	Murcé					Murcé	Murcé	Murcé	NER							
+Nasuf	Nasuf	Nasuf					Nasuf	Nasuf	Nasuf	NER							
+Neuilly	Neuilly	Neuilly					Neuilly	Neuilly	Neuilly	NER							
+Nismes	Nismes	Nismes					Nismes	Nismes	Nismes	NER							
+Nitri	Nitri	Nitri					Nitri	Nitri	Nitri	NER							
+Olympia	Olympia	Olympia					Olympia	Olympia	Olympia	NER							
+Orbe	Orbe	Orbe					Orbe	Orbe	Orbe	NER							
+Orl	Orl	Orl					Orl	Orl	Orl	NER							
+Ormilly	Ormilly	Ormilly					Ormilly	Ormilly	Ormilly	NER							
+Orseuil	Orseuil	Orseuil					Orseuil	Orseuil	Orseuil	NER							
+Paquantois	Paquantois	Paquantois					Paquantois	Paquantois	Paquantois	NER							
+Parangon	Parangon	Parangon					Parangon	Parangon	Parangon	NER							
+Phocus	Phocus	Phocus					Phocus	Phocus	Phocus	NER							
+Primrose	Primrose	Primrose					Primrose	Primrose	Primrose	NER							
+Rosemont	Rosemont	Rosemont					Rosemont	Rosemont	Rosemont	NER							
+Saint - Flour	Saint - Flour	Saint - Flour					Saint - Flour	Saint - Flour	Saint - Flour	NER							
+Saint-Ange	Saint-Ange	Saint-Ange					Saint-Ange	Saint-Ange	Saint-Ange	NER							
+Saint-Flour	Saint-Flour	Saint-Flour					Saint-Flour	Saint-Flour	Saint-Flour	NER							
+Saintré	Saintré	Saintré					Saintré	Saintré	Saintré	NER							
+Sancerre	Sancerre	Sancerre					Sancerre	Sancerre	Sancerre	NER							
+Sargines	Sargines	Sargines					Sargines	Sargines	Sargines	NER							
+sauvai	sauvai	sauvai					sauvai	sauvai	sauvai	NER							
+Senneterre	Senneterre	Senneterre					Senneterre	Senneterre	Senneterre	NER							
+Senneville	Senneville	Senneville					Senneville	Senneville	Senneville	NER							
+Sidley	Sidley	Sidley					Sidley	Sidley	Sidley	NER							
+Sinderson	Sinderson	Sinderson					Sinderson	Sinderson	Sinderson	NER							
+Sylvanire	Sylvanire	Sylvanire					Sylvanire	Sylvanire	Sylvanire	NER							
+Syndham	Syndham	Syndham					Syndham	Syndham	Syndham	NER							
+Téolinde	Téolinde	Téolinde					Téolinde	Téolinde	Téolinde	NER							
+Tergowitz	Tergowitz	Tergowitz					Tergowitz	Tergowitz	Tergowitz	NER							
+Thémines	Thémines	Thémines					Thémines	Thémines	Thémines	NER							
+Thomill	Thomill	Thomill					Thomill	Thomill	Thomill	NER							
+Thrazylle	Thrazylle	Thrazylle					Thrazylle	Thrazylle	Thrazylle	NER							
+Tien	Tien	Tien					Tien	Tien	Tien	NER							
+Tiennete	Tiennete	Tiennete					Tiennete	Tiennete	Tiennete	NER							
+Timante	Timante	Timante					Timante	Timante	Timante	NER							
+Timori	Timori	Timori					Timori	Timori	Timori	NER							
+Tout-Ou-Rien	Tout-Ou-Rien	Tout-Ou-Rien					Tout-Ou-Rien	Tout-Ou-Rien	Tout-Ou-Rien	NER							
+Ust	Ust	Ust					Ust	Ust	Ust	NER							
+Valcreux	Valcreux	Valcreux					Valcreux	Valcreux	Valcreux	NER							
+Vante	Vante	Vante					Vante	Vante	Vante	NER							
+Vinchester	Vinchester	Vinchester					Vinchester	Vinchester	Vinchester	NER							
+Vitikind	Vitikind	Vitikind					Vitikind	Vitikind	Vitikind	NER							
+Volsange	Volsange	Volsange					Volsange	Volsange	Volsange	NER							
+Wilton	Wilton	Wilton					Wilton	Wilton	Wilton	NER							
+Zeinzemin	Zeinzemin	Zeinzemin					Zeinzemin	Zeinzemin	Zeinzemin	NER							
+Zerbin	Zerbin	Zerbin					Zerbin	Zerbin	Zerbin	NER							
+Alménidore	Alménidore	Alménidore					Alménidore	Alménidore	Alménidore	NER							
+Ardasire	Ardasire	Ardasire					Ardasire	Ardasire	Ardasire	NER							
+Armoflède	Armoflède	Armoflède					Armoflède	Armoflède	Armoflède	NER							
+Artidore	Artidore	Artidore					Artidore	Artidore	Artidore	NER							
+Auterive	Auterive	Auterive					Auterive	Auterive	Auterive	NER							
+Axiochus	Axiochus	Axiochus					Axiochus	Axiochus	Axiochus	NER							
+Barville	Barville	Barville					Barville	Barville	Barville	NER							
+Bazilette	Bazilette	Bazilette					Bazilette	Bazilette	Bazilette	NER							
+Belosane	Belosane	Belosane					Belosane	Belosane	Belosane	NER							
+Célimene	Célimene	Célimene					Célimene	Célimene	Célimene	NER							
+Desglands	Desglands	Desglands					Desglands	Desglands	Desglands	NER							
+Dubois	Dubois	Dubois					Dubois	Dubois	Dubois	NER							
+Euphrosie	Euphrosie	Euphrosie					Euphrosie	Euphrosie	Euphrosie	NER							
+Fleur-De-Myrte	Fleur-De-Myrte	Fleur-De-Myrte					Fleur-De-Myrte	Fleur-De-Myrte	Fleur-De-Myrte	NER							
+Florizene	Florizene	Florizene					Florizene	Florizene	Florizene	NER							
+Français	Français	Français					Français	Français	Français	NER							
+Franval	Franval	Franval					Franval	Franval	Franval	NER							
+Frivolipolis	Frivolipolis	Frivolipolis					Frivolipolis	Frivolipolis	Frivolipolis	NER							
+Golconde	Golconde	Golconde					Golconde	Golconde	Golconde	NER							
+Jezennemours	Jezennemours	Jezennemours					Jezennemours	Jezennemours	Jezennemours	NER							
+Kermouth	Kermouth	Kermouth					Kermouth	Kermouth	Kermouth	NER							
+Lamontette	Lamontette	Lamontette					Lamontette	Lamontette	Lamontette	NER							
+Luzan	Luzan	Luzan					Luzan	Luzan	Luzan	NER							
+Mondelis	Mondelis	Mondelis					Mondelis	Mondelis	Mondelis	NER							
+Mortagne	Mortagne	Mortagne					Mortagne	Mortagne	Mortagne	NER							
+Nassès	Nassès	Nassès					Nassès	Nassès	Nassès	NER							
+Némorin	Némorin	Némorin					Némorin	Némorin	Némorin	NER							
+Nouronihar	Nouronihar	Nouronihar					Nouronihar	Nouronihar	Nouronihar	NER							
+Paquans	Paquans	Paquans					Paquans	Paquans	Paquans	NER							
+Periphas	Periphas	Periphas					Periphas	Periphas	Periphas	NER							
+Pizarre	Pizarre	Pizarre					Pizarre	Pizarre	Pizarre	NER							
+Saint-Flour	Saint-Flour	Saint-Flour					Saint-Flour	Saint-Flour	Saint-Flour	NER							
+Saint-Silvain	Saint-Silvain	Saint-Silvain					Saint-Silvain	Saint-Silvain	Saint-Silvain	NER							
+Schah-Baham	Schah-Baham	Schah-Baham					Schah-Baham	Schah-Baham	Schah-Baham	NER							
+S-Firmin	S-Firmin	S-Firmin					S-Firmin	S-Firmin	S-Firmin	NER							
+Sydney	Sydney	Sydney					Sydney	Sydney	Sydney	NER							
+Trénel	Trénel	Trénel					Trénel	Trénel	Trénel	NER							
+Verglan	Verglan	Verglan					Verglan	Verglan	Verglan	NER							
+Vernol	Vernol	Vernol					Vernol	Vernol	Vernol	NER							
+			Q1055	https://www.wikidata.org/wiki/Q1055		53.55,10	Hambourg	Hamburg	Hamburg								
+			Q1067799	https://www.wikidata.org/wiki/Q1067799		45.322222222222,5.3547222222222	Saint-Geoirs	Saint-Geoirs	Saint-Geoirs								
+			Q107338	https://www.wikidata.org/wiki/Q107338		35.516666666667,12.583333333333	Lampedusa	Lampedusa	Lampedusa								
+			Q1081469	https://www.wikidata.org/wiki/Q1081469		45.123333333333,-0.04	La Barde	La Barde	La Barde								
+			Q1163694	https://www.wikidata.org/wiki/Q1163694		47.808333333333,-0.59555555555556	Châtelain	Châtelain	Châtelain								
+			Q12060804	https://www.wikidata.org/wiki/Q12060804		-20.2,57.5	Isle de France, Île de France	Isle de France (Mauritius)	Isle de France								
+			Q1229422	https://www.wikidata.org/wiki/Q1229422		40.343889,26.683611	Lampsaque	Lampsacus	Lampsakos								
+			Q12792	https://www.wikidata.org/wiki/Q12792		44,5.1666666666667	Vaucluse	Vaucluse	Département Vaucluse								
+			Q129003	https://www.wikidata.org/wiki/Q129003		-43,67	Terres australes et antarctiques françaises	French Southern and Antarctic Lands	Französische Süd- und Antarktisgebiete								
+			Q1352	https://www.wikidata.org/wiki/Q1352		13.0825,80.275	Chennai	Chennai	Chennai								
+			Q13666	https://www.wikidata.org/wiki/Q13666		38.19361111111111,15.554166666666667	Messine	Messina	Messina								
+			Q1476	https://www.wikidata.org/wiki/Q1476		48.004166666667,0.19694444444444	Le Mans	Le Mans	Le Mans								
+			Q155	https://www.wikidata.org/wiki/Q155		-14,-53	Brésil	Brazil	Brasilien								
+			Q15979	https://www.wikidata.org/wiki/Q15979		48.571111111111,7.8088888888889	Kehl	Kehl	Kehl								
+			Q16017	https://www.wikidata.org/wiki/Q16017		49.249444444444,7.3608333333333	Deux-Ponts	Zweibrücken	Zweibrücken								
+			Q170054	https://www.wikidata.org/wiki/Q170054		37.508333,22.375	Arcadie	Arcadia Prefecture	Arkadien								
+			Q1731	https://www.wikidata.org/wiki/Q1731		51.05,13.74	Dresde	Dresden	Dresden								
+			Q1733	https://www.wikidata.org/wiki/Q1733		52.13166666666667,11.639166666666666	Magdebourg	Magdeburg	Magdeburg								
+			Q1741475	https://www.wikidata.org/wiki/Q1741475		-8.98173,39.51722	Kilwa Kisiwani	Kilwa Kisiwani	Kilwa Kisiwani								
+			Q175	https://www.wikidata.org/wiki/Q175		-21.829722222222,-49.2075	São Paulo	São Paulo	São Paulo								
+			Q181397	https://www.wikidata.org/wiki/Q181397		48.561666666667,0.10333333333333	Le Bouillon	Le Bouillon	Le Bouillon								
+			Q184371	https://www.wikidata.org/wiki/Q184371		49.701944444444,4.9402777777778	Sedan	Sedan	Sedan								
+			Q18493435	https://www.wikidata.org/wiki/Q18493435		42.77405,12.54897	Piemonte	Piemonte									
+			Q190827	https://www.wikidata.org/wiki/Q190827		46.951111111111,4.2986111111111	Autun	Autun	Autun								
+			Q192901	https://www.wikidata.org/wiki/Q192901		44.6275,3.235	Le Buisson	Le Buisson	Le Buisson								
+			Q193896	https://www.wikidata.org/wiki/Q193896		35.883333333333,14.45	Malte	Malta	Malta								
+			Q201582	https://www.wikidata.org/wiki/Q201582		40,20.75	Pinde	Pindus	Pindos								
+			Q20306962	https://www.wikidata.org/wiki/Q20306962		16.938611111111,43.762777777778		Samarah									
+			Q203529	https://www.wikidata.org/wiki/Q203529		46.674444444444,5.5538888888889	Lons-le-Saunier	Lons-le-Saunier	Lons-le-Saunier								
+			Q207620	https://www.wikidata.org/wiki/Q207620		48.959444444444,2.8877777777778	Meaux	Meaux	Meaux								
+			Q208793	https://www.wikidata.org/wiki/Q208793		50.748333333333,2.2608333333333	Saint-Omer	Saint-Omer	Saint-Omer								
+			Q208794	https://www.wikidata.org/wiki/Q208794		48.589444444444,6.5016666666667	Lunéville	Lunéville	Lunéville								
+			Q210087	https://www.wikidata.org/wiki/Q210087		37.433333333333,24.916666666667	Ermoúpoli	Ermoupolis	Ermoupoli								
+			Q2145	https://www.wikidata.org/wiki/Q2145		46.816111,-71.224167	Québec	Quebec City	Québec								
+			Q217159	https://www.wikidata.org/wiki/Q217159		48.171944444444,2.2519444444444	Pithiviers	Pithiviers	Pithiviers								
+			Q22036	https://www.wikidata.org/wiki/Q22036		48.965833333333,6.5794444444444	Suisse	Suisse	Suisse								
+			Q220583	https://www.wikidata.org/wiki/Q220583		39.716666666667,16.493888888889	Sybaris	Sybaris	Sybaris								
+			Q22690	https://www.wikidata.org/wiki/Q22690		49.119722222222,6.1769444444444	Metz	Metz	Metz								
+			Q23436	https://www.wikidata.org/wiki/Q23436		55.95,-3.1988888888889	Édimbourg	Edinburgh	Edinburgh								
+			Q26219948	https://www.wikidata.org/wiki/Q26219948			Indes	Indies									
+			Q2683	https://www.wikidata.org/wiki/Q2683		44.801472222222,10.328	Parme	Parma	Parma								
+			Q2749	https://www.wikidata.org/wiki/Q2749		48.371666666667,10.898333333333	Augsbourg	Augsburg	Augsburg								
+			Q2773	https://www.wikidata.org/wiki/Q2773		52.269166666667,10.521111111111	Brunswick	Brunswick	Braunschweig								
+			Q28520	https://www.wikidata.org/wiki/Q28520		50.105277777778,1.8352777777778	Abbeville	Abbeville	Abbeville								
+			Q2861	https://www.wikidata.org/wiki/Q2861		54.083333333333,12.133333333333	Rostock	Rostock	Rostock								
+			Q2865	https://www.wikidata.org/wiki/Q2865		51.315777777778,9.4979166666667	Cassel	Kassel	Kassel								
+			Q2878990	https://www.wikidata.org/wiki/Q2878990		43.5826,1.411	Bagatelle	Toulouse Bagatelle									
+			Q29303	https://www.wikidata.org/wiki/Q29303		51.278333333333,1.0775	Canterbury	Canterbury	Canterbury								
+			Q3012	https://www.wikidata.org/wiki/Q3012		48.39841,9.99155	Ulm	Ulm	Ulm								
+			Q30940	https://www.wikidata.org/wiki/Q30940		50.001944444444,2.6522222222222	Albert	Albert	Albert								
+			Q3104	https://www.wikidata.org/wiki/Q3104		50.359722222222,7.5977777777778	Coblence	Koblenz	Koblenz								
+			Q3126	https://www.wikidata.org/wiki/Q3126		49.596388888889,11.004444444444	Erlangen	Erlangen	Erlangen								
+			Q3138	https://www.wikidata.org/wiki/Q3138		49.756666666667,6.6413888888889	Trèves	Trier	Trier								
+			Q3209598	https://www.wikidata.org/wiki/Q3209598			La Grenouillère	La Grenouillère									
+			Q32579	https://www.wikidata.org/wiki/Q32579		39,31	Phrygie	Phrygia	Phrygien								
+			Q3296022	https://www.wikidata.org/wiki/Q3296022		39.55005,-86.07971	Whiteland	Whiteland	Whiteland								
+			Q3451975	https://www.wikidata.org/wiki/Q3451975		48.8525,2.3426	rue des Poitevins	rue des Poitevins									
+			Q373528	https://www.wikidata.org/wiki/Q373528		41.8072,-6.75917	Bragance	Bragança	Distrikt Bragança								
+			Q3967	https://www.wikidata.org/wiki/Q3967		50.428611111111,7.4613888888889	Neuwied	Neuwied	Neuwied								
+			Q4011	https://www.wikidata.org/wiki/Q4011		51.658611111111,6.6177777777778	Wesel	Wesel	Wesel								
+			Q406	https://www.wikidata.org/wiki/Q406		41.01,28.960277777778	Istanbul	Istanbul	Istanbul								
+			Q41744	https://www.wikidata.org/wiki/Q41744		47.239722222222,3.5027777777778	Neuilly	Neuilly	Neuilly								
+			Q4178	https://www.wikidata.org/wiki/Q4178		50.56666666666667,8.5	Wetzlar	Wetzlar	Wetzlar								
+			Q42462	https://www.wikidata.org/wiki/Q42462		53.95,-1.0833333333333	York	York	York								
+			Q43631	https://www.wikidata.org/wiki/Q43631		52.154444444444,4.4947222222222	Leyde	Leiden	Leiden								
+			Q45797	https://www.wikidata.org/wiki/Q45797		51.037777777778,2.3763888888889	Dunkerque	Dunkirk	Dunkerque								
+			Q4629	https://www.wikidata.org/wiki/Q4629		21.17,72.83	Surate	Surat	Surat								
+			Q476288	https://www.wikidata.org/wiki/Q476288		48.520277777778,0.54722222222222	Mortagne-au-Perche	Mortagne-au-Perche	Mortagne-au-Perche								
+			Q48195	https://www.wikidata.org/wiki/Q48195		30.488888888889,47.81	Bassorah	Basra	Basra								
+			Q49333057	https://www.wikidata.org/wiki/Q49333057		13.557222222222,14.801388888889											
+			Q49878	https://www.wikidata.org/wiki/Q49878		41.80982,13.5598	Balsorano	Balsorano	Balsorano								
+			Q5489	https://www.wikidata.org/wiki/Q5489		48.298888888889,4.0780555555556	Troyes	Troyes	Troyes								
+			Q550	https://www.wikidata.org/wiki/Q550		48.86967,2.30786	avenue des Champs-Élysées	avenue des Champs-Élysées	Avenue des Champs-Élysées								
+			Q5806	https://www.wikidata.org/wiki/Q5806		21.4225,39.826111111111	La Mecque	Mecca	Mekka								
+			Q63946	https://www.wikidata.org/wiki/Q63946		46.7785,6.6408333333333	Yverdon-les-Bains	Yverdon-les-Bains	Yverdon-les-Bains								
+			Q645256	https://www.wikidata.org/wiki/Q645256		50.004722222222,7.4327777777778	Reich	Reich	Reich								
+			Q649	https://www.wikidata.org/wiki/Q649		55.755833333333,37.617777777778	Moscou	Moscow	Moskau								
+			Q6761	https://www.wikidata.org/wiki/Q6761		43.55,10.316666666667	Livourne	Livorno	Livorno								
+			Q688786	https://www.wikidata.org/wiki/Q688786		48.550833333333,4.3677777777778	Dampierre	Dampierre	Dampierre								
+			Q69345	https://www.wikidata.org/wiki/Q69345		46.990277777778,6.9305555555556	Neuchâtel	Neuchâtel	Neuenburg								
+			Q6986	https://www.wikidata.org/wiki/Q6986		50.948888888889,10.718333333333	Gotha	Gotha	Gotha								
+			Q70219	https://www.wikidata.org/wiki/Q70219		46.983333333333,6.8166666666667	Rochefort	Rochefort	Rochefort								
+			Q736742	https://www.wikidata.org/wiki/Q736742		51.4235,-0.2171	Wimbledon	Wimbledon	Wimbledon								
+			Q750425	https://www.wikidata.org/wiki/Q750425		46.435555555556,5.3430555555556	Saint-Amour	Saint-Amour	Saint-Amour								
+			Q764688	https://www.wikidata.org/wiki/Q764688		45.4825,5.765	La Bauche	La Bauche	La Bauche								
+			Q78	https://www.wikidata.org/wiki/Q78		47.560555555556,7.5905555555556	Bâle	Basel	Basel								
+			Q784	https://www.wikidata.org/wiki/Q784		15.416667,-61.333333	Dominique	Dominica	Dominica								
+			Q803	https://www.wikidata.org/wiki/Q803		52.088888888889,5.1155555555556	Utrecht	Utrecht	Utrecht								
+			Q85	https://www.wikidata.org/wiki/Q85		30.056111111111,31.239444444444	Le Caire	Cairo	Kairo								
+			Q986881	https://www.wikidata.org/wiki/Q986881			royaume de Butua	Kingdom of Butua									
