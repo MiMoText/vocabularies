@@ -1,6 +1,6 @@
 # Controlled vocabularies for MiMoText
 
-As part of the project Mining and Modeling Text, a controlled vocabulary for assigning topics to thematic concepts is being created here.
+As part of the project ["Mining and Modeling Text"](https://www.mimotext.uni-trier.de/) project (University Trier, Germany), a controlled vocabulary for assigning topics to thematic concepts is being created here.
 
 It is used to create thematic statements and feed them into our knowledge graph.
 
