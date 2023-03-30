@@ -24,4 +24,4 @@ Martin, A., Mylne, V., & Frautschi, R. L. (1977). Bibliographie du genre romanes
 
 ## Citation suggestion
 
-Klee, Anne and Hinzmann, Maria. MiMoText/vocabularies. Python. Mining and Modeling Text (MiMoText), 2021. https://github.com/MiMoText/vocabularies/blob/65acb008838fc13044aac554e05b3c2bbccbd12f/Themenvokabular.tsv.  
+Klee, Anne and Hinzmann, Maria. MiMoText/vocabularies. Python. Mining and Modeling Text (MiMoText), 2023. https://github.com/MiMoText/vocabularies.  
