@@ -18,7 +18,7 @@ Martin, A., Mylne, V., & Frautschi, R. L. (1977). Bibliographie du genre romanes
 ## Spatial vocabulary
 
 
-## Tonality vocabulary and Intentionality vocabulary
+## Tone vocabulary and Intention vocabulary
 
 
 
