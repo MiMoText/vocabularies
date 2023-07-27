@@ -1,7 +1,7 @@
-"MiMoText Label (fr)"	"MiMoText Label (en)"	"MiMoText Label (de)"
-"hétérodiégétique"	"heterodiegetic"	"heterodiegetisch"
-"autodiégétique"	"autodiegetic"	"autodiegetisch"
-"homodiégétique"	"homodiegetic"	"homodiegetisch"
-"dialogue"	"dialogue"	"Dialog"
-"lettres"	"epistolary"	"Briefroman"
-"mixte"	"mixed"	"gemischt"
+MiMoText Label (fr)	MiMoText Label (en)	MiMoText Label (de)	MiMoTextBase-ID
+hétérodiégétique	heterodiegetic	heterodiegetisch	Q38
+autodiégétique	autodiegetic	autodiegetisch	Q39
+homodiégétique	homodiegetic	homodiegetisch	Q40
+dialogue	dialogue	Dialog	Q41
+lettres	epistolary	Briefroman	Q42
+mixte	mixed	gemischt	
