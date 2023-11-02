@@ -6,6 +6,7 @@ académie	academy	Akademie	Q162633	https://www.wikidata.org/wiki/Q162633	académ
 accouchement	childbirth	Geburt	Q34581	https://www.wikidata.org/wiki/Q34581	accouchement	childbirth	Geburt	DEL	exact match
 acoustique	acoustics	Akustik	Q82811	https://www.wikidata.org/wiki/Q82811	acoustique	acoustics	Akustik	DEL	exact match
 administration	administration	Verwaltung	Q3754526	https://www.wikidata.org/wiki/Q3754526	administration	administration		DEL	close match
+affection	affection	Zuneigung	Q1124198	https://www.wikidata.org/wiki/Q1124198	affection	affection	Zuneigung	Topic Modeling	exact match
 affinité	affinity	Affinität	Q3233502	https://www.wikidata.org/wiki/Q3233502	affinité	affinity		DEL	close match
 agriculture	agriculture	Landwirtschaft	Q11451	https://www.wikidata.org/wiki/Q11451	agriculture	agriculture	Landwirtschaft	DEL	exact match
 aide sociale	welfare	Gemeinwohl	Q12002092	https://www.wikidata.org/wiki/Q12002092	aide sociale	welfare	Gemeinwohl	Seklit	exact match
@@ -91,6 +92,7 @@ crime	crime	Verbrechen	Q83267	https://www.wikidata.org/wiki/Q83267	crime	crime	V
 critique d'art	art criticism	Kunstkritik	Q1143847	https://www.wikidata.org/wiki/Q1143847	Critique d‘art	Art criticism	Kunstkritik	DEL	exact match
 critique sociale	social criticism	Gesellschaftskritik						Seklit	
 culpabilité	guilt	Schuld	Q628939	https://www.wikidata.org/wiki/Q628939	culpabilité	guilt	Schuld	Seklit	exact match
+culture	culture	Kultur	Q11042	https://www.wikidata.org/wiki/Q11042	culture	culture	Kultur	Seklit	exact match
 culture populaire	popular culture	Populärkultur	Q131265	https://www.wikidata.org/wiki/Q131265	Culture populaire	Popular culture	Popkultur	DEL	exact match
 curiosité	curiosity	Neugier	Q7167	https://www.wikidata.org/wiki/Q366791	curiosité	curiosity	Neugier	DEL	exact match
 danse	dance	Tanz	Q11639	https://www.wikidata.org/wiki/Q11639	Danse	dance	Tanz	DEL	exact match
@@ -138,10 +140,12 @@ envie	envy	Neid	Q188739	https://www.wikidata.org/wiki/Q188739	envie	envy	Neid	Se
 esclavage	slavery	Sklaverei	Q8463	https://www.wikidata.org/wiki/Q8463	esclavage	slavery	Sklaverei	DEL	exact match
 espèce	species	Spezies	Q7432	https://www.wikidata.org/wiki/Q7432	Espèce	species	Art	DEL	close match
 espoir	hope	Hoffnung	Q190507	https://www.wikidata.org/wiki/Q190507	espoir	hope	Hoffnung	Seklit	exact match
+esprit	mind	Verstand	Q450	https://www.wikidata.org/wiki/Q450	esprit	mind	Verstand	Seklit	close match
 essai	essay	Essay	Q35760	https://www.wikidata.org/wiki/Q35760	Essai	essay	Essay	DEL	exact match
 esthétique	aesthetics	Ästhetik	Q35986	https://www.wikidata.org/wiki/Q35986	esthétique	aesthetics	Ästhetik	DEL	exact match
 état	state	Staat	Q7275	https://www.wikidata.org/wiki/Q7275	état	state	Staat	DEL	exact match
 état de nature	state of nature	Naturzustand	Q1130390	https://www.wikidata.org/wiki/Q1130390	état de nature	state of nature	Naturzustand	Seklit	exact match
+étrangeté	foreignness 	das Fremde	Q12764245	https://www.wikidata.org/wiki/Q12764245	étrangeté	foreignness	Fremdheit	Seklit	close match
 être humain	human	Mensch	Q5	https://www.wikidata.org/wiki/Q5	être humain	human	Mensch	Seklit	exact match
 exotisme	exoticism	Exotismus	Q368949	https://www.wikidata.org/wiki/Q368949	exotisme	exoticism	Exotismus	Seklit	exact match
 expérience	experience	Erfahrung	Q164359	https://www.wikidata.org/wiki/Q164359	expérience	experience	Erfahrung	Seklit	exact match
@@ -209,6 +213,7 @@ lecture	lecture	Lesen	Q199657	https://www.wikidata.org/wiki/Q199657	lecture	lect
 libéralisme	liberalism	Liberalismus	Q6216	https://www.wikidata.org/wiki/Q6216	Libéralisme classique	Classic liberalism	Liberalismus	DEL	close match
 liberté	liberty	Freiheit	Q2979	https://www.wikidata.org/wiki/Q2979	liberté	liberty	Freiheit	DEL	exact match
 libertinage	libertinism	Libertinage	Q18915146	https://www.wikidata.org/wiki/Q18915146	libertinage	libertinsime	Libertinismus	DEL	close match
+littérature 	literature 	Literatur 	Q8242 	https://www.wikidata.org/wiki/Q8242 	littérature	literature	Literatur	Seklit	exact match
 littérature clandestine	Clandestine literature	Klandestine Literatur	Q3821764	https://www.wikidata.org/wiki/Q3821764	Littérature clandestine	Clandestine literature		DEL	close match
 livre	book	Buch	Q571	https://www.wikidata.org/wiki/Q571	livre	Book	Buch	DEL	exact match
 Lumières	enlightenment	Aufklärung	Q2512021	https://www.wikidata.org/wiki/Q2512021	lumières	lumières	Vordenker der Aufklärung	DEL	close match
@@ -366,5 +371,6 @@ violence	violence	Gewalt	Q124490	https://www.wikidata.org/wiki/Q124490	violence	
 volcanisme	volcano	Vulkanismus	Q505748	https://www.wikidata.org/wiki/Q505748	volcan	volcano	Vulkanismus	DEL	close match
 volonté	will	Wille	Q364340	https://www.wikidata.org/wiki/Q364340	volonté	will	Wille	Seklit	exact match
 voyage	travel	Reise	Q61509	https://www.wikidata.org/wiki/Q61509	voyage	travel	Reise	DEL	exact match
+voyage maritime	navigation	Schifffahrt	Q155930	https://www.wikidata.org/wiki/Q155930	transport maritime	maritime transport	Schifffahrt	Topic Modeling	close match
 vulgarisation	popularisation	Popularismus	Q2104295	https://www.wikidata.org/wiki/Q2104295		popularisation	Popularismus	Seklit	close match
 zoologie	zoology	Zoologie	Q431	https://www.wikidata.org/wiki/Q431	zoologie	zoology	Zoologie	DEL	exact match
