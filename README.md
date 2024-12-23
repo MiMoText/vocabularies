@@ -16,9 +16,9 @@ The aspects outlined below are in part generally relevant to the construction of
 
 ### Heterogeneity of the controlled vocabularies
 
-The vocabularies in MiMoText are very heterogeneous, among other things with regard to the number of elements and granularity, the specificity / distinctness of the domain reference. We have abstracted from this heterogeneity for the purposes of reusability in the [module 9 "terminology" of our ontology](https://github.com/MiMoText/ontology/blob/main/Modules%20overview.md#module-9-terminology) which defines the overarching modeling approach for the vocabularies. In a more detailed discussion below, the differences are highlighted. In the comparison of the following two visualizations, specific features are highlighted in each case: 
+The vocabularies in MiMoText are very heterogeneous, among other things with regard to the number of elements and granularity, the specificity / distinctness of the domain reference. We have abstracted from this heterogeneity for the purposes of reusability in the [module 9 "terminology" of our ontology](https://github.com/MiMoText/ontology/blob/main/Modules%20overview.md#module-9-terminology) which defines the overarching modeling approach for the vocabularies. In the two following more detailed visualizations, specific particularities are illustrated in each case: 
 - Module 9 - themes and spaces: Here, the linking of individual properties with only one vocabulary (narrative location) or several vocabularies (about) in the rdfs:range becomes clear.
-- Module 9 - intention & tone: This shows that there is an intersection of the two vocabularies, in other words that some concepts are elements of both the intention and the tone vocabulary and are therefore in the rdfs:range of both properties.
+- Module 9 - intention & tone: This shows that there is an intersection of the two vocabularies, in other words that some concepts are elements of both the intention and the tone vocabulary and are therefore in the rdfs:range of both properties (see discussion of intersections below).
 
 ![Module9_terminology_themes-spaces](https://raw.githubusercontent.com/MiMoText/vocabularies/main/images/module9_terminology_spaces-themes.png "Module9_terminology_themes-spaces")
 
