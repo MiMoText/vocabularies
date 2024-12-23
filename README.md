@@ -16,7 +16,13 @@ The aspects outlined below are in part generally relevant to the construction of
 
 ### Heterogeneity of the controlled vocabularies
 
-The vocabularies in MiMoText are very heterogeneous, among other things with regard to the number of elements and granularity, the specificity / distinctness of the domain reference. [Here](https://github.com/MiMoText/ontology/blob/main/Modules%20overview.md#module-9-terminology) you can have a look at the module "terminology", which defines the overarching modeling approach for the vocabularies in our ontology.
+The vocabularies in MiMoText are very heterogeneous, among other things with regard to the number of elements and granularity, the specificity / distinctness of the domain reference. We have abstracted from this heterogeneity for the purposes of reusability in the [module 9 "terminology" of our ontology](https://github.com/MiMoText/ontology/blob/main/Modules%20overview.md#module-9-terminology) which defines the overarching modeling approach for the vocabularies. In a more detailed discussion below, the differences are highlighted. In the comparison of the following two visualizations, specific features are highlighted in each case: 
+- Module 9 - themes and spaces: Here, the linking of individual properties with only one vocabulary (narrative location) or several vocabularies (about) in the rdfs:range becomes clear.
+- Module 9 - intention & tone: This shows that there is an intersection of the two vocabularies, in other words that some concepts are elements of both the intention and the tone vocabulary and are therefore in the rdfs:range of both properties.
+
+![Module9_terminology_themes-spaces](https://raw.githubusercontent.com/MiMoText/vocabularies/main/images/module9_terminology_spaces-themes.png "Module9_terminology_themes-spaces")
+
+![Module9_terminology_intention-tone](https://raw.githubusercontent.com/MiMoText/vocabularies/main/images/module9_terminology_intention-tone.png "Module9_terminology_intention-tone")
 
 ### Issues of granularity and semantic levels / hierarchies
 In the sense of reducing complexity, we have refrained from creating over- and sub-terms in the form of a thesaurus. Basically, the focus of the project is not to develop a (as semantically precise or differentiated as possible) vocabulary, but to link very heterogeneous data in the Linked Open Data paradigm.
@@ -39,12 +45,11 @@ In our domain of knowledge, there are no standardized vocabularies and also rela
 Martin, Angus, Vivienne Mylne, und Richard L. Frautschi. 1977. Bibliographie du genre romanesque français, 1751-1800. London: Mansell.
 
 Schöch, Christof, Maria Hinzmann, Julia Röttgermann, Anne Klee, und Katharina Dietz. 2022. „Smart Modelling for Literary History“. IJHAC: International Journal of Humanities and Arts Computing [Special issue on Linked Open Data] 16 (1): 78–93. [https://doi.org/10.3366/ijhac.2022.0278](https://doi.org/10.3366/ijhac.2022.0278).
+
+Hinzmann, Maria, Matthias Bremm, Tinghui Duan, Anne Klee, Johanna Konstanciak, Julia Röttgermann, Christof Schöch, and Joëlle Weis. “Patterns in Modeling and Querying a Knowledge Graph for Literary History [Preprint].” Zenodo, June 18, 2024. https://doi.org/10.5281/zenodo.12080340.
  
 See the [Comparing section in our SPARQL-Tutorial](https://mimotext.github.io/MiMoTextBase_Tutorial/comparing.html)
-
-**Citation suggestion**
-
-Klee, Anne and Hinzmann, Maria. MiMoText/vocabularies. Python. Mining and Modeling Text (MiMoText), 2023. https://github.com/MiMoText/vocabularies.  
+ 
 
 ## Thematic vocabulary
 
@@ -120,4 +125,20 @@ Since the category ‘genre’ contains the fewest unique entries, which we thou
 
 In a final step, we translated the French and German terms of the concepts for both ‘intention’ and ‘tone’ to English and transposed it into a fitting export format with which new statements for the knowledge graph can be generated.
 The results can be found [here for intention](https://github.com/MiMoText/BGRF/blob/main/intention/mapping_bgrf_konvok_intention.tsv) and [here for tone](https://github.com/MiMoText/BGRF/blob/main/tone/mapping_bgrf_konvok_tone.tsv).
+
+## Licence
+
+All vocabularies are in the public domain and can be reused without restrictions. We don’t claim any copyright or other rights. If you use our vocabularies, for example in research or teaching, please reference this collection using the citation suggestion below.
+
+## Citation suggestion
+
+*MiMoText/vocabularies*, edited by Anne Klee and Maria Hinzmann, with contributions from Sarah Heintz, Johanna Konstanciak, Sarah Rebecca Ondraszek, Julia Röttgermann and Christof Schöch. Trier: TCDH, 2023. URL: https://github.com/MiMoText/vocabularies. 
+
+
+## Related Ressources
+- [MiMoTextBase - a knowledge graph on Eighteenth Century French Novels](https://data.mimotext.uni-trier.de)
+- [MiMoText SPARQL endpoint (Query Service)](https://query.mimotext.uni-trier.de) and [Example query: Overview of our controlled vocabularies](https://query.mimotext.uni-trier.de/#%23Overview%20over%20our%20controlled%20vocabulary%0A%23title%3AOverview%20over%20controlled%20vocabularies%0A%23%20Query%20to%20retrieve%20the%20different%20controlled%20vocabularies%0APREFIX%20mmd%3A%20%3Chttp%3A%2F%2Fdata.mimotext.uni-trier.de%2Fentity%2F%3E%0APREFIX%20mmdt%3A%20%3Chttp%3A%2F%2Fdata.mimotext.uni-trier.de%2Fprop%2Fdirect%2F%3E%0A%0ASELECT%20%3Fvoc%20%3FvocLabel%20%28COUNT%28%3FvocLabel%29%20as%20%3Fcount%29%20%28COUNT%28%3Fwikimatch%29%20as%20%3Fwikimatch%29%0AWHERE%20%7B%0A%20%20%20%3Fitem%20mmdt%3AP37%20%3Fvoc.%0A%20%20%20%3Fvoc%20mmdt%3AP2%2Fmmdt%3AP1%20mmd%3AQ17.%0A%20%20%20OPTIONAL%7B%0A%20%20%20%20%20values%20%3Fwiki%20%7Bmmdt%3AP13%20mmdt%3AP16%7D%0A%20%20%20%20%20%3Fitem%20%3Fwiki%20%3Fwikimatch%7D%0A%20%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22.%20%7D%0A%20%20%7D%0AGROUP%20BY%20%3Fvoc%20%3FvocLabel%0AORDER%20BY%20DESC%28%3Fcount%298)
+- [MiMoTextBase Tutorial: How to query the graph and an introduction to SPARQL] https://docs.mimotext.uni-trier.de)
+- [MiMoText ontology](https://github.com/MiMoText/ontology)
+
 
